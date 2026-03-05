@@ -1,0 +1,9 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "開國紀念日" },
+  { "name": "Lunar New Year", "date": "2026-02-17", "localName": "農曆新年" },
+  { "name": "Peace Memorial Day", "date": "2026-02-28", "localName": "和平紀念日" },
+  { "name": "Children's Day", "date": "2026-04-04", "localName": "兒童節" },
+  { "name": "Dragon Boat Festival", "date": "2026-06-19", "localName": "端午節" },
+  { "name": "Mid-Autumn Festival", "date": "2026-09-25", "localName": "中秋節" },
+  { "name": "National Day", "date": "2026-10-10", "localName": "國慶日" }
+]

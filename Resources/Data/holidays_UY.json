@@ -1,0 +1,9 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Año Nuevo" },
+  { "name": "Carnival", "date": "2026-02-16", "localName": "Carnaval" },
+  { "name": "Independence Day", "date": "2026-08-25", "localName": "Día de la Independencia" },
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Día de los Trabajadores" },
+  { "name": "Constitution Day", "date": "2026-07-18", "localName": "Día de la Constitución" },
+  { "name": "All Souls' Day", "date": "2026-11-02", "localName": "Día de los Difuntos" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Navidad" }
+]

@@ -1,0 +1,10 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Aso o le Tausaga Fou" },
+  { "name": "Good Friday", "date": "2026-04-03", "localName": "Aso Faraile Paia" },
+  { "name": "Easter Monday", "date": "2026-04-06", "localName": "Aso Gafua o le Eseta" },
+  { "name": "Independence Day", "date": "2026-06-01", "localName": "Aso Tuto'atasi" },
+  { "name": "Mother's Day", "date": "2026-05-10", "localName": "Aso o Tina" },
+  { "name": "White Sunday", "date": "2026-10-11", "localName": "Aso Sa Paʻepaʻe" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Aso Kerisimasi" },
+  { "name": "Boxing Day", "date": "2026-12-26", "localName": "Aso Fusuaga" }
+]

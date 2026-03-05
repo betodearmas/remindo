@@ -1,0 +1,11 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Nieuwjaarsdag" },
+  { "name": "Good Friday", "date": "2026-04-03", "localName": "Goede Vrijdag" },
+  { "name": "Easter Monday", "date": "2026-04-06", "localName": "Tweede Paasdag" },
+  { "name": "King's Day", "date": "2026-04-27", "localName": "Koningsdag" },
+  { "name": "Liberation Day", "date": "2026-05-05", "localName": "Bevrijdingsdag" },
+  { "name": "Ascension Day", "date": "2026-05-14", "localName": "Hemelvaartsdag" },
+  { "name": "Whit Monday", "date": "2026-05-25", "localName": "Tweede Pinksterdag" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Eerste Kerstdag" },
+  { "name": "Second Day of Christmas", "date": "2026-12-26", "localName": "Tweede Kerstdag" }
+]

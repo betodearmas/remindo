@@ -1,0 +1,10 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Taom-baovao" },
+  { "name": "International Women's Day", "date": "2026-03-08", "localName": "Andro iraisam-pirenena ho an'ny vehivavy" },
+  { "name": "Easter Monday", "date": "2026-04-06", "localName": "Alatsinainy Paska" },
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Fetin'ny Asa" },
+  { "name": "Independence Day", "date": "2026-06-26", "localName": "Fetin'ny Fahaleovantena" },
+  { "name": "Assumption Day", "date": "2026-08-15", "localName": "Asompsiona" },
+  { "name": "All Saints' Day", "date": "2026-11-01", "localName": "Fetin'ny Olomasina Rehetra" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Krismasy" }
+]

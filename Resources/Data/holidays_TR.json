@@ -1,0 +1,9 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Yılbaşı" },
+  { "name": "National Sovereignty and Children's Day", "date": "2026-04-23", "localName": "Ulusal Egemenlik ve Çocuk Bayramı" },
+  { "name": "Labour and Solidarity Day", "date": "2026-05-01", "localName": "Emek ve Dayanışma Günü" },
+  { "name": "Youth and Sports Day", "date": "2026-05-19", "localName": "Atatürk'ü Anma, Gençlik ve Spor Bayramı" },
+  { "name": "Victory Day", "date": "2026-08-30", "localName": "Zafer Bayramı" },
+  { "name": "Republic Day", "date": "2026-10-29", "localName": "Cumhuriyet Bayramı" },
+  { "name": "Eid al-Fitr", "date": "2026-03-20", "localName": "Ramazan Bayramı" }
+]

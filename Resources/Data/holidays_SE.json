@@ -1,0 +1,8 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Nyårsdagen" },
+  { "name": "Epiphany", "date": "2026-01-06", "localName": "Trettondedag jul" },
+  { "name": "Good Friday", "date": "2026-04-03", "localName": "Långfredagen" },
+  { "name": "National Day", "date": "2026-06-06", "localName": "Sveriges nationaldag" },
+  { "name": "Midsummer Day", "date": "2026-06-20", "localName": "Midsommardagen" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Juldagen" }
+]

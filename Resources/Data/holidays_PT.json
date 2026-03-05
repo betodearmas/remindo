@@ -1,0 +1,9 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Ano Novo" },
+  { "name": "Good Friday", "date": "2026-04-03", "localName": "Sexta-feira Santa" },
+  { "name": "Freedom Day", "date": "2026-04-25", "localName": "Dia da Liberdade" },
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Dia do Trabalhador" },
+  { "name": "Portugal Day", "date": "2026-06-10", "localName": "Dia de Portugal" },
+  { "name": "Republic Day", "date": "2026-10-05", "localName": "Implantação da República" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Natal" }
+]

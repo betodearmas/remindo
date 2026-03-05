@@ -1,0 +1,9 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "နှစ်သစ်ကူးနေ့" },
+  { "name": "Independence Day", "date": "2026-01-04", "localName": "လွတ်လပ်ရေးနေ့" },
+  { "name": "Union Day", "date": "2026-02-12", "localName": "ပြည်ထောင်စုနေ့" },
+  { "name": "Armed Forces Day", "date": "2026-03-27", "localName": "တပ်မတော်နေ့" },
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "အလုပ်သမားနေ့" },
+  { "name": "Martyrs' Day", "date": "2026-07-19", "localName": "အာဇာနည်နေ့" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "ခရစ္စမတ်နေ့" }
+]

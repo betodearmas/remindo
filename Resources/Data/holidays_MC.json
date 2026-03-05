@@ -1,0 +1,8 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Jour de l'An" },
+  { "name": "St. Devota's Day", "date": "2026-01-27", "localName": "Sainte Dévote" },
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Fête du Travail" },
+  { "name": "National Day", "date": "2026-11-19", "localName": "Fête Nationale" },
+  { "name": "Immaculate Conception", "date": "2026-12-08", "localName": "Immaculée Conception" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Noël" }
+]

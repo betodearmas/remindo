@@ -1,0 +1,10 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "New Year's Day" },
+  { "name": "Human Rights Day", "date": "2026-03-21", "localName": "Human Rights Day" },
+  { "name": "Good Friday", "date": "2026-04-03", "localName": "Good Friday" },
+  { "name": "Freedom Day", "date": "2026-04-27", "localName": "Freedom Day" },
+  { "name": "Workers' Day", "date": "2026-05-01", "localName": "Workers' Day" },
+  { "name": "Heritage Day", "date": "2026-09-24", "localName": "Heritage Day" },
+  { "name": "Day of Reconciliation", "date": "2026-12-16", "localName": "Day of Reconciliation" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Christmas Day" }
+]

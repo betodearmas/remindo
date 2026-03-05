@@ -1,0 +1,9 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "New Year's Day" },
+  { "name": "Youth Day", "date": "2026-03-15", "localName": "Youth Day" },
+  { "name": "Constitution Day", "date": "2026-07-09", "localName": "Constitution Day" },
+  { "name": "Labor Day", "date": "2026-09-07", "localName": "Labor Day" },
+  { "name": "Independence Day", "date": "2026-10-01", "localName": "Independence Day" },
+  { "name": "Thanksgiving Day", "date": "2026-11-26", "localName": "Thanksgiving Day" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Christmas Day" }
+]

@@ -1,0 +1,10 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Anul Nou" },
+  { "name": "Unification Day", "date": "2026-01-24", "localName": "Ziua Unirii Principatelor Române" },
+  { "name": "Good Friday", "date": "2026-04-03", "localName": "Vinerea Mare" },
+  { "name": "Easter Sunday", "date": "2026-04-05", "localName": "Paștele" },
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Ziua Muncii" },
+  { "name": "Children's Day", "date": "2026-06-01", "localName": "Ziua Copilului" },
+  { "name": "National Day", "date": "2026-12-01", "localName": "Ziua Națională a României" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Crăciunul" }
+]

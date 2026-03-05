@@ -1,0 +1,9 @@
+[
+  { "name": "Revolution and Youth Day", "date": "2026-01-14", "localName": "عيد الثورة" },
+  { "name": "Independence Day", "date": "2026-03-20", "localName": "عيد الاستقلال" },
+  { "name": "Martyrs' Day", "date": "2026-04-09", "localName": "عيد الشهداء" },
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "عيد الشغل" },
+  { "name": "Republic Day", "date": "2026-07-25", "localName": "عيد الجمهورية" },
+  { "name": "Eid al-Fitr", "date": "2026-03-20", "localName": "عيد الفطر" },
+  { "name": "Eid al-Adha", "date": "2026-05-27", "localName": "عيد الأضحى" }
+]

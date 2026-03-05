@@ -1,0 +1,9 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Novo leto" },
+  { "name": "Prešeren Day", "date": "2026-02-08", "localName": "Prešernov dan" },
+  { "name": "Easter Sunday", "date": "2026-04-05", "localName": "Velika noč" },
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Praznik dela" },
+  { "name": "Statehood Day", "date": "2026-06-25", "localName": "Dan državnosti" },
+  { "name": "Reformation Day", "date": "2026-10-31", "localName": "Dan reformacije" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Božič" }
+]

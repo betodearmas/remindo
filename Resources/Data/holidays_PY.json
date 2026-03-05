@@ -1,0 +1,8 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Año Nuevo" },
+  { "name": "Heroes' Day", "date": "2026-03-01", "localName": "Día de los Héroes" },
+  { "name": "Good Friday", "date": "2026-04-03", "localName": "Viernes Santo" },
+  { "name": "Independence Day", "date": "2026-05-14", "localName": "Día de la Independencia" },
+  { "name": "Chaco Armistice Day", "date": "2026-06-12", "localName": "Día de la Paz del Chaco" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Navidad" }
+]

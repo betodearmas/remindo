@@ -1,0 +1,9 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Año Nuevo" },
+  { "name": "Constitution Day", "date": "2026-02-02", "localName": "Día de la Constitución" },
+  { "name": "Benito Juárez Day", "date": "2026-03-16", "localName": "Natalicio de Benito Juárez" },
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Día del Trabajo" },
+  { "name": "Independence Day", "date": "2026-09-16", "localName": "Día de la Independencia" },
+  { "name": "Revolution Day", "date": "2026-11-16", "localName": "Día de la Revolución" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Navidad" }
+]

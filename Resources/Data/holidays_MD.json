@@ -1,0 +1,10 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Anul Nou" },
+  { "name": "Orthodox Christmas Day", "date": "2026-01-07", "localName": "Crăciun pe rit vechi" },
+  { "name": "International Women's Day", "date": "2026-03-08", "localName": "Ziua Internațională a Femeii" },
+  { "name": "Easter Monday", "date": "2026-04-06", "localName": "A doua zi de Paște" },
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Ziua Muncii" },
+  { "name": "Independence Day", "date": "2026-08-27", "localName": "Ziua Independenței" },
+  { "name": "Language Day", "date": "2026-08-31", "localName": "Limba Noastră" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Crăciun" }
+]

@@ -1,0 +1,8 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Jour de l'An" },
+  { "name": "Independence Day", "date": "2026-04-04", "localName": "Fête de l'Indépendance" },
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Fête du Travail" },
+  { "name": "Eid al-Fitr", "date": "2026-03-20", "localName": "Korité" },
+  { "name": "Eid al-Adha", "date": "2026-05-27", "localName": "Tabaski" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Noël" }
+]
