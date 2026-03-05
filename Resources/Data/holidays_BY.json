@@ -1,0 +1,11 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Новы год" },
+  { "name": "Orthodox Christmas", "date": "2026-01-07", "localName": "Раждство" },
+  { "name": "Defender of the Fatherland Day", "date": "2026-02-23", "localName": "Дзень абаронцаў Айчыны" },
+  { "name": "International Women's Day", "date": "2026-03-08", "localName": "Міжнародны жаночы дзень" },
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Дзень працы" },
+  { "name": "Victory Day", "date": "2026-05-09", "localName": "Дзень Перамогі" },
+  { "name": "Independence Day", "date": "2026-07-03", "localName": "Дзень Незалежнасці" },
+  { "name": "October Revolution Day", "date": "2026-11-07", "localName": "Дзень Вялікай Кастрычніцкай Сацыялістычнай Рэвалюцыі" },
+  { "name": "Christmas (Orthodox)", "date": "2026-12-25", "localName": "Раждство" }
+]

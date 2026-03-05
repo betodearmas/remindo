@@ -1,0 +1,12 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Nový rok" },
+  { "name": "Easter Monday", "date": "2026-04-06", "localName": "Velikonoční pondělí" },
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Svátek práce" },
+  { "name": "Liberation Day", "date": "2026-05-08", "localName": "Den vítězství" },
+  { "name": "Saints Cyril and Methodius Day", "date": "2026-07-05", "localName": "Den slovanských věrozvěstů Cyrila a Metoděje" },
+  { "name": "Jan Hus Day", "date": "2026-07-06", "localName": "Den upálení mistra Jana Husa" },
+  { "name": "Czech Statehood Day", "date": "2026-09-28", "localName": "Den české státnosti" },
+  { "name": "Independent Czechoslovak State Day", "date": "2026-10-28", "localName": "Den vzniku samostatného Československa" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "1. svátek vánoční" },
+  { "name": "St. Stephen's Day", "date": "2026-12-26", "localName": "2. svátek vánoční" }
+]

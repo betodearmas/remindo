@@ -1,0 +1,9 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Año Nuevo" },
+  { "name": "Carnival", "date": "2026-02-16", "localName": "Carnaval" },
+  { "name": "Good Friday", "date": "2026-04-03", "localName": "Viernes Santo" },
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Día del Trabajo" },
+  { "name": "Battle of Pichincha", "date": "2026-05-24", "localName": "Batalla de Pichincha" },
+  { "name": "Independence Day", "date": "2026-08-10", "localName": "Independencia" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Navidad" }
+]

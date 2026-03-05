@@ -1,0 +1,13 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Πρωτοχρονιά" },
+  { "name": "Epiphany", "date": "2026-01-06", "localName": "Θεοφάνεια" },
+  { "name": "Clean Monday", "date": "2026-02-23", "localName": "Καθαρά Δευτέρα" },
+  { "name": "Independence Day", "date": "2026-03-25", "localName": "Εικοστή Πέμπτη Μαρτίου" },
+  { "name": "Good Friday (Orthodox)", "date": "2026-04-10", "localName": "Μεγάλη Παρασκευή" },
+  { "name": "Easter Monday (Orthodox)", "date": "2026-04-13", "localName": "Δευτέρα του Πάσχα" },
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Πρωτομαγιά" },
+  { "name": "Assumption Day", "date": "2026-08-15", "localName": "Κοίμηση της Θεοτόκου" },
+  { "name": "Ohi Day", "date": "2026-10-28", "localName": "Ημέρα του Όχι" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Χριστούγεννα" },
+  { "name": "Synaxis of the Mother of God", "date": "2026-12-26", "localName": "Σύναξη της Θεοτόκου" }
+]

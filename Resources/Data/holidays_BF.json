@@ -1,0 +1,7 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Jour de l'An" },
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Fête du Travail" },
+  { "name": "Assumption Day", "date": "2026-08-15", "localName": "Assomption" },
+  { "name": "All Saints' Day", "date": "2026-11-01", "localName": "Toussaint" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Noël" }
+]

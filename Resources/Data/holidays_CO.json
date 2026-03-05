@@ -1,0 +1,8 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Año Nuevo" },
+  { "name": "Epiphany", "date": "2026-01-06", "localName": "Día de los Reyes Magos" },
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Día del Trabajo" },
+  { "name": "Independence Day", "date": "2026-07-20", "localName": "Día de la Independencia" },
+  { "name": "Battle of Boyacá", "date": "2026-08-07", "localName": "Batalla de Boyacá" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Navidad" }
+]

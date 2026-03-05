@@ -1,0 +1,14 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Yeni il" },
+  { "name": "International Women's Day", "date": "2026-03-08", "localName": "Qadınlar Günü" },
+  { "name": "Novruz Bayram", "date": "2026-03-20", "localName": "Novruz Bayramı" },
+  { "name": "Novruz Holiday", "date": "2026-03-21", "localName": "Novruz Bayramı" },
+  { "name": "Novruz Holiday", "date": "2026-03-22", "localName": "Novruz Bayramı" },
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Əmək günü" },
+  { "name": "Republic Day", "date": "2026-05-28", "localName": "Respublika günü" },
+  { "name": "National Salvation Day", "date": "2026-06-15", "localName": "Milli Qurtuluş Günü" },
+  { "name": "Independence Day", "date": "2026-10-18", "localName": "Müstəqillik günü" },
+  { "name": "Constitution Day", "date": "2026-11-12", "localName": "Konstitusiya günü" },
+  { "name": "Victory Day", "date": "2026-11-08", "localName": "Qələbə günü" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Milad" }
+]

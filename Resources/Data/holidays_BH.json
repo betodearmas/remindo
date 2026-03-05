@@ -1,0 +1,9 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "New Year’s Day" },
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Labour Day" },
+  { "name": "Eid al-Fitr", "date": "2026-03-20", "localName": "Eid al-Fitr" },
+  { "name": "Eid al-Fitr Holiday", "date": "2026-03-21", "localName": "Eid al-Fitr Holiday" },
+  { "name": "Eid al-Fitr Holiday", "date": "2026-03-22", "localName": "Eid al-Fitr Holiday" },
+  { "name": "National Day", "date": "2026-12-16", "localName": "National Day" },
+  { "name": "Prophet Muhammad's Birthday", "date": "2026-08-26", "localName": "Mawlid al-Nabi" }
+]  

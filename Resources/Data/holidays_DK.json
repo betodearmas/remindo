@@ -1,0 +1,13 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Nytårsdag" },
+  { "name": "Maundy Thursday", "date": "2026-04-02", "localName": "Skærtorsdag" },
+  { "name": "Good Friday", "date": "2026-04-03", "localName": "Langfredag" },
+  { "name": "Easter Sunday", "date": "2026-04-05", "localName": "Påskedag" },
+  { "name": "Easter Monday", "date": "2026-04-06", "localName": "2. Påskedag" },
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Arbejdernes Internationale Kampdag" },
+  { "name": "Ascension Day", "date": "2026-05-14", "localName": "Kristi Himmelfartsdag" },
+  { "name": "Whit Monday", "date": "2026-05-25", "localName": "2. Pinsedag" },
+  { "name": "Constitution Day", "date": "2026-06-05", "localName": "Grundlovsdag" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Juledag" },
+  { "name": "Second Day of Christmas", "date": "2026-12-26", "localName": "Anden Juledag" }
+]

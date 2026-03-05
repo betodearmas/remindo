@@ -1,0 +1,9 @@
+[
+  { "name": "Republic Day", "date": "2026-01-26", "localName": "गणतंत्र दिवस" },
+  { "name": "Holi", "date": "2026-03-04", "localName": "होली" },
+  { "name": "Good Friday", "date": "2026-04-03", "localName": "गुड फ्राइडे" },
+  { "name": "Independence Day", "date": "2026-08-15", "localName": "स्वतंत्रता दिवस" },
+  { "name": "Gandhi Jayanti", "date": "2026-10-02", "localName": "गांधी जयंती" },
+  { "name": "Diwali", "date": "2026-11-08", "localName": "दीवाली" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "क्रिसमस" }
+]

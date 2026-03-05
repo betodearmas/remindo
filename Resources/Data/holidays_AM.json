@@ -1,0 +1,9 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Նոր Տարի" },
+  { "name": "Christmas Day", "date": "2026-01-06", "localName": "Ձմեռ պապի օր" },
+  { "name": "International Women's Day", "date": "2026-03-08", "localName": "Մարտի 8" },
+  { "name": "Easter Sunday", "date": "2026-04-05", "localName": "Զատիկ" },
+  { "name": "Labor Day", "date": "2026-05-01", "localName": "Աշխատանքի օր" },
+  { "name": "Republic Day", "date": "2026-05-28", "localName": "Հանրապետության օր" },
+  { "name": "Independence Day", "date": "2026-09-21", "localName": "Անկախության օր" }
+]

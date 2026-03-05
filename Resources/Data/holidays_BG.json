@@ -1,0 +1,12 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Нова година" },
+  { "name": "Liberation Day", "date": "2026-03-03", "localName": "Освобождение на България" },
+  { "name": "Good Friday", "date": "2026-04-03", "localName": "Разпети петък" },
+  { "name": "Easter Sunday", "date": "2026-04-05", "localName": "Великден" },
+  { "name": "Labor Day", "date": "2026-05-01", "localName": "Ден на труда" },
+  { "name": "Saints Cyril and Methodius Day", "date": "2026-05-24", "localName": "Ден на българската просвета и култура" },
+  { "name": "Unification Day", "date": "2026-09-06", "localName": "Ден на Съединението" },
+  { "name": "Independence Day", "date": "2026-09-22", "localName": "Ден на независимостта" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Коледа" },
+  { "name": "Second Day of Christmas", "date": "2026-12-26", "localName": "Стефанов ден" }
+]

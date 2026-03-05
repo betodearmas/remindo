@@ -1,0 +1,10 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Nova Godina" },
+  { "name": "Epiphany", "date": "2026-01-06", "localName": "Bogojavljenje" },
+  { "name": "Easter Sunday", "date": "2026-04-05", "localName": "Uskrs" },
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Praznik rada" },
+  { "name": "Statehood Day", "date": "2026-06-25", "localName": "Dan državnosti" },
+  { "name": "Independence Day", "date": "2026-10-08", "localName": "Dan neovisnosti" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Božić" },
+  { "name": "St. Stephen's Day", "date": "2026-12-26", "localName": "Sveti Stjepan" }
+]

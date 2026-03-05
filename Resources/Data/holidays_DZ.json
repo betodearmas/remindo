@@ -1,0 +1,9 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Jour de l'An" },
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Fête du Travail" },
+  { "name": "Independence Day", "date": "2026-07-05", "localName": "Fête de l'Indépendance" },
+  { "name": "Revolution Day", "date": "2026-11-01", "localName": "Fête de la Révolution" },
+  { "name": "Islamic New Year", "date": "2026-07-17", "localName": "Ras as-Sanah al-Hijriyah" },
+  { "name": "Eid al-Fitr", "date": "2026-03-20", "localName": "Aïd el-Fitr" },
+  { "name": "Eid al-Adha", "date": "2026-05-27", "localName": "Aïd al-Adha" }
+]

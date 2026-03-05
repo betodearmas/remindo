@@ -1,0 +1,8 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Πρωτοχρονιά" },
+  { "name": "Greek Orthodox Good Friday", "date": "2026-04-03", "localName": "Μεγάλη Παρασκευή" },
+  { "name": "Easter Sunday", "date": "2026-04-05", "localName": "Πάσχα" },
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Εργατική Πρωτομαγιά" },
+  { "name": "Cyprus Independence Day", "date": "2026-10-01", "localName": "Ημέρα Ανεξαρτησίας" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Χριστούγεννα" }
+]

@@ -1,0 +1,9 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "New Year's Day" },
+  { "name": "Chinese New Year", "date": "2026-02-17", "localName": "Chinese New Year" },
+  { "name": "National Day", "date": "2026-02-23", "localName": "Hari Kebangsaan" },
+  { "name": "Hari Raya Aidilfitri", "date": "2026-03-20", "localName": "Hari Raya Aidilfitri" },
+  { "name": "Hari Raya Aidilfitri Holiday", "date": "2026-03-21", "localName": "Hari Raya Aidilfitri Holiday" },
+  { "name": "Hari Raya Aidilfitri Holiday", "date": "2026-03-22", "localName": "Hari Raya Aidilfitri Holiday" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Christmas Day" }
+]

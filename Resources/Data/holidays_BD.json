@@ -1,0 +1,12 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "নববর্ষ" },
+  { "name": "International Mother Language Day", "date": "2026-02-21", "localName": "আন্তর্জাতিক মাতৃভাষা দিবস" },
+  { "name": "Independence Day", "date": "2026-03-26", "localName": "স্বাধীনতা দিবস" },
+  { "name": "Bengali New Year", "date": "2026-04-14", "localName": "বাংলা নববর্ষ" },
+  { "name": "May Day", "date": "2026-05-01", "localName": "মেজ দিবস" },
+  { "name": "Eid al-Fitr", "date": "2026-03-20", "localName": "ঈদুল ফিতর" },
+  { "name": "Eid al-Adha", "date": "2026-05-27", "localName": "ঈদুল আযহা" },
+  { "name": "National Mourning Day", "date": "2026-08-15", "localName": "জাতীয় শোক দিবস" },
+  { "name": "Victory Day", "date": "2026-12-16", "localName": "বিজয় দিবস" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "বড়দিন" }
+]

@@ -1,0 +1,18 @@
+[
+  { "name": "Liberation Day", "date": "2026-02-15", "localName": "Liberation Day" },
+  { "name": "First Day of Ramadan", "date": "2026-02-18", "localName": "First Day of Ramadan" },
+  { "name": "Eid al-Fitr", "date": "2026-03-20", "localName": "Eid al-Fitr" },
+  { "name": "Eid al-Fitr Holiday", "date": "2026-03-21", "localName": "Eid al-Fitr Holiday" },
+  { "name": "Eid al-Fitr Holiday", "date": "2026-03-22", "localName": "Eid al-Fitr Holiday" },
+  { "name": "Afghan Victory Day", "date": "2026-04-28", "localName": "Afghan Victory Day" },
+  { "name": "Labor Day", "date": "2026-05-01", "localName": "Labor Day" },
+  { "name": "Day of Arafat", "date": "2026-05-26", "localName": "Day of Arafat" },
+  { "name": "Eid al-Adha", "date": "2026-05-27", "localName": "Eid al-Adha" },
+  { "name": "Eid al-Adha Holiday", "date": "2026-05-28", "localName": "Eid al-Adha Holiday" },
+  { "name": "Eid al-Adha Holiday", "date": "2026-05-29", "localName": "Eid al-Adha Holiday" },
+  { "name": "Ashura", "date": "2026-06-26", "localName": "Ashura" },
+  { "name": "Independence Day", "date": "2026-08-19", "localName": "Independence Day" },
+  { "name": "The Prophet's Birthday", "date": "2026-08-26", "localName": "The Prophet's Birthday" },
+  { "name": "Anniversary of the Withdrawal of Foreign Troops", "date": "2026-08-31", "localName": "Anniversary of the Withdrawal of Foreign Troops" },
+  { "name": "Martyrs and Ahmad Shah Masoud Day", "date": "2026-09-09", "localName": "Martyrs and Ahmad Shah Masoud Day" }
+]

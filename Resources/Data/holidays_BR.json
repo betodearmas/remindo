@@ -1,0 +1,11 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Confraternização Universal" },
+  { "name": "Tiradentes Day", "date": "2026-04-21", "localName": "Tiradentes" },
+  { "name": "Good Friday", "date": "2026-04-03", "localName": "Sexta-feira Santa" },
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Dia do Trabalhador" },
+  { "name": "Independence Day", "date": "2026-09-07", "localName": "Independência do Brasil" },
+  { "name": "Our Lady of Aparecida", "date": "2026-10-12", "localName": "Nossa Senhora Aparecida" },
+  { "name": "All Souls' Day", "date": "2026-11-02", "localName": "Finados" },
+  { "name": "Republic Day", "date": "2026-11-15", "localName": "Proclamação da República" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Natal" }
+]

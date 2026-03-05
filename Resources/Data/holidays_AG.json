@@ -1,0 +1,8 @@
+    [
+      { "name": "New Year's Day", "date": "2026-01-01", "localName": "New Year's Day" },
+      { "name": "Labour Day", "date": "2026-05-01", "localName": "Labour Day" },
+      { "name": "Whit Monday", "date": "2026-05-25", "localName": "Whit Monday" },
+      { "name": "Independence Day", "date": "2026-11-01", "localName": "Independence Day" },
+      { "name": "Christmas Day", "date": "2026-12-25", "localName": "Christmas Day" },
+      { "name": "Boxing Day", "date": "2026-12-26", "localName": "Boxing Day" }
+    ]

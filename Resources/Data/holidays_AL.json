@@ -1,0 +1,10 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Viti i Ri" },
+  { "name": "Summer Day", "date": "2026-03-14", "localName": "Dita e Verës" },
+  { "name": "Nevruz Day", "date": "2026-03-22", "localName": "Dita e Nevruzit" },
+  { "name": "Labor Day", "date": "2026-05-01", "localName": "Dita e Punës" },
+  { "name": "Mother Teresa Day", "date": "2026-09-05", "localName": "Dita e Nënë Terezës" },
+  { "name": "Independence Day", "date": "2026-11-28", "localName": "Dita e Pavarësisë" },
+  { "name": "Liberation Day", "date": "2026-11-29", "localName": "Dita e Çlirimit" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Krishlindjet" }
+]
