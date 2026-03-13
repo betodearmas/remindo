@@ -1,0 +1,22 @@
+[
+  { "name": "Ethiopian Christmas (Genna)", "date": "2026-01-07", "localName": "ገና", "category": "public_holiday" },
+  { "name": "Timkat (Ethiopian Epiphany)", "date": "2026-01-19", "localName": "ጥምቀት", "category": "public_holiday" },
+  { "name": "New Year's Day (Gregorian)", "date": "2026-01-01", "localName": "አዲስ አመት (ጎርጎሮሳዊ)", "category": "observance" },
+  { "name": "Adwa Victory Day", "date": "2026-03-02", "localName": "የአድዋ ድል ቀን", "category": "public_holiday" },
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "የፀደይ እኩልሌሊት", "category": "seasonal" },
+  { "name": "Eid al-Fitr", "date": "2026-03-20", "localName": "ኢድ አልፈጥር", "category": "public_holiday" },
+  { "name": "Ethiopian Good Friday (Siklet)", "date": "2026-04-10", "localName": "ስቅለት", "category": "public_holiday" },
+  { "name": "Fasika (Ethiopian Easter)", "date": "2026-04-12", "localName": "ፋሲካ", "category": "public_holiday" },
+  { "name": "Day after Fasika", "date": "2026-04-13", "localName": "ከፋሲካ በኋላ ያለው ቀን", "category": "public_holiday" },
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "የሠራተኞች ቀን", "category": "public_holiday" },
+  { "name": "Patriots' Victory Day", "date": "2026-05-05", "localName": "የአርበኞች ቀን", "category": "public_holiday" },
+  { "name": "Downfall of the Derg", "date": "2026-05-28", "localName": "የደርግ መወገድ ቀን", "category": "public_holiday" },
+  { "name": "Eid al-Adha", "date": "2026-05-27", "localName": "ኢድ አልአድሃ", "category": "public_holiday" },
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "የክረምት ሶልስቲስ", "category": "seasonal" },
+  { "name": "Prophet's Birthday", "date": "2026-08-26", "localName": "የነቢዩ ሙሐመድ የልደት ቀን", "category": "public_holiday" },
+  { "name": "Ethiopian New Year (Enkutatash)", "date": "2026-09-11", "localName": "እንቁጣጣሽ", "category": "public_holiday" },
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "የመኸር እኩልሌሊት", "category": "seasonal" },
+  { "name": "Meskel (Finding of the True Cross)", "date": "2026-09-27", "localName": "መስቀል", "category": "public_holiday" },
+  { "name": "Day after Meskel (observed)", "date": "2026-09-28", "localName": "ከመስቀል በኋላ ያለው ቀን", "category": "public_holiday" },
+  { "name": "December Solstice", "date": "2026-12-21", "localName": "የክረምት ሶልስቲስ", "category": "seasonal" }
+]

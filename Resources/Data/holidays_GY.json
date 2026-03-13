@@ -1,0 +1,13 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "New Year's Day" },
+  { "name": "Republic Day", "date": "2026-02-23", "localName": "Republic Day" },
+  { "name": "Phagwah", "date": "2026-03-03", "localName": "Phagwah" },
+  { "name": "Good Friday", "date": "2026-04-03", "localName": "Good Friday" },
+  { "name": "Easter Monday", "date": "2026-04-06", "localName": "Easter Monday" },
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Labour Day" },
+  { "name": "Independence Day", "date": "2026-05-26", "localName": "Independence Day" },
+  { "name": "Emancipation Day", "date": "2026-08-01", "localName": "Emancipation Day" },
+  { "name": "Diwali", "date": "2026-11-08", "localName": "Diwali" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Christmas Day" },
+  { "name": "Boxing Day", "date": "2026-12-26", "localName": "Boxing Day" }
+]

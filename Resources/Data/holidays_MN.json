@@ -1,0 +1,8 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Шинэ жил" },
+  { "name": "Tsagaan Sar", "date": "2026-02-17", "localName": "Цагаан сар" },
+  { "name": "International Women's Day", "date": "2026-03-08", "localName": "Олон улсын эмэгтэйчүүдийн өдөр" },
+  { "name": "Children's Day", "date": "2026-06-01", "localName": "Хүүхдийн баяр" },
+  { "name": "Naadam Holiday", "date": "2026-07-11", "localName": "Наадам" },
+  { "name": "Independence Day", "date": "2026-12-29", "localName": "Тусгаар тогтнолын өдөр" }
+]

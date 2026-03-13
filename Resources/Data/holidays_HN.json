@@ -1,0 +1,12 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Año Nuevo" },
+  { "name": "Maundy Thursday", "date": "2026-04-02", "localName": "Jueves Santo" },
+  { "name": "Good Friday", "date": "2026-04-03", "localName": "Viernes Santo" },
+  { "name": "America Day", "date": "2026-04-14", "localName": "Día de las Américas" },
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Día del Trabajador" },
+  { "name": "Independence Day", "date": "2026-09-15", "localName": "Día de la Independencia" },
+  { "name": "Morazán Day", "date": "2026-10-03", "localName": "Día de Morazán" },
+  { "name": "Discovery of America Day", "date": "2026-10-12", "localName": "Día de la Raza" },
+  { "name": "Army Day", "date": "2026-10-21", "localName": "Día de las Fuerzas Armadas" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Navidad" }
+]

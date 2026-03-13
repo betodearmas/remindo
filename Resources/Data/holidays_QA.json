@@ -1,0 +1,10 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "رأس السنة الميلادية" },
+  { "name": "National Sports Day", "date": "2026-02-10", "localName": "اليوم الرياضي للدولة" },
+  { "name": "Eid al-Fitr", "date": "2026-03-20", "localName": "عيد الفطر" },
+  { "name": "Eid al-Fitr Holiday", "date": "2026-03-21", "localName": "إجازة عيد الفطر" },
+  { "name": "Eid al-Fitr Holiday", "date": "2026-03-22", "localName": "إجازة عيد الفطر" },
+  { "name": "Eid al-Adha", "date": "2026-05-27", "localName": "عيد الأضحى" },
+  { "name": "Eid al-Adha Holiday", "date": "2026-05-28", "localName": "إجازة عيد الأضحى" },
+  { "name": "National Day", "date": "2026-12-18", "localName": "اليوم الوطني" }
+]

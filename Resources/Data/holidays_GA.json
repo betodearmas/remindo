@@ -1,0 +1,11 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Jour de l'An" },
+  { "name": "Easter Monday", "date": "2026-04-06", "localName": "Lundi de Pâques" },
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Fête du Travail" },
+  { "name": "Ascension Day", "date": "2026-05-14", "localName": "Ascension" },
+  { "name": "Whit Monday", "date": "2026-05-25", "localName": "Lundi de Pentecôte" },
+  { "name": "Independence Day", "date": "2026-08-17", "localName": "Fête de l'Indépendance" },
+  { "name": "Assumption Day", "date": "2026-08-15", "localName": "Assomption" },
+  { "name": "All Saints' Day", "date": "2026-11-01", "localName": "La Toussaint" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Noël" }
+]

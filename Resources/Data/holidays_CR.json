@@ -1,0 +1,28 @@
+[
+    
+    { "name": "New Year's Day", "date": "2026-01-01", "localName": "Año Nuevo", "category": "public_holiday" },
+    { "name": "March Equinox", "date": "2026-03-20", "localName": "Equinoccio de marzo", "category": "seasonal" },
+    { "name": "Palm Sunday", "date": "2026-03-29", "localName": "Domingo de Ramos", "category": "observance" },
+    { "name": "Holy Wednesday", "date": "2026-04-01", "localName": "Miércoles Santo", "category": "observance" },
+    { "name": "Maundy Thursday", "date": "2026-04-02", "localName": "Jueves Santo", "category": "public_holiday" },
+    { "name": "Good Friday", "date": "2026-04-03", "localName": "Viernes Santo", "category": "public_holiday" },
+    { "name": "Holy Saturday", "date": "2026-04-04", "localName": "Sábado Santo", "category": "observance" },
+    { "name": "Easter Sunday", "date": "2026-04-05", "localName": "Domingo de Resurrección", "category": "observance" },
+    { "name": "Juan Santamaría Day", "date": "2026-04-11", "localName": "Día de Juan Santamaría", "category": "public_holiday" },
+    { "name": "Labour Day", "date": "2026-05-01", "localName": "Día Internacional del Trabajo", "category": "public_holiday" },
+    { "name": "June Solstice", "date": "2026-06-21", "localName": "Solsticio de junio", "category": "seasonal" },
+    { "name": "Annexation of Guanacaste", "date": "2026-07-25", "localName": "Anexión del Partido de Nicoya a Costa Rica", "category": "public_holiday" },
+    { "name": "Our Lady of the Angels Day", "date": "2026-08-02", "localName": "Día de Nuestra Señora de los Ángeles", "category": "public_holiday" },
+    { "name": "Mother's Day / Assumption of Mary", "date": "2026-08-15", "localName": "Día de la Madre / Asunción de la Virgen", "category": "public_holiday" },
+    { "name": "Afro-Costa Rican Culture Day", "date": "2026-08-31", "localName": "Día de la Persona Negra y la Cultura Afrocostarricense", "category": "public_holiday" },
+    { "name": "Independence Day", "date": "2026-09-15", "localName": "Independencia de Costa Rica", "category": "public_holiday" },
+    { "name": "September Equinox", "date": "2026-09-22", "localName": "Equinoccio de septiembre", "category": "seasonal" },
+    { "name": "Abolition of the Army Day", "date": "2026-12-01", "localName": "Día de la Abolición del Ejército", "category": "public_holiday" },
+    { "name": "Immaculate Conception", "date": "2026-12-08", "localName": "Inmaculada Concepción", "category": "observance" },
+    { "name": "December Solstice", "date": "2026-12-21", "localName": "Solsticio de diciembre", "category": "seasonal" },
+    { "name": "Christmas Eve", "date": "2026-12-24", "localName": "Nochebuena", "category": "observance" },
+    { "name": "Christmas Day", "date": "2026-12-25", "localName": "Navidad", "category": "public_holiday" },
+    { "name": "New Year's Eve", "date": "2026-12-31", "localName": "Fin de Año", "category": "observance" }
+
+]
+ 

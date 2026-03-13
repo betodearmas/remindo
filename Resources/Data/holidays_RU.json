@@ -1,0 +1,9 @@
+[
+  { "name": "New Year Holiday", "date": "2026-01-01", "localName": "Новогодние каникулы" },
+  { "name": "Defender of the Fatherland Day", "date": "2026-02-23", "localName": "День защитника Отечества" },
+  { "name": "International Women's Day", "date": "2026-03-08", "localName": "Международный женский день" },
+  { "name": "Spring and Labour Day", "date": "2026-05-01", "localName": "Праздник Весны и Труда" },
+  { "name": "Victory Day", "date": "2026-05-09", "localName": "День Победы" },
+  { "name": "Russia Day", "date": "2026-06-12", "localName": "День России" },
+  { "name": "National Unity Day", "date": "2026-11-04", "localName": "День народного единства" }
+]

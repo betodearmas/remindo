@@ -1,0 +1,12 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "ახალი წელი" },
+  { "name": "Orthodox Christmas Day", "date": "2026-01-07", "localName": "შობა" },
+  { "name": "Epiphany", "date": "2026-01-19", "localName": "ნათლისღება" },
+  { "name": "Mother's Day", "date": "2026-03-03", "localName": "დედის დღე" },
+  { "name": "Independence Restoration Day", "date": "2026-04-09", "localName": "ეროვნული ერთიანობის დღე" },
+  { "name": "Orthodox Good Friday", "date": "2026-04-10", "localName": "წითელი პარასკევი" },
+  { "name": "Orthodox Easter Monday", "date": "2026-04-13", "localName": "აღდგომის ორშაბათი" },
+  { "name": "Independence Day", "date": "2026-05-26", "localName": "დამოუკიდებლობის დღე" },
+  { "name": "Saint Mary's Day", "date": "2026-08-28", "localName": "მარიამობა" },
+  { "name": "Svetitskhovloba", "date": "2026-10-14", "localName": "სვეტიცხოვლობა" }
+]

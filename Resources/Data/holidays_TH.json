@@ -1,0 +1,9 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "วันขึ้นปีใหม่" },
+  { "name": "Makha Bucha Day", "date": "2026-03-03", "localName": "วันมาฆบูชา" },
+  { "name": "Chakri Memorial Day", "date": "2026-04-06", "localName": "วันจักรี" },
+  { "name": "Songkran Festival", "date": "2026-04-13", "localName": "วันสงกรานต์" },
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "วันแรงงานแห่งชาติ" },
+  { "name": "King's Birthday", "date": "2026-07-28", "localName": "วันเฉลิมพระชนมพรรษา" },
+  { "name": "National Day", "date": "2026-12-05", "localName": "วันชาติ" }
+]

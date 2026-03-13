@@ -1,0 +1,22 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Viti i Ri", "category": "public_holiday" },
+  { "name": "Second Day of New Year", "date": "2026-01-02", "localName": "Dita e dytë e Vitit të Ri", "category": "public_holiday" },
+  { "name": "Summer Day", "date": "2026-03-14", "localName": "Dita e Verës", "category": "cultural" },
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "Ekuinoksi pranveror", "category": "seasonal" },
+  { "name": "Eid al-Fitr", "date": "2026-03-20", "localName": "Festa e Fitër Bajramit", "category": "religious" },
+  { "name": "Nowruz Day", "date": "2026-03-22", "localName": "Dita e Nevruzit", "category": "religious" },
+  { "name": "Catholic Easter Sunday", "date": "2026-04-05", "localName": "Pashkët Katolike", "category": "religious" },
+  { "name": "Orthodox Easter Sunday", "date": "2026-04-12", "localName": "Pashkët Ortodokse", "category": "religious" },
+  { "name": "International Workers' Day", "date": "2026-05-01", "localName": "Dita Ndërkombëtare e Punëtorëve", "category": "international" },
+  { "name": "Eid al-Adha", "date": "2026-05-27", "localName": "Festa e Kurban Bajramit", "category": "religious" },
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "Solstici veror", "category": "seasonal" },
+  { "name": "Mother Teresa Beatification Day", "date": "2026-09-05", "localName": "Dita e Shenjtërimit të Nënë Terezës", "category": "observance" },
+  { "name": "Canonization of Mother Teresa", "date": "2026-09-05", "localName": "Shenjtërimi i Nënë Terezës", "category": "national" },
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "Ekuinoksi i vjeshtës", "category": "seasonal" },
+  { "name": "Independence Day", "date": "2026-11-28", "localName": "Dita e Pavarësisë", "category": "national" },
+  { "name": "Liberation Day", "date": "2026-11-29", "localName": "Dita e Çlirimit", "category": "national" },
+  { "name": "National Youth Day", "date": "2026-12-08", "localName": "Dita Kombëtare e Rinisë", "category": "national" },
+  { "name": "December Solstice", "date": "2026-12-21", "localName": "Solstici dimëror", "category": "seasonal" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Krishtlindjet", "category": "public_holiday" },
+  { "name": "New Year's Eve", "date": "2026-12-31", "localName": "Nata e Vitit të Ri", "category": "observance" }
+]

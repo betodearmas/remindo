@@ -1,0 +1,8 @@
+[
+  { "name": "Passover (First Day)", "date": "2026-04-02", "localName": "פסח" },
+  { "name": "Independence Day", "date": "2026-04-23", "localName": "יום העצמאות" },
+  { "name": "Shavuot", "date": "2026-05-21", "localName": "שבועות" },
+  { "name": "Rosh Hashanah", "date": "2026-09-12", "localName": "ראש השנה" },
+  { "name": "Yom Kippur", "date": "2026-09-21", "localName": "יום כיפור" },
+  { "name": "Sukkot", "date": "2026-09-26", "localName": "סוכות" }
+]

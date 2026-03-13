@@ -1,0 +1,14 @@
+[
+  { "name": "Independence Day", "date": "2026-01-01", "localName": "Jour de l'Indépendance" },
+  { "name": "Ancestor's Day", "date": "2026-01-02", "localName": "Jour des Aïeux" },
+  { "name": "Carnival Monday", "date": "2026-02-16", "localName": "Lundi Gras" },
+  { "name": "Carnival Tuesday", "date": "2026-02-17", "localName": "Mardi Gras" },
+  { "name": "Good Friday", "date": "2026-04-03", "localName": "Vendredi Saint" },
+  { "name": "Agriculture and Labour Day", "date": "2026-05-01", "localName": "Fête de l'Agriculture et du Travail" },
+  { "name": "Flag Day", "date": "2026-05-18", "localName": "Fête du Drapeau" },
+  { "name": "Assumption Day", "date": "2026-08-15", "localName": "Assomption" },
+  { "name": "Independence of Dessalines Day", "date": "2026-10-17", "localName": "Mort de Dessalines" },
+  { "name": "All Saints' Day", "date": "2026-11-01", "localName": "La Toussaint" },
+  { "name": "Battle of Vertières Day", "date": "2026-11-18", "localName": "Bataille de Vertières" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Noël" }
+]

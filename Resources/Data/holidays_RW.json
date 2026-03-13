@@ -1,0 +1,9 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Umwaka Mushya" },
+  { "name": "National Heroes Day", "date": "2026-02-01", "localName": "Umunsi w'Intwari" },
+  { "name": "Genocide Memorial Day", "date": "2026-04-07", "localName": "Umunsi wo Kwibuka" },
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Umunsi w'Umurimo" },
+  { "name": "Liberation Day", "date": "2026-07-04", "localName": "Umunsi wo Kwibohora" },
+  { "name": "Independence Day", "date": "2026-07-01", "localName": "Umunsi w'Ubwigenge" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Noheli" }
+]

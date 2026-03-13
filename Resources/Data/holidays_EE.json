@@ -1,0 +1,22 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Uusaasta", "category": "public_holiday" },
+  { "name": "Valentine's Day", "date": "2026-02-14", "localName": "Sõbrapäev", "category": "observance" },
+  { "name": "Independence Day", "date": "2026-02-24", "localName": "Iseseisvuspäev", "category": "public_holiday" },
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "Kevadine pööripäev", "category": "seasonal" },
+  { "name": "Good Friday", "date": "2026-04-03", "localName": "Suur Reede", "category": "public_holiday" },
+  { "name": "Easter Sunday", "date": "2026-04-05", "localName": "Ülestõusmispühade 1. püha", "category": "public_holiday" },
+  { "name": "Spring Day", "date": "2026-05-01", "localName": "Kevadpüha", "category": "public_holiday" },
+  { "name": "Mother's Day", "date": "2026-05-10", "localName": "Emadepäev", "category": "observance" },
+  { "name": "Pentecost Sunday", "date": "2026-05-24", "localName": "Nelipühade 1. püha", "category": "public_holiday" },
+  { "name": "Victory Day", "date": "2026-06-23", "localName": "Võidupüha", "category": "public_holiday" },
+  { "name": "St. John's Day / Midsummer Day", "date": "2026-06-24", "localName": "Jaanipäev", "category": "public_holiday" },
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "Suvine pööripäev", "category": "seasonal" },
+  { "name": "Independence Restoration Day", "date": "2026-08-20", "localName": "Taasiseseisvumispäev", "category": "public_holiday" },
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "Sügisene pööripäev", "category": "seasonal" },
+  { "name": "Ethnicity Day", "date": "2026-10-17", "localName": "Kodakondsuspäev", "category": "observance" },
+  { "name": "Father's Day", "date": "2026-11-08", "localName": "Isadepäev", "category": "observance" },
+  { "name": "December Solstice", "date": "2026-12-21", "localName": "Talvine pööripäev", "category": "seasonal" },
+  { "name": "Christmas Eve", "date": "2026-12-24", "localName": "Jõululaupäev", "category": "public_holiday" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Jõulupüha", "category": "public_holiday" },
+  { "name": "Boxing Day", "date": "2026-12-26", "localName": "Teine jõulupüha", "category": "public_holiday" }
+]

@@ -1,0 +1,21 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "New Year's Day", "category": "public_holiday" },
+  { "name": "George Price Day", "date": "2026-01-15", "localName": "George Price Day", "category": "public_holiday" },
+  { "name": "National Heroes and Benefactors Day", "date": "2026-03-09", "localName": "National Heroes and Benefactors Day", "category": "public_holiday" },
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "March Equinox", "category": "seasonal" },
+  { "name": "Good Friday", "date": "2026-04-03", "localName": "Good Friday", "category": "public_holiday" },
+  { "name": "Holy Saturday", "date": "2026-04-04", "localName": "Holy Saturday", "category": "public_holiday" },
+  { "name": "Easter Sunday", "date": "2026-04-05", "localName": "Easter Sunday", "category": "observance" },
+  { "name": "Easter Monday", "date": "2026-04-06", "localName": "Easter Monday", "category": "public_holiday" },
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Labour Day", "category": "public_holiday" },
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "June Solstice", "category": "seasonal" },
+  { "name": "Emancipation Day", "date": "2026-08-01", "localName": "Emancipation Day", "category": "public_holiday" },
+  { "name": "St. George's Caye Day", "date": "2026-09-10", "localName": "St. George's Caye Day", "category": "public_holiday" },
+  { "name": "Independence Day", "date": "2026-09-21", "localName": "Independence Day", "category": "public_holiday" },
+  { "name": "September Equinox", "date": "2026-09-22", "localName": "September Equinox", "category": "seasonal" },
+  { "name": "Indigenous People's Resistance Day", "date": "2026-10-12", "localName": "Indigenous People's Resistance Day", "category": "public_holiday" },
+  { "name": "Garifuna Settlement Day", "date": "2026-11-19", "localName": "Garifuna Settlement Day", "category": "public_holiday" },
+  { "name": "December Solstice", "date": "2026-12-21", "localName": "December Solstice", "category": "seasonal" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Christmas Day", "category": "public_holiday" },
+  { "name": "Boxing Day", "date": "2026-12-26", "localName": "Boxing Day", "category": "public_holiday" }
+]

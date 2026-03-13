@@ -1,0 +1,23 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Yeni il", "category": "public_holiday" },
+  { "name": "Day of National Mourning", "date": "2026-01-20", "localName": "Ümumxalq Hüzn Günü", "category": "national" },
+  { "name": "International Women's Day", "date": "2026-03-08", "localName": "Beynəlxalq Qadınlar Günü", "category": "international" },
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "Yaz bərabərliyi", "category": "seasonal" },
+  { "name": "Novruz Holiday", "date": "2026-03-20", "localName": "Novruz Bayramı", "category": "cultural" },
+  { "name": "Eid al-Fitr", "date": "2026-03-20", "localName": "Ramazan Bayramı", "category": "religious" },
+  { "name": "Novruz Holiday", "date": "2026-03-21", "localName": "Novruz Bayramı", "category": "cultural" },
+  { "name": "Novruz Holiday", "date": "2026-03-22", "localName": "Novruz Bayramı", "category": "cultural" },
+  { "name": "Novruz Holiday", "date": "2026-03-23", "localName": "Novruz Bayramı", "category": "cultural" },
+  { "name": "Victory Day", "date": "2026-05-09", "localName": "Faşizm üzərində Qələbə Günü", "category": "national" },
+  { "name": "Eid al-Adha", "date": "2026-05-27", "localName": "Qurban Bayramı", "category": "religious" },
+  { "name": "Republic Day", "date": "2026-05-28", "localName": "Respublika Günü", "category": "national" },
+  { "name": "Day of National Salvation", "date": "2026-06-15", "localName": "Milli Qurtuluş Günü", "category": "national" },
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "Yay gün dönümü", "category": "seasonal" },
+  { "name": "Armed Forces Day", "date": "2026-06-26", "localName": "Silahlı Qüvvələr Günü", "category": "national" },
+  { "name": "Independence Restoration Day", "date": "2026-10-18", "localName": "Müstəqilliyin Bərpası Günü", "category": "national" },
+  { "name": "Victory Day (Karabakh)", "date": "2026-11-08", "localName": "Zəfər Günü", "category": "national" },
+  { "name": "State Flag Day", "date": "2026-11-09", "localName": "Dövlət Bayrağı Günü", "category": "national" },
+  { "name": "Constitution Day", "date": "2026-11-12", "localName": "Konstitusiya Günü", "category": "national" },
+  { "name": "December Solstice", "date": "2026-12-21", "localName": "Qış gün dönümü", "category": "seasonal" },
+  { "name": "Solidarity Day of World Azerbaijanis", "date": "2026-12-31", "localName": "Dünya Azərbaycanlılarının Həmrəyliyi Günü", "category": "national" }
+]

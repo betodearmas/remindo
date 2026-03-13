@@ -1,0 +1,23 @@
+[
+    
+    { "name": "New Year's Day", "date": "2026-01-01", "localName": "Jour de l'An", "category": "public_holiday" },
+    { "name": "Eid al-Fitr", "date": "2026-03-20", "localName": "Korité / Aïd el-Fitr", "category": "public_holiday" },
+    { "name": "March Equinox", "date": "2026-03-20", "localName": "Équinoxe de mars", "category": "seasonal" },
+    { "name": "Barthélémy Boganda Day", "date": "2026-03-29", "localName": "Journée Barthélémy Boganda", "category": "public_holiday" },
+    { "name": "Easter Monday", "date": "2026-04-06", "localName": "Lundi de Pâques", "category": "public_holiday" },
+    { "name": "Labour Day", "date": "2026-05-01", "localName": "Fête du Travail", "category": "public_holiday" },
+    { "name": "Ascension Day", "date": "2026-05-14", "localName": "Ascension", "category": "public_holiday" },
+    { "name": "Whit Monday", "date": "2026-05-25", "localName": "Lundi de Pentecôte", "category": "public_holiday" },
+    { "name": "Eid al-Adha", "date": "2026-05-27", "localName": "Tabaski / Aïd el-Adha", "category": "public_holiday" },
+    { "name": "June Solstice", "date": "2026-06-21", "localName": "Solstice de juin", "category": "seasonal" },
+    { "name": "National Prayer Day", "date": "2026-06-30", "localName": "Journée Nationale de Prière", "category": "public_holiday" },
+    { "name": "Independence Day", "date": "2026-08-13", "localName": "Fête de l'Indépendance", "category": "public_holiday" },
+    { "name": "Assumption of Mary", "date": "2026-08-15", "localName": "Assomption", "category": "public_holiday" },
+    { "name": "Prophet's Birthday", "date": "2026-08-26", "localName": "Maouloud", "category": "public_holiday" },
+    { "name": "September Equinox", "date": "2026-09-22", "localName": "Équinoxe de septembre", "category": "seasonal" },
+    { "name": "All Saints' Day", "date": "2026-11-01", "localName": "Toussaint", "category": "public_holiday" },
+    { "name": "Proclamation of the Republic Day", "date": "2026-12-01", "localName": "Fête nationale / Proclamation de la République", "category": "public_holiday" },
+    { "name": "December Solstice", "date": "2026-12-21", "localName": "Solstice de décembre", "category": "seasonal" },
+    { "name": "Christmas Day", "date": "2026-12-25", "localName": "Noël", "category": "public_holiday" }
+
+]

@@ -1,0 +1,12 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Жаңа жыл" },
+  { "name": "Orthodox Christmas Day", "date": "2026-01-07", "localName": "Православиелік Рождество" },
+  { "name": "International Women's Day", "date": "2026-03-08", "localName": "Халықаралық әйелдер күні" },
+  { "name": "Nauryz", "date": "2026-03-22", "localName": "Наурыз мейрамы" },
+  { "name": "Defender of the Fatherland Day", "date": "2026-05-07", "localName": "Отан қорғаушылар күні" },
+  { "name": "Victory Day", "date": "2026-05-09", "localName": "Жеңіс күні" },
+  { "name": "Capital City Day", "date": "2026-07-06", "localName": "Астана күні" },
+  { "name": "Constitution Day", "date": "2026-08-30", "localName": "Конституция күні" },
+  { "name": "Republic Day", "date": "2026-10-25", "localName": "Республика күні" },
+  { "name": "Independence Day", "date": "2026-12-16", "localName": "Тәуелсіздік күні" }
+]

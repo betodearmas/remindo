@@ -1,0 +1,11 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Año Nuevo" },
+  { "name": "Carnival Monday", "date": "2026-02-16", "localName": "Lunes de Carnaval" },
+  { "name": "Carnival Tuesday", "date": "2026-02-17", "localName": "Martes de Carnaval" },
+  { "name": "Declaration of Independence", "date": "2026-04-19", "localName": "Declaración de la Independencia" },
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Día del Trabajador" },
+  { "name": "Battle of Carabobo", "date": "2026-06-24", "localName": "Batalla de Carabobo" },
+  { "name": "Independence Day", "date": "2026-07-05", "localName": "Día de la Independencia" },
+  { "name": "Simón Bolívar Day", "date": "2026-07-24", "localName": "Natalicio de Simón Bolívar" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Navidad" }
+]

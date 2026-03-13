@@ -1,0 +1,14 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "New Year's Day" },
+  { "name": "Martin Luther King, Jr. Day", "date": "2026-01-19", "localName": "Martin Luther King, Jr. Day" },
+  { "name": "Washington's Birthday", "date": "2026-02-16", "localName": "Washington's Birthday" },
+  { "name": "Memorial Day", "date": "2026-05-25", "localName": "Memorial Day" },
+  { "name": "Juneteenth National Independence Day", "date": "2026-06-19", "localName": "Juneteenth National Independence Day" },
+  { "name": "Independence Day", "date": "2026-07-04", "localName": "Independence Day" },
+  { "name": "Labor Day", "date": "2026-09-07", "localName": "Labor Day" },
+  { "name": "Columbus Day", "date": "2026-10-12", "localName": "Columbus Day" },
+  { "name": "Veterans Day", "date": "2026-11-11", "localName": "Veterans Day" },
+  { "name": "Thanksgiving Day", "date": "2026-11-26", "localName": "Thanksgiving Day" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Christmas Day" }
+]
+

@@ -1,0 +1,11 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "رأس السنة الميلادية" },
+  { "name": "Isra and Mi'raj", "date": "2026-01-16", "localName": "الإسراء والمعراج" },
+  { "name": "Eid al-Fitr", "date": "2026-03-20", "localName": "عيد الفطر" },
+  { "name": "Eid al-Fitr Holiday", "date": "2026-03-21", "localName": "إجازة عيد الفطر" },
+  { "name": "Eid al-Adha", "date": "2026-05-27", "localName": "عيد الأضحى" },
+  { "name": "Eid al-Adha Holiday", "date": "2026-05-28", "localName": "إجازة عيد الأضحى" },
+  { "name": "Islamic New Year", "date": "2026-06-17", "localName": "رأس السنة الهجرية" },
+  { "name": "Prophet's Birthday", "date": "2026-08-26", "localName": "المولد النبوي الشريف" },
+  { "name": "National Day", "date": "2026-11-18", "localName": "اليوم الوطني" }
+]

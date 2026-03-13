@@ -1,0 +1,23 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Ano Novo", "category": "public_holiday" },
+  { "name": "Liberation Day", "date": "2026-02-04", "localName": "Dia da Libertação", "category": "national" },
+  { "name": "Liberation Day Holiday", "date": "2026-02-05", "localName": "Dia da Libertação (Feriado)", "category": "public_holiday" },
+  { "name": "Carnival Holiday", "date": "2026-02-08", "localName": "Carnaval", "category": "public_holiday" },
+  { "name": "Carnival", "date": "2026-02-09", "localName": "Carnaval", "category": "public_holiday" },
+  { "name": "International Women's Day", "date": "2026-03-08", "localName": "Dia Internacional da Mulher", "category": "international" },
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "Equinócio de primavera", "category": "seasonal" },
+  { "name": "Southern Africa Liberation Day", "date": "2026-03-23", "localName": "Dia da Libertação da África Austral", "category": "public_holiday" },
+  { "name": "Good Friday", "date": "2026-04-03", "localName": "Sexta-feira Santa", "category": "public_holiday" },
+  { "name": "Peace Day", "date": "2026-04-04", "localName": "Dia da Paz", "category": "public_holiday" },
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Dia do Trabalhador", "category": "public_holiday" },
+  { "name": "Africa Day", "date": "2026-05-25", "localName": "Dia de África", "category": "international" },
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "Solstício de verão", "category": "seasonal" },
+  { "name": "National Heroes Day", "date": "2026-09-17", "localName": "Dia do Herói Nacional", "category": "public_holiday" },
+  { "name": "Day off for National Heroes Day", "date": "2026-09-18", "localName": "Dia do Herói Nacional (Feriado)", "category": "public_holiday" },
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "Equinócio de outono", "category": "seasonal" },
+  { "name": "All Souls' Day", "date": "2026-11-02", "localName": "Dia dos Finados", "category": "public_holiday" },
+  { "name": "Independence Day", "date": "2026-11-11", "localName": "Dia da Independência", "category": "public_holiday" },
+  { "name": "December Solstice", "date": "2026-12-21", "localName": "Solstício de inverno", "category": "seasonal" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Natal", "category": "public_holiday" },
+  { "name": "New Year's Eve", "date": "2026-12-31", "localName": "Véspera de Ano Novo", "category": "observance" }
+]

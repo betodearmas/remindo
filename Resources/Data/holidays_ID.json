@@ -1,0 +1,10 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Tahun Baru Masehi" },
+  { "name": "Chinese New Year", "date": "2026-02-17", "localName": "Tahun Baru Imlek" },
+  { "name": "Nyepi", "date": "2026-03-19", "localName": "Hari Raya Nyepi" },
+  { "name": "Good Friday", "date": "2026-04-03", "localName": "Wafat Isa Al Masih" },
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Hari Buruh" },
+  { "name": "Ascension Day", "date": "2026-05-14", "localName": "Kenaikan Isa Al Masih" },
+  { "name": "Independence Day", "date": "2026-08-17", "localName": "Hari Kemerdekaan" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Hari Natal" }
+]

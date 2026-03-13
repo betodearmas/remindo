@@ -1,0 +1,20 @@
+[
+    { "name": "New Year's Day", "date": "2026-01-01", "localName": "Jour de l'An", "category": "public_holiday" },
+    { "name": "Revolution Day", "date": "2026-01-03", "localName": "Journée de la Révolution", "category": "observance" },
+    { "name": "International Women's Day", "date": "2026-03-08", "localName": "Journée internationale des droits de la femme", "category": "public_holiday" },
+    { "name": "March Equinox", "date": "2026-03-20", "localName": "Équinoxe de printemps", "category": "seasonal" },
+    { "name": "Eid al-Fitr", "date": "2026-03-20", "localName": "Aïd el-Fitr (Korité)", "category": "public_holiday" },
+    { "name": "Labour Day", "date": "2026-05-01", "localName": "Fête du Travail", "category": "public_holiday" },
+    { "name": "Ascension Day", "date": "2026-05-14", "localName": "Ascension", "category": "public_holiday" },
+    { "name": "Customs and Traditions Day", "date": "2026-05-15", "localName": "Journée des coutumes et traditions", "category": "public_holiday" },
+    { "name": "Eid al-Adha", "date": "2026-05-27", "localName": "Aïd el-Adha (Tabaski)", "category": "public_holiday" },
+    { "name": "June Solstice", "date": "2026-06-21", "localName": "Solstice d'été", "category": "seasonal" },
+    { "name": "Independence Day", "date": "2026-08-05", "localName": "Fête de l'Indépendance", "category": "observance" },
+    { "name": "Assumption of Mary", "date": "2026-08-15", "localName": "Assomption", "category": "public_holiday" },
+    { "name": "Prophet's Birthday", "date": "2026-08-26", "localName": "Maouloud", "category": "public_holiday" },
+    { "name": "September Equinox", "date": "2026-09-22", "localName": "Équinoxe d'automne", "category": "seasonal" },
+    { "name": "All Saints' Day", "date": "2026-11-01", "localName": "Toussaint", "category": "observance" },
+    { "name": "National Day", "date": "2026-12-11", "localName": "Fête nationale", "category": "public_holiday" },
+    { "name": "December Solstice", "date": "2026-12-21", "localName": "Solstice d'hiver", "category": "seasonal" },
+    { "name": "Christmas Day", "date": "2026-12-25", "localName": "Noël", "category": "public_holiday" }
+]

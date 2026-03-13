@@ -1,0 +1,9 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Соли нав" },
+  { "name": "Navruz", "date": "2026-03-21", "localName": "Наврӯз" },
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Рӯзи меҳнат" },
+  { "name": "Independence Day", "date": "2026-09-09", "localName": "Рӯзи истиқлолият" },
+  { "name": "Constitution Day", "date": "2026-11-06", "localName": "Рӯзи Конститутсия" },
+  { "name": "Eid al-Fitr", "date": "2026-03-20", "localName": "Иди Фитр" },
+  { "name": "Eid al-Adha", "date": "2026-05-27", "localName": "Иди Қурбон" }
+]

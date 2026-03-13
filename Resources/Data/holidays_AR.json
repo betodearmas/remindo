@@ -1,0 +1,23 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Año Nuevo", "category": "public_holiday" },
+  { "name": "Epiphany", "date": "2026-01-06", "localName": "Día de Reyes", "category": "religious" },
+  { "name": "Carnival Monday", "date": "2026-02-16", "localName": "Lunes de Carnaval", "category": "cultural" },
+  { "name": "Carnival Tuesday", "date": "2026-02-17", "localName": "Martes de Carnaval", "category": "cultural" },
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "Equinoccio de marzo", "category": "seasonal" },
+  { "name": "Truth and Justice Memorial Day", "date": "2026-03-24", "localName": "Día Nacional de la Memoria por la Verdad y la Justicia", "category": "national" },
+  { "name": "Malvinas Day", "date": "2026-04-02", "localName": "Día del Veterano y de los Caídos en la Guerra de Malvinas", "category": "national" },
+  { "name": "Good Friday", "date": "2026-04-03", "localName": "Viernes Santo", "category": "religious" },
+  { "name": "Labor Day", "date": "2026-05-01", "localName": "Día del Trabajador", "category": "international" },
+  { "name": "May Revolution Day", "date": "2026-05-25", "localName": "Día de la Revolución de Mayo", "category": "national" },
+  { "name": "Flag Day", "date": "2026-06-20", "localName": "Día de la Bandera", "category": "national" },
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "Solsticio de junio", "category": "seasonal" },
+  { "name": "Independence Day", "date": "2026-07-09", "localName": "Día de la Independencia", "category": "national" },
+  { "name": "San Martín Day", "date": "2026-08-17", "localName": "Paso a la Inmortalidad del General San Martín", "category": "national" },
+  { "name": "Day of Respect for Cultural Diversity", "date": "2026-10-12", "localName": "Día del Respeto a la Diversidad Cultural", "category": "cultural" },
+  { "name": "National Sovereignty Day", "date": "2026-11-20", "localName": "Día de la Soberanía Nacional", "category": "national" },
+  { "name": "Immaculate Conception", "date": "2026-12-08", "localName": "Inmaculada Concepción", "category": "religious" },
+  { "name": "December Solstice", "date": "2026-12-21", "localName": "Solsticio de diciembre", "category": "seasonal" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Navidad", "category": "public_holiday" },
+  { "name": "New Year's Eve", "date": "2026-12-31", "localName": "Nochevieja", "category": "observance" },
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "Equinoccio de septiembre", "category": "seasonal" }
+]

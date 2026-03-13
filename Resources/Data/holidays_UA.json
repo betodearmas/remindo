@@ -1,0 +1,9 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Новий рік" },
+  { "name": "International Women's Day", "date": "2026-03-08", "localName": "Міжнародний жіночий день" },
+  { "name": "Orthodox Easter", "date": "2026-04-12", "localName": "Великдень" },
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "День праці" },
+  { "name": "Constitution Day", "date": "2026-06-28", "localName": "День Конституції України" },
+  { "name": "Independence Day", "date": "2026-08-24", "localName": "День незалежності України" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Різдво Христове" }
+]

@@ -1,0 +1,10 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "L-Ewwel tas-Sena" },
+  { "name": "Feast of St. Paul's Shipwreck", "date": "2026-02-10", "localName": "In-Nawfraġju ta' San Pawl" },
+  { "name": "Freedom Day", "date": "2026-03-31", "localName": "Jum il-Ħelsien" },
+  { "name": "Good Friday", "date": "2026-04-03", "localName": "Il-Ġimgħa l-Kbira" },
+  { "name": "Worker's Day", "date": "2026-05-01", "localName": "Jum il-Ħaddiem" },
+  { "name": "Independence Day", "date": "2026-09-21", "localName": "Jum l-Indipendenza" },
+  { "name": "Republic Day", "date": "2026-12-13", "localName": "Jum ir-Repubblika" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Il-Milied" }
+]

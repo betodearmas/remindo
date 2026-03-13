@@ -1,0 +1,25 @@
+[
+
+{ "name": "New Year's Day", "date": "2026-01-01", "localName": "Jour de l'An", "category": "public_holiday" },
+{ "name": "Youth Day", "date": "2026-02-11", "localName": "Fête de la Jeunesse", "category": "public_holiday" },
+{ "name": "Ramadan Start", "date": "2026-02-18", "localName": "Début du Ramadan", "category": "observance" },
+{ "name": "Women's Day", "date": "2026-03-08", "localName": "Journée internationale de la femme", "category": "observance" },
+{ "name": "March Equinox", "date": "2026-03-20", "localName": "Équinoxe de mars", "category": "seasonal" },
+{ "name": "Eid al-Fitr", "date": "2026-03-20", "localName": "Djouldé Soumaé / Aïd el-Fitr", "category": "public_holiday" },
+{ "name": "Good Friday", "date": "2026-04-03", "localName": "Vendredi Saint", "category": "public_holiday" },
+{ "name": "Easter Sunday", "date": "2026-04-05", "localName": "Dimanche de Pâques", "category": "observance" },
+{ "name": "Easter Monday", "date": "2026-04-06", "localName": "Lundi de Pâques", "category": "public_holiday" },
+{ "name": "Labour Day", "date": "2026-05-01", "localName": "Fête du Travail", "category": "public_holiday" },
+{ "name": "Ascension Day", "date": "2026-05-14", "localName": "Ascension", "category": "public_holiday" },
+{ "name": "National Day", "date": "2026-05-20", "localName": "Fête Nationale", "category": "public_holiday" },
+{ "name": "Eid al-Adha", "date": "2026-05-27", "localName": "Tabaski / Aïd el-Adha", "category": "public_holiday" },
+{ "name": "June Solstice", "date": "2026-06-21", "localName": "Solstice de juin", "category": "seasonal" },
+{ "name": "Assumption of Mary", "date": "2026-08-15", "localName": "Assomption", "category": "public_holiday" },
+{ "name": "Prophet's Birthday", "date": "2026-08-26", "localName": "Maouloud", "category": "public_holiday" },
+{ "name": "September Equinox", "date": "2026-09-23", "localName": "Équinoxe de septembre", "category": "seasonal" },
+{ "name": "December Solstice", "date": "2026-12-21", "localName": "Solstice de décembre", "category": "seasonal" },
+{ "name": "Christmas Eve", "date": "2026-12-24", "localName": "Veille de Noël", "category": "observance" },
+{ "name": "Christmas Day", "date": "2026-12-25", "localName": "Noël", "category": "public_holiday" },
+{ "name": "New Year's Eve", "date": "2026-12-31", "localName": "Saint-Sylvestre", "category": "observance" }
+
+]

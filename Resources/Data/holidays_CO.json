@@ -1,0 +1,27 @@
+[
+    
+    { "name": "New Year's Day", "date": "2026-01-01", "localName": "Año Nuevo", "category": "public_holiday" },
+    { "name": "Epiphany", "date": "2026-01-12", "localName": "Día de los Reyes Magos", "category": "public_holiday" },
+    { "name": "March Equinox", "date": "2026-03-20", "localName": "Equinoccio de marzo", "category": "seasonal" },
+    { "name": "St Joseph's Day", "date": "2026-03-23", "localName": "Día de San José", "category": "public_holiday" },
+    { "name": "Maundy Thursday", "date": "2026-04-02", "localName": "Jueves Santo", "category": "public_holiday" },
+    { "name": "Good Friday", "date": "2026-04-03", "localName": "Viernes Santo", "category": "public_holiday" },
+    { "name": "Labour Day", "date": "2026-05-01", "localName": "Día del Trabajo", "category": "public_holiday" },
+    { "name": "Ascension Day", "date": "2026-05-18", "localName": "Ascensión del Señor", "category": "public_holiday" },
+    { "name": "Corpus Christi", "date": "2026-06-08", "localName": "Corpus Christi", "category": "public_holiday" },
+    { "name": "Sacred Heart of Jesus", "date": "2026-06-15", "localName": "Sagrado Corazón de Jesús", "category": "public_holiday" },
+    { "name": "Saints Peter and Paul", "date": "2026-06-29", "localName": "San Pedro y San Pablo", "category": "public_holiday" },
+    { "name": "June Solstice", "date": "2026-06-21", "localName": "Solsticio de junio", "category": "seasonal" },
+    { "name": "Independence Day", "date": "2026-07-20", "localName": "Día de la Independencia", "category": "public_holiday" },
+    { "name": "Battle of Boyacá", "date": "2026-08-07", "localName": "Batalla de Boyacá", "category": "public_holiday" },
+    { "name": "Assumption of Mary", "date": "2026-08-17", "localName": "Asunción de la Virgen", "category": "public_holiday" },
+    { "name": "September Equinox", "date": "2026-09-22", "localName": "Equinoccio de septiembre", "category": "seasonal" },
+    { "name": "Ethnic and Cultural Diversity Day", "date": "2026-10-12", "localName": "Día de la Diversidad Étnica y Cultural", "category": "public_holiday" },
+    { "name": "All Saints' Day", "date": "2026-11-02", "localName": "Día de Todos los Santos", "category": "public_holiday" },
+    { "name": "Independence of Cartagena", "date": "2026-11-16", "localName": "Independencia de Cartagena", "category": "public_holiday" },
+    { "name": "Immaculate Conception", "date": "2026-12-08", "localName": "Inmaculada Concepción", "category": "public_holiday" },
+    { "name": "December Solstice", "date": "2026-12-21", "localName": "Solsticio de diciembre", "category": "seasonal" },
+    { "name": "Christmas Day", "date": "2026-12-25", "localName": "Navidad", "category": "public_holiday" }
+
+]
+ 

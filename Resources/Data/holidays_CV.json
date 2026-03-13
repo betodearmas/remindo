@@ -1,0 +1,20 @@
+[
+    { "name": "New Year's Day", "date": "2026-01-01", "localName": "Ano Novo", "category": "public_holiday" },
+    { "name": "Democracy and Freedom Day", "date": "2026-01-13", "localName": "Dia da Democracia e da Liberdade", "category": "public_holiday" },
+    { "name": "National Heroes Day", "date": "2026-01-20", "localName": "Dia dos Heróis Nacionais", "category": "public_holiday" },
+    { "name": "Shrove Tuesday", "date": "2026-02-17", "localName": "Terça-Feira de Carnaval", "category": "regional_holiday" },
+    { "name": "Ash Wednesday", "date": "2026-02-18", "localName": "Quarta-Feira de Cinzas", "category": "public_holiday" },
+    { "name": "March Equinox", "date": "2026-03-20", "localName": "Equinócio de Março", "category": "seasonal" },
+    { "name": "Good Friday", "date": "2026-04-03", "localName": "Sexta-Feira Santa", "category": "public_holiday" },
+    { "name": "Easter Sunday", "date": "2026-04-05", "localName": "Páscoa", "category": "public_holiday" },
+    { "name": "Labour Day", "date": "2026-05-01", "localName": "Dia do Trabalhador", "category": "public_holiday" },
+    { "name": "Children's Day", "date": "2026-06-01", "localName": "Dia Mundial da Criança", "category": "public_holiday" },
+    { "name": "June Solstice", "date": "2026-06-21", "localName": "Solstício de Junho", "category": "seasonal" },
+    { "name": "Independence Day", "date": "2026-07-05", "localName": "Dia da Independência", "category": "public_holiday" },
+    { "name": "Assumption of Mary", "date": "2026-08-15", "localName": "Dia da Padroeira Nacional / Assunção de Nossa Senhora", "category": "public_holiday" },
+    { "name": "September Equinox", "date": "2026-09-22", "localName": "Equinócio de Setembro", "category": "seasonal" },
+    { "name": "All Saints' Day", "date": "2026-11-01", "localName": "Dia de Todos os Santos", "category": "public_holiday" },
+    { "name": "December Solstice", "date": "2026-12-21", "localName": "Solstício de Dezembro", "category": "seasonal" },
+    { "name": "Christmas Day", "date": "2026-12-25", "localName": "Natal", "category": "public_holiday" }
+
+]

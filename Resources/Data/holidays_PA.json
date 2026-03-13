@@ -1,0 +1,9 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Año Nuevo" },
+  { "name": "Martyrs' Day", "date": "2026-01-09", "localName": "Día de los Mártires" },
+  { "name": "Carnival Tuesday", "date": "2026-02-17", "localName": "Martes de Carnaval" },
+  { "name": "Good Friday", "date": "2026-04-03", "localName": "Viernes Santo" },
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Día del Trabajador" },
+  { "name": "Independence from Spain", "date": "2026-11-28", "localName": "Independencia de España" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Navidad" }
+]

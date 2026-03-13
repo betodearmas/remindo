@@ -1,0 +1,23 @@
+[
+    { "name": "New Year's Day", "date": "2026-01-01", "localName": "Año Nuevo", "category": "public_holiday" },
+    { "name": "March Equinox", "date": "2026-03-20", "localName": "Equinoccio de marzo", "category": "seasonal" },
+    { "name": "Good Friday", "date": "2026-04-03", "localName": "Viernes Santo", "category": "public_holiday" },
+    { "name": "Holy Saturday", "date": "2026-04-04", "localName": "Sábado Santo", "category": "public_holiday" },
+    { "name": "Labour Day", "date": "2026-05-01", "localName": "Día del Trabajador", "category": "public_holiday" },
+    { "name": "Navy Day", "date": "2026-05-21", "localName": "Día de las Glorias Navales", "category": "public_holiday" },
+    { "name": "National Day of Indigenous Peoples", "date": "2026-06-21", "localName": "Día Nacional de los Pueblos Indígenas", "category": "public_holiday" },
+    { "name": "June Solstice", "date": "2026-06-21", "localName": "Solsticio de junio", "category": "seasonal" },
+    { "name": "Saints Peter and Paul", "date": "2026-06-29", "localName": "San Pedro y San Pablo", "category": "public_holiday" },
+    { "name": "Our Lady of Mount Carmel", "date": "2026-07-16", "localName": "Día de la Virgen del Carmen", "category": "public_holiday" },
+    { "name": "Assumption of Mary", "date": "2026-08-15", "localName": "Asunción de la Virgen", "category": "public_holiday" },
+    { "name": "Independence Day", "date": "2026-09-18", "localName": "Fiestas Patrias / Independencia Nacional", "category": "public_holiday" },
+    { "name": "Army Day", "date": "2026-09-19", "localName": "Día de las Glorias del Ejército", "category": "public_holiday" },
+    { "name": "September Equinox", "date": "2026-09-22", "localName": "Equinoccio de septiembre", "category": "seasonal" },
+    { "name": "Encounter of Two Worlds", "date": "2026-10-12", "localName": "Encuentro de Dos Mundos", "category": "public_holiday" },
+    { "name": "Reformation Day", "date": "2026-10-31", "localName": "Día de las Iglesias Evangélicas y Protestantes", "category": "public_holiday" },
+    { "name": "All Saints' Day", "date": "2026-11-01", "localName": "Día de Todos los Santos", "category": "public_holiday" },
+    { "name": "Immaculate Conception", "date": "2026-12-08", "localName": "Inmaculada Concepción", "category": "public_holiday" },
+    { "name": "December Solstice", "date": "2026-12-21", "localName": "Solsticio de diciembre", "category": "seasonal" },
+    { "name": "Christmas Day", "date": "2026-12-25", "localName": "Navidad", "category": "public_holiday" }
+    
+]

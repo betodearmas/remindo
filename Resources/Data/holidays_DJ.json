@@ -1,0 +1,20 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Jour de l'An", "category": "public_holiday" },
+  { "name": "Ramadan Start", "date": "2026-02-18", "localName": "Début du Ramadan", "category": "observance" },
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "Équinoxe de mars", "category": "seasonal" },
+  { "name": "Eid al-Fitr", "date": "2026-03-20", "localName": "Aïd el-Fitr", "category": "public_holiday" },
+  { "name": "Eid al-Fitr Holiday", "date": "2026-03-21", "localName": "Lendemain de l'Aïd el-Fitr", "category": "public_holiday" },
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Fête du Travail", "category": "public_holiday" },
+  { "name": "Arafat Day", "date": "2026-05-26", "localName": "Jour d'Arafat", "category": "public_holiday" },
+  { "name": "Eid al-Adha", "date": "2026-05-27", "localName": "Aïd el-Adha", "category": "public_holiday" },
+  { "name": "Eid al-Adha Holiday", "date": "2026-05-28", "localName": "Lendemain de l'Aïd el-Adha", "category": "public_holiday" },
+  { "name": "Islamic New Year", "date": "2026-06-16", "localName": "Nouvel An de l'Hégire", "category": "public_holiday" },
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "Solstice de juin", "category": "seasonal" },
+  { "name": "Independence Day", "date": "2026-06-27", "localName": "Fête de l'Indépendance", "category": "public_holiday" },
+  { "name": "Independence Day Holiday", "date": "2026-06-28", "localName": "Fête de l'Indépendance (observée)", "category": "public_holiday" },
+  { "name": "Prophet's Birthday", "date": "2026-08-25", "localName": "Maoulid / Mawlid an-Nabī", "category": "public_holiday" },
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "Équinoxe de septembre", "category": "seasonal" },
+  { "name": "December Solstice", "date": "2026-12-21", "localName": "Solstice de décembre", "category": "seasonal" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Noël", "category": "public_holiday" },
+  { "name": "New Year's Eve", "date": "2026-12-31", "localName": "Saint-Sylvestre", "category": "observance" }
+]

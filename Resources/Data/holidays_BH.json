@@ -1,0 +1,23 @@
+[
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "رأس السنة الميلادية", "category": "public_holiday" },
+  { "name": "Isra Mi'raj", "date": "2026-01-27", "localName": "ذكرى الإسراء والمعراج", "category": "observance" },
+  { "name": "Ramadan Start", "date": "2026-02-18", "localName": "بداية رمضان", "category": "observance" },
+  { "name": "Eid al-Fitr", "date": "2026-03-20", "localName": "عيد الفطر", "category": "public_holiday" },
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "الاعتدال الربيعي", "category": "seasonal" },
+  { "name": "Eid al-Fitr Holiday", "date": "2026-03-21", "localName": "عطلة عيد الفطر", "category": "public_holiday" },
+  { "name": "Eid al-Fitr Holiday", "date": "2026-03-22", "localName": "عطلة عيد الفطر", "category": "public_holiday" },
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "عيد العمال", "category": "public_holiday" },
+  { "name": "Arafat Day", "date": "2026-05-26", "localName": "يوم عرفة", "category": "public_holiday" },
+  { "name": "Eid al-Adha", "date": "2026-05-27", "localName": "عيد الأضحى", "category": "public_holiday" },
+  { "name": "Eid al-Adha Holiday", "date": "2026-05-28", "localName": "عطلة عيد الأضحى", "category": "public_holiday" },
+  { "name": "Eid al-Adha Holiday", "date": "2026-05-29", "localName": "عطلة عيد الأضحى", "category": "public_holiday" },
+  { "name": "Islamic New Year", "date": "2026-06-17", "localName": "رأس السنة الهجرية", "category": "public_holiday" },
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "الانقلاب الصيفي", "category": "seasonal" },
+  { "name": "Ashura", "date": "2026-06-26", "localName": "عاشوراء", "category": "public_holiday" },
+  { "name": "Ashura Holiday", "date": "2026-06-27", "localName": "عاشوراء (اليوم الثاني)", "category": "public_holiday" },
+  { "name": "Prophet's Birthday", "date": "2026-08-26", "localName": "المولد النبوي الشريف", "category": "public_holiday" },
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "الاعتدال الخريفي", "category": "seasonal" },
+  { "name": "National Day", "date": "2026-12-16", "localName": "اليوم الوطني", "category": "public_holiday" },
+  { "name": "National Day Holiday", "date": "2026-12-17", "localName": "اليوم الوطني", "category": "public_holiday" },
+  { "name": "December Solstice", "date": "2026-12-21", "localName": "الانقلاب الشتوي", "category": "seasonal" }
+]

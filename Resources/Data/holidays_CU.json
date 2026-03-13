@@ -1,0 +1,18 @@
+[
+    { "name": "New Year's Day / Liberation Day", "date": "2026-01-01", "localName": "Año Nuevo / Día de la Liberación", "category": "public_holiday" },
+    { "name": "Victory Day", "date": "2026-01-02", "localName": "Día de la Victoria", "category": "public_holiday" },
+    { "name": "International Women's Day", "date": "2026-03-08", "localName": "Día Internacional de la Mujer", "category": "observance" },
+    { "name": "March Equinox", "date": "2026-03-20", "localName": "Equinoccio de marzo", "category": "seasonal" },
+    { "name": "Good Friday", "date": "2026-04-03", "localName": "Viernes Santo", "category": "public_holiday" },
+    { "name": "Easter Sunday", "date": "2026-04-05", "localName": "Domingo de Resurrección", "category": "observance" },
+    { "name": "Labour Day", "date": "2026-05-01", "localName": "Día de los Trabajadores", "category": "public_holiday" },
+    { "name": "June Solstice", "date": "2026-06-21", "localName": "Solsticio de junio", "category": "seasonal" },
+    { "name": "National Revolutionary Holiday", "date": "2026-07-25", "localName": "Día anterior a la Rebeldía Nacional", "category": "public_holiday" },
+    { "name": "National Rebellion Day", "date": "2026-07-26", "localName": "Día de la Rebeldía Nacional", "category": "public_holiday" },
+    { "name": "National Revolutionary Holiday", "date": "2026-07-27", "localName": "Día posterior a la Rebeldía Nacional", "category": "public_holiday" },
+    { "name": "September Equinox", "date": "2026-09-22", "localName": "Equinoccio de septiembre", "category": "seasonal" },
+    { "name": "Independence Day", "date": "2026-10-10", "localName": "Día de la Independencia / Inicio de las Guerras de Independencia", "category": "public_holiday" },
+    { "name": "Christmas Day", "date": "2026-12-25", "localName": "Navidad", "category": "public_holiday" },
+    { "name": "December Solstice", "date": "2026-12-21", "localName": "Solsticio de diciembre", "category": "seasonal" },
+    { "name": "New Year's Eve", "date": "2026-12-31", "localName": "Víspera de Año Nuevo", "category": "public_holiday" }
+]
