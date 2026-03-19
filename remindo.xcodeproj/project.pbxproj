@@ -8,6 +8,7 @@
 
 /* Begin PBXFileReference section */
 		A717F8A22F552FC800000BD0 /* remindo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = remindo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A71A03152F6A400600564534 /* remindo.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = remindo.xcodeproj; sourceTree = "<group>"; };
 		A71D8A922F63BDDA00E56AD4 /* remindo.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = remindo.xcodeproj; sourceTree = "<group>"; };
 		A75895E12F61601800E9B614 /* remindo.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = remindo.xcodeproj; sourceTree = "<group>"; };
 		A758994C2F63B03000E9B614 /* remindo.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = remindo.xcodeproj; sourceTree = "<group>"; };
@@ -15,33 +16,9 @@
 		A7E358322F59543D00AAB80B /* remindo.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = remindo.xcodeproj; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		A7A92C3E2F5AA56C00B87233 /* Exceptions for "remindo" folder in "remindo" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Resources/Data/readme.txt,
-			);
-			target = A717F8A12F552FC800000BD0 /* remindo */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
-/* Begin PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
-		A7A92C3F2F5AA56C00B87233 /* Exceptions for "remindo" folder in "Compile Sources" phase from "remindo" target */ = {
-			isa = PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet;
-			buildPhase = A717F89E2F552FC800000BD0 /* Sources */;
-			membershipExceptions = (
-				Resources/Data/readme.txt,
-			);
-		};
-/* End PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		A717F8A42F552FC800000BD0 /* remindo */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				A7A92C3E2F5AA56C00B87233 /* Exceptions for "remindo" folder in "remindo" target */,
-				A7A92C3F2F5AA56C00B87233 /* Exceptions for "remindo" folder in "Compile Sources" phase from "remindo" target */,
-			);
 			name = remindo;
 			sourceTree = "<group>";
 		};
@@ -71,6 +48,11 @@
 			children = (
 				A717F8A22F552FC800000BD0 /* remindo.app */,
 			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A71A03162F6A400600564534 /* Products */ = {
+			isa = PBXGroup;
 			name = Products;
 			sourceTree = "<group>";
 		};
@@ -171,6 +153,10 @@
 				{
 					ProductGroup = A71D8A932F63BDDA00E56AD4 /* Products */;
 					ProjectRef = A71D8A922F63BDDA00E56AD4 /* remindo.xcodeproj */;
+				},
+				{
+					ProductGroup = A71A03162F6A400600564534 /* Products */;
+					ProjectRef = A71A03152F6A400600564534 /* remindo.xcodeproj */;
 				},
 			);
 			projectRoot = "";

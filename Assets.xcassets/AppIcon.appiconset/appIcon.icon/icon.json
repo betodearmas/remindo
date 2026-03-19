@@ -2,13 +2,26 @@
   "fill-specializations" : [
     {
       "value" : {
-        "solid" : "display-p3:0.93520,0.59175,0.72335,1.00000"
+        "linear-gradient" : [
+          "srgb:1.00000,0.78826,0.97893,1.00000",
+          "display-p3:0.93520,0.59175,0.72335,1.00000"
+        ],
+        "orientation" : {
+          "start" : {
+            "x" : 0.5,
+            "y" : 0
+          },
+          "stop" : {
+            "x" : 0.5,
+            "y" : 0.7
+          }
+        }
       }
     },
     {
       "appearance" : "dark",
       "value" : {
-        "solid" : "display-p3:0.00000,0.00000,0.00000,1.00000"
+        "automatic-gradient" : "display-p3:0.00000,0.00000,0.00000,1.00000"
       }
     }
   ],
@@ -16,15 +29,15 @@
     {
       "layers" : [
         {
-          "glass" : true,
-          "image-name" : "REMINDO 2.png",
-          "name" : "REMINDO 2",
-          "opacity-specializations" : [
-            {
-              "appearance" : "dark",
-              "value" : 1
-            }
-          ]
+          "image-name" : "REMINDO2 3.png",
+          "name" : "REMINDO2 3",
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              -5.875521362931977,
+              -9.134999999999934
+            ]
+          }
         }
       ],
       "lighting" : "individual",
