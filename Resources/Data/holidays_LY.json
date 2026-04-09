@@ -1,5 +1,30 @@
 [
-  { "name": "New Year's Day", "date": "2026-01-01", "localName": "رأس السنة الميلادية" },
-  { "name": "Liberation Day", "date": "2026-10-23", "localName": "عيد التحرير" },
-  { "name": "Independence Day", "date": "2026-12-24", "localName": "عيد الاستقلال" }
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "رأس السنة الميلادية", "category": "public_holiday" },
+
+  { "name": "Libyan Revolution Day", "date": "2026-02-17", "localName": "ذكرى ثورة 17 فبراير", "category": "public_holiday" },
+  { "name": "Ramadan Start", "date": "2026-02-19", "localName": "بداية رمضان", "category": "observance" },
+  { "name": "Eid al-Fitr (Day 1)", "date": "2026-03-20", "localName": "عيد الفطر", "category": "public_holiday" },
+  { "name": "Eid al-Fitr (Day 2)", "date": "2026-03-21", "localName": "عيد الفطر", "category": "public_holiday" },
+  { "name": "Eid al-Fitr (Day 3)", "date": "2026-03-22", "localName": "عيد الفطر", "category": "public_holiday" },
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "الاعتدال الربيعي", "category": "seasonal" },
+
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "عيد العمال", "category": "public_holiday" },
+  { "name": "Day of Arafah", "date": "2026-05-26", "localName": "يوم عرفة", "category": "public_holiday" },
+  { "name": "Eid al-Adha (Day 1)", "date": "2026-05-27", "localName": "عيد الأضحى", "category": "public_holiday" },
+  { "name": "Eid al-Adha (Day 2)", "date": "2026-05-28", "localName": "عيد الأضحى", "category": "public_holiday" },
+  { "name": "Eid al-Adha (Day 3)", "date": "2026-05-29", "localName": "عيد الأضحى", "category": "public_holiday" },
+
+  { "name": "Islamic New Year (Muharram)", "date": "2026-06-17", "localName": "رأس السنة الهجرية", "category": "public_holiday" },
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "الانقلاب الصيفي", "category": "seasonal" },
+
+  { "name": "Prophet's Birthday (Mawlid)", "date": "2026-08-26", "localName": "المولد النبوي الشريف", "category": "public_holiday" },
+
+  { "name": "Martyrs' Day", "date": "2026-09-16", "localName": "يوم الشهداء", "category": "public_holiday" },
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "الاعتدال الخريفي", "category": "seasonal" },
+
+  { "name": "Liberation Day", "date": "2026-10-23", "localName": "عيد التحرير", "category": "public_holiday" },
+
+  { "name": "December Solstice", "date": "2026-12-21", "localName": "الانقلاب الشتوي", "category": "seasonal" },
+  { "name": "Independence Day", "date": "2026-12-24", "localName": "عيد الاستقلال", "category": "public_holiday" },
+  { "name": "New Year's Eve", "date": "2026-12-31", "localName": "ليلة رأس السنة", "category": "observance" },
 ]

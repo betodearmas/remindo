@@ -1,7 +1,37 @@
 [
-  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Jour de l'An" },
-  { "name": "Labour Day", "date": "2026-05-01", "localName": "Fête du Travail" },
-  { "name": "Africa Day", "date": "2026-05-25", "localName": "Journée de l'Afrique" },
-  { "name": "Independence Day", "date": "2026-10-02", "localName": "Fête de l'Indépendance" },
-  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Noël" }
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Jour de l'An", "category": "public_holiday" },
+
+  { "name": "Valentine's Day", "date": "2026-02-14", "localName": "Saint-Valentin", "category": "observance" },
+  { "name": "Ramadan Start", "date": "2026-02-18", "localName": "Début du Ramadan", "category": "religious" },
+
+  { "name": "Lailat al-Qadr", "date": "2026-03-17", "localName": "Nuit du Destin", "category": "public_holiday" },
+  { "name": "Eid al-Fitr", "date": "2026-03-20", "localName": "Korité", "category": "public_holiday" },
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "Équinoxe de mars", "category": "seasonal" },
+
+  { "name": "Second Republic Day", "date": "2026-04-03", "localName": "Fête de la Deuxième République", "category": "public_holiday" },
+  { "name": "Easter Monday", "date": "2026-04-06", "localName": "Lundi de Pâques", "category": "public_holiday" },
+
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Fête du Travail", "category": "public_holiday" },
+  { "name": "Mother's Day", "date": "2026-05-31", "localName": "Fête des Mères", "category": "observance" },
+  { "name": "Africa Day", "date": "2026-05-25", "localName": "Journée de l'Afrique", "category": "public_holiday" },
+  { "name": "Eid al-Adha", "date": "2026-05-28", "localName": "Tabaski", "category": "public_holiday" },
+
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "Solstice de juin", "category": "seasonal" },
+  { "name": "Father's Day", "date": "2026-06-21", "localName": "Fête des Pères", "category": "observance" },
+
+  { "name": "Islamic New Year", "date": "2026-08-16", "localName": "Nouvel An Hégirien", "category": "religious" },
+  { "name": "Assumption Day", "date": "2026-08-15", "localName": "Assomption", "category": "public_holiday" },
+  { "name": "Prophet Muhammad's Birthday", "date": "2026-08-25", "localName": "Mouloud", "category": "public_holiday" },
+
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "Équinoxe de septembre", "category": "seasonal" },
+
+  { "name": "Independence Day", "date": "2026-10-02", "localName": "Fête de l'Indépendance", "category": "public_holiday" },
+
+  { "name": "All Saints' Day", "date": "2026-11-01", "localName": "Toussaint", "category": "public_holiday" },
+
+  { "name": "December Solstice", "date": "2026-12-21", "localName": "Solstice de décembre", "category": "seasonal" },
+  { "name": "Festival International Kora et Cordes", "date": "2026-12-01", "localName": "Festival Kora et Cordes de Conakry", "category": "cultural" },
+  { "name": "Christmas Eve", "date": "2026-12-24", "localName": "Réveillon de Noël", "category": "observance" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Noël", "category": "public_holiday" },
+  { "name": "New Year's Eve", "date": "2026-12-31", "localName": "Saint-Sylvestre", "category": "observance" }
 ]

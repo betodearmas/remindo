@@ -13,6 +13,7 @@
 		A75895E12F61601800E9B614 /* remindo.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = remindo.xcodeproj; sourceTree = "<group>"; };
 		A758994C2F63B03000E9B614 /* remindo.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = remindo.xcodeproj; sourceTree = "<group>"; };
 		A7A92B672F5AA0E600B87233 /* remindo.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = remindo.xcodeproj; sourceTree = "<group>"; };
+		A7D7B42A2F861C9F005201AE /* remindo.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = remindo.xcodeproj; sourceTree = "<group>"; };
 		A7E358322F59543D00AAB80B /* remindo.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = remindo.xcodeproj; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -72,6 +73,11 @@
 			sourceTree = "<group>";
 		};
 		A7A92B682F5AA0E600B87233 /* Products */ = {
+			isa = PBXGroup;
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A7D7B42B2F861C9F005201AE /* Products */ = {
 			isa = PBXGroup;
 			name = Products;
 			sourceTree = "<group>";
@@ -153,6 +159,10 @@
 				{
 					ProductGroup = A71D8A932F63BDDA00E56AD4 /* Products */;
 					ProjectRef = A71D8A922F63BDDA00E56AD4 /* remindo.xcodeproj */;
+				},
+				{
+					ProductGroup = A7D7B42B2F861C9F005201AE /* Products */;
+					ProjectRef = A7D7B42A2F861C9F005201AE /* remindo.xcodeproj */;
 				},
 				{
 					ProductGroup = A71A03162F6A400600564534 /* Products */;

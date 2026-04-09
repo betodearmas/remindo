@@ -1,6 +1,49 @@
 [
-  { "name": "Islamic Republic Day", "date": "2026-04-01", "localName": "روز جمهوری اسلامی" },
-  { "name": "Nowruz", "date": "2026-03-21", "localName": "نوروز" },
-  { "name": "Nature Day", "date": "2026-04-02", "localName": "سیزده‌به‌در" },
-  { "name": "Revolution Day", "date": "2026-02-11", "localName": "پیروزی انقلاب اسلامی" }
+  { "name": "Imam Ali's Birthday", "date": "2026-01-03", "localName": "میلاد امام علی (ع)", "category": "public_holiday" },
+  { "name": "Eid al-Mab'ath (Prophet's Mission)", "date": "2026-01-16", "localName": "عید مبعث", "category": "public_holiday" },
+
+  { "name": "Imam Mahdi's Birthday", "date": "2026-02-04", "localName": "میلاد امام مهدی (عج)", "category": "public_holiday" },
+  { "name": "Islamic Revolution Day", "date": "2026-02-11", "localName": "پیروزی انقلاب اسلامی", "category": "public_holiday" },
+
+  { "name": "Death of Ayatollah Khamenei (Day 1)", "date": "2026-03-01", "localName": "درگذشت آیت‌الله خامنه‌ای", "category": "public_holiday" },
+  { "name": "Death of Ayatollah Khamenei (Day 2)", "date": "2026-03-02", "localName": "درگذشت آیت‌الله خامنه‌ای", "category": "public_holiday" },
+  { "name": "Death of Ayatollah Khamenei (Day 3)", "date": "2026-03-03", "localName": "درگذشت آیت‌الله خامنه‌ای", "category": "public_holiday" },
+  { "name": "Death of Ayatollah Khamenei (Day 4)", "date": "2026-03-04", "localName": "درگذشت آیت‌الله خامنه‌ای", "category": "public_holiday" },
+  { "name": "Death of Ayatollah Khamenei (Day 5)", "date": "2026-03-05", "localName": "درگذشت آیت‌الله خامنه‌ای", "category": "public_holiday" },
+  { "name": "Death of Ayatollah Khamenei (Day 6)", "date": "2026-03-06", "localName": "درگذشت آیت‌الله خامنه‌ای", "category": "public_holiday" },
+  { "name": "Death of Ayatollah Khamenei (Day 7)", "date": "2026-03-07", "localName": "درگذشت آیت‌الله خامنه‌ای", "category": "public_holiday" },
+  { "name": "Martyrdom of Imam Ali", "date": "2026-03-11", "localName": "شهادت امام علی (ع)", "category": "public_holiday" },
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "تحویل سال", "category": "seasonal" },
+  { "name": "Eid al-Fitr (End of Ramadan)", "date": "2026-03-20", "localName": "عید فطر", "category": "public_holiday" },
+  { "name": "Oil Nationalisation Day", "date": "2026-03-20", "localName": "ملی شدن صنعت نفت", "category": "public_holiday" },
+  { "name": "Nowruz (Persian New Year — Day 1)", "date": "2026-03-21", "localName": "نوروز", "category": "public_holiday" },
+  { "name": "Eid al-Fitr Holiday (Day 2)", "date": "2026-03-21", "localName": "عید فطر - روز دوم", "category": "public_holiday" },
+  { "name": "Nowruz Holiday (Day 2)", "date": "2026-03-22", "localName": "نوروز - روز دوم", "category": "public_holiday" },
+  { "name": "Nowruz Holiday (Day 3)", "date": "2026-03-23", "localName": "نوروز - روز سوم", "category": "public_holiday" },
+  { "name": "Nowruz Holiday (Day 4)", "date": "2026-03-24", "localName": "نوروز - روز چهارم", "category": "public_holiday" },
+
+  { "name": "Islamic Republic Day", "date": "2026-04-01", "localName": "روز جمهوری اسلامی", "category": "public_holiday" },
+  { "name": "Nature Day (Sizdah Bedar)", "date": "2026-04-02", "localName": "سیزده‌به‌در", "category": "public_holiday" },
+  { "name": "Martyrdom of Imam Sadeq", "date": "2026-04-13", "localName": "شهادت امام صادق (ع)", "category": "public_holiday" },
+
+  { "name": "Eid al-Adha (Eid-e-Qorban)", "date": "2026-05-28", "localName": "عید قربان", "category": "public_holiday" },
+
+  { "name": "Demise of Imam Khomeini", "date": "2026-06-04", "localName": "رحلت امام خمینی", "category": "public_holiday" },
+  { "name": "Eid al-Ghadir / Khordad National Uprising", "date": "2026-06-05", "localName": "عید غدیر / قیام ۱۵ خرداد", "category": "public_holiday" },
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "انقلاب تابستانی", "category": "seasonal" },
+  { "name": "Tasoua Hosseini", "date": "2026-06-25", "localName": "تاسوعای حسینی", "category": "public_holiday" },
+  { "name": "Ashura", "date": "2026-06-26", "localName": "عاشورای حسینی", "category": "public_holiday" },
+
+  { "name": "Arbaeen", "date": "2026-08-04", "localName": "اربعین حسینی", "category": "public_holiday" },
+  { "name": "Death of Prophet Muhammad / Martyrdom of Imam Hassan", "date": "2026-08-12", "localName": "رحلت پیامبر / شهادت امام حسن (ع)", "category": "public_holiday" },
+  { "name": "Martyrdom of Imam Reza", "date": "2026-08-14", "localName": "شهادت امام رضا (ع)", "category": "public_holiday" },
+  { "name": "Martyrdom of Imam Hassan Askari", "date": "2026-08-22", "localName": "شهادت امام حسن عسکری (ع)", "category": "public_holiday" },
+  { "name": "Birthday of Prophet Muhammad and Imam Sadeq", "date": "2026-08-25", "localName": "میلاد پیامبر و امام صادق (ع)", "category": "public_holiday" },
+
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "اعتدال پاییزی", "category": "seasonal" },
+
+  { "name": "Martyrdom of Hazrat Fatimah", "date": "2026-11-14", "localName": "شهادت حضرت فاطمه (س)", "category": "public_holiday" },
+
+  { "name": "December Solstice / Yalda Night", "date": "2026-12-21", "localName": "شب یلدا / انقلاب زمستانی", "category": "cultural" },
+  { "name": "Imam Ali's Birthday (2nd occurrence)", "date": "2026-12-23", "localName": "میلاد امام علی (ع)", "category": "public_holiday" }
 ]

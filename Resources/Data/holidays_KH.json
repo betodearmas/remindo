@@ -1,9 +1,36 @@
 [
-  { "name": "New Year's Day", "date": "2026-01-01", "localName": "ចូលឆ្នាំថ្មី" },
-  { "name": "International Women's Day", "date": "2026-03-08", "localName": "ទិវាស្ត្រីអន្តរជាតិ" },
-  { "name": "Victory Day over Genocide", "date": "2026-01-07", "localName": "ទិវាចូរជ័យលាភ" },
-  { "name": "Labour Day", "date": "2026-05-01", "localName": "ទិវាកម្មករ" },
-  { "name": "King's Birthday", "date": "2026-05-14", "localName": "ថ្ងៃកំណើតព្រះមហាក្សត្រ" },
-  { "name": "Constitution Day", "date": "2026-09-24", "localName": "ទិវាអំណាចរដ្ឋធម្មនុញ្ញ" },
-  { "name": "Christmas Day", "date": "2026-12-25", "localName": "ណូអែល" }
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "ទិវាចូលឆ្នាំថ្មីអន្តរជាតិ", "category": "public_holiday" },
+  { "name": "Victory Over the Genocide Day", "date": "2026-01-07", "localName": "ទិវាជ័យជម្នះលើរបបប្រល័យពូជសាសន៍", "category": "public_holiday" },
+
+  { "name": "International Women's Day", "date": "2026-03-08", "localName": "ទិវាស្ត្រីអន្តរជាតិ", "category": "public_holiday" },
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "ថ្ងៃវិសុវត្តិ봄", "category": "seasonal" },
+
+  { "name": "Khmer New Year (Day 1 — Maha Songkran)", "date": "2026-04-14", "localName": "ចូលឆ្នាំខ្មែរ (មហាសង្ក្រាន្ត)", "category": "public_holiday" },
+  { "name": "Khmer New Year (Day 2 — Virak Wanabat)", "date": "2026-04-15", "localName": "ចូលឆ្នាំខ្មែរ (វិរៈវ័នបត)", "category": "public_holiday" },
+  { "name": "Khmer New Year (Day 3 — Virak Loeng Sak)", "date": "2026-04-16", "localName": "ចូលឆ្នាំខ្មែរ (វិរៈឡើងស័ក)", "category": "public_holiday" },
+
+  { "name": "Labour Day / Visakha Bucha Day", "date": "2026-05-01", "localName": "ទិវាពលកម្មអន្តរជាតិ / ទិវាវិសាខបូជា", "category": "public_holiday" },
+  { "name": "Royal Ploughing Ceremony", "date": "2026-05-05", "localName": "ព្រះរាជពិធីបណ្តុះស្រែចម្ការ", "category": "public_holiday" },
+  { "name": "King Norodom Sihamoni's Birthday", "date": "2026-05-14", "localName": "ព្រះរាជសម្ភព​ព្រះករុណា​ព្រះ​បាទ​សម្ដេច​ព្រះ​នរោត្តម​សីហមុនី", "category": "public_holiday" },
+
+  { "name": "Queen Mother Norodom Monineath's Birthday", "date": "2026-06-18", "localName": "ព្រះរាជសម្ភពព្រះម្នាងម្ចាស់នរោត្តមមុនីនាថ", "category": "public_holiday" },
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "ថ្ងៃដំបូងរដូវវស្សា", "category": "seasonal" },
+
+  { "name": "Constitution Day", "date": "2026-09-24", "localName": "ទិវារដ្ឋធម្មនុញ្ញ", "category": "public_holiday" },
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "ថ្ងៃវិសុវត្តិ", "category": "seasonal" },
+
+  { "name": "Pchum Ben Festival (Day 1)", "date": "2026-10-10", "localName": "ពិធីភ្ជុំបិណ្ឌ", "category": "public_holiday" },
+  { "name": "Pchum Ben Festival (Day 2)", "date": "2026-10-11", "localName": "ពិធីភ្ជុំបិណ្ឌ", "category": "public_holiday" },
+  { "name": "Pchum Ben Festival (Day 3)", "date": "2026-10-12", "localName": "ពិធីភ្ជុំបិណ្ឌ", "category": "public_holiday" },
+  { "name": "Commemoration Day of King Father Norodom Sihanouk", "date": "2026-10-15", "localName": "ទិវារំឭកព្រះករុណាព្រះបាទនរោត្តម សីហនុ", "category": "public_holiday" },
+  { "name": "Coronation Day of King Norodom Sihamoni", "date": "2026-10-29", "localName": "ទិវាគ្រងរាជ្យរបស់ព្រះករុណាព្រះបាទសម្ដេចព្រះនរោត្តមសីហមុនី", "category": "public_holiday" },
+
+  { "name": "Independence Day", "date": "2026-11-09", "localName": "ទិវាឯករាជ្យជាតិ", "category": "public_holiday" },
+  { "name": "Water Festival / Bon Om Touk (Day 1)", "date": "2026-11-23", "localName": "ពិធីបុណ្យអុំទូក", "category": "public_holiday" },
+  { "name": "Water Festival / Bon Om Touk (Day 2)", "date": "2026-11-24", "localName": "ពិធីបុណ្យអុំទូក", "category": "public_holiday" },
+  { "name": "Water Festival / Bon Om Touk (Day 3)", "date": "2026-11-25", "localName": "ពិធីបុណ្យអុំទូក", "category": "public_holiday" },
+
+  { "name": "December Solstice", "date": "2026-12-21", "localName": "ថ្ងៃដំបូងរដូវរងារ", "category": "seasonal" },
+  { "name": "Peace Day", "date": "2026-12-29", "localName": "ទិវាសន្តិភាព", "category": "public_holiday" },
+  { "name": "New Year's Eve", "date": "2026-12-31", "localName": "យប់ចូលឆ្នាំថ្មី", "category": "observance" }
 ]

@@ -1,7 +1,44 @@
 [
-  { "name": "Independence Day", "date": "2026-02-04", "localName": "නිදහස් දිනය" },
-  { "name": "Tamil Thai Pongal Day", "date": "2026-01-14", "localName": "தைப்பொங்கல்" },
-  { "name": "Sinhala and Tamil New Year", "date": "2026-04-14", "localName": "සිංහල හා தமிழ் புத்தாண்டு" },
-  { "name": "Labour Day", "date": "2026-05-01", "localName": "මැයි දිනය" },
-  { "name": "Christmas Day", "date": "2026-12-25", "localName": "නත්තල් දිනය" }
+  { "name": "Duruthu Full Moon Poya Day", "date": "2026-01-03", "localName": "දුරුතු පොහොය", "category": "religious" },
+  { "name": "Tamil Thai Pongal Day", "date": "2026-01-15", "localName": "தைப்பொங்கல்", "category": "public_holiday" },
+
+  { "name": "Navam Full Moon Poya Day", "date": "2026-02-01", "localName": "නවම් පොහොය", "category": "religious" },
+  { "name": "Independence Day", "date": "2026-02-04", "localName": "නිදහස් දිනය", "category": "public_holiday" },
+  { "name": "Mahasivarathri Day", "date": "2026-02-15", "localName": "மகாசிவராத்திரி", "category": "public_holiday" },
+
+  { "name": "Madin Full Moon Poya Day", "date": "2026-03-02", "localName": "මැදින් පොහොය", "category": "religious" },
+  { "name": "Eid al-Fitr", "date": "2026-03-21", "localName": "ඊදුල් ෆිතර්", "category": "public_holiday" },
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "වසන්ත විෂුව", "category": "seasonal" },
+
+  { "name": "Bak Full Moon Poya Day", "date": "2026-04-01", "localName": "බක් පොහොය", "category": "religious" },
+  { "name": "Good Friday", "date": "2026-04-03", "localName": "මහ සිකුරාදා", "category": "public_holiday" },
+  { "name": "Sinhala and Tamil New Year's Eve", "date": "2026-04-13", "localName": "සිංහල හා දෙමළ අලුත් අවුරුදු උදාව", "category": "public_holiday" },
+  { "name": "Sinhala and Tamil New Year's Day", "date": "2026-04-14", "localName": "සිංහල හා දෙමළ අලුත් අවුරුද්ද", "category": "public_holiday" },
+
+  { "name": "Vesak Full Moon Poya Day", "date": "2026-05-01", "localName": "වෙසක් පොහොය", "category": "religious" },
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "මැයි දිනය", "category": "public_holiday" },
+  { "name": "Day after Vesak Full Moon Poya Day", "date": "2026-05-02", "localName": "වෙසක් පොහොය පසු දිනය", "category": "religious" },
+  { "name": "Eid al-Adha", "date": "2026-05-28", "localName": "ඊදුල් අල්හා", "category": "public_holiday" },
+  { "name": "Adhi Poson Full Moon Poya Day", "date": "2026-05-30", "localName": "අධි පොසොන් පොහොය", "category": "religious" },
+
+  { "name": "Poson Full Moon Poya Day", "date": "2026-06-29", "localName": "පොසොන් පොහොය", "category": "religious" },
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "ග්‍රීෂ්ම අයනය", "category": "seasonal" },
+
+  { "name": "Esala Full Moon Poya Day", "date": "2026-07-29", "localName": "එසල පොහොය", "category": "religious" },
+
+  { "name": "Milad-Un-Nabi (Prophet's Birthday)", "date": "2026-08-26", "localName": "මිලාද් උන් නබි", "category": "public_holiday" },
+  { "name": "Nikini Full Moon Poya Day", "date": "2026-08-27", "localName": "නිකිණි පොහොය", "category": "religious" },
+
+  { "name": "Binara Full Moon Poya Day", "date": "2026-09-26", "localName": "බිනර පොහොය", "category": "religious" },
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "ශරත් විෂුව", "category": "seasonal" },
+
+  { "name": "Vap Full Moon Poya Day", "date": "2026-10-25", "localName": "වප් පොහොය", "category": "religious" },
+
+  { "name": "Deepavali", "date": "2026-11-08", "localName": "தீபாவளி", "category": "public_holiday" },
+  { "name": "Il Full Moon Poya Day", "date": "2026-11-24", "localName": "ඉල් පොහොය", "category": "religious" },
+
+  { "name": "Unduvap Full Moon Poya Day", "date": "2026-12-23", "localName": "උඳුවප් පොහොය", "category": "religious" },
+  { "name": "December Solstice", "date": "2026-12-22", "localName": "ශීත අයනය", "category": "seasonal" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "නත්තල් දිනය", "category": "public_holiday" },
+  { "name": "New Year's Eve", "date": "2026-12-31", "localName": "නව වසර පෙරදා", "category": "observance" }
 ]

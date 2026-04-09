@@ -1,7 +1,40 @@
 [
-  { "name": "New Year's Day", "date": "2026-01-01", "localName": "ວັນປີໃໝ່" },
-  { "name": "International Women's Day", "date": "2026-03-08", "localName": "ວັນແມ່ຍິງສາກົນ" },
-  { "name": "Lao New Year", "date": "2026-04-14", "localName": "ປີໃໝ່ລາວ" },
-  { "name": "Labour Day", "date": "2026-05-01", "localName": "ວັນແຮງງານ" },
-  { "name": "National Day", "date": "2026-12-02", "localName": "ວັນຊາດ" }
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "ວັນປີໃໝ່", "category": "public_holiday" },
+  { "name": "Pathet Lao Day", "date": "2026-01-06", "localName": "ວັນປາເຕດລາວ", "category": "observance" },
+  { "name": "Lao People's Army Day", "date": "2026-01-20", "localName": "ວັນສ້າງຕັ້ງກອງທັບປະຊາຊົນລາວ", "category": "observance" },
+  { "name": "Boun Khoun Khao (Rice Harvest Festival)", "date": "2026-01-30", "localName": "ບຸນຂຶ້ນຫ້ອງ", "category": "cultural" },
+
+  { "name": "Makha Bucha / Boun Khao Chi", "date": "2026-02-17", "localName": "ວັນມາຄະບູຊາ / ບຸນເຂົ້າຈີ່", "category": "religious" },
+
+  { "name": "Boun Pha Vet", "date": "2026-03-03", "localName": "ບຸນພະເວດ", "category": "religious" },
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "ວິສຸວັດລະດູໃບໄມ້ຜລິ", "category": "seasonal" },
+  { "name": "Lao People's Revolutionary Party Day", "date": "2026-03-22", "localName": "ວັນສ້າງຕັ້ງພັກ", "category": "observance" },
+
+  { "name": "Lao New Year / Pi Mai (Day 1)", "date": "2026-04-14", "localName": "ບຸນປີໃໝ່ລາວ", "category": "public_holiday" },
+  { "name": "Lao New Year / Pi Mai (Day 2)", "date": "2026-04-15", "localName": "ບຸນປີໃໝ່ລາວ", "category": "public_holiday" },
+  { "name": "Lao New Year / Pi Mai (Day 3)", "date": "2026-04-16", "localName": "ບຸນປີໃໝ່ລາວ", "category": "public_holiday" },
+
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "ວັນກຳມະກອນສາກົນ", "category": "public_holiday" },
+  { "name": "Boun Bang Fai (Rocket Festival)", "date": "2026-05-09", "localName": "ບຸນບັ້ງໄຟ", "category": "cultural" },
+  { "name": "Visakha Bucha (Boun Visakha)", "date": "2026-05-24", "localName": "ວັນວິສາຂະບູຊາ", "category": "religious" },
+
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "ວິສຸວັດລະດູຮ້ອນ", "category": "seasonal" },
+
+  { "name": "Lao Women's Union Day", "date": "2026-07-20", "localName": "ວັນສ້າງຕັ້ງສະຫະພັນແມ່ຍິງລາວ", "category": "public_holiday" },
+  { "name": "Asalha Puja (Boun Khao Phansa — Buddhist Lent begins)", "date": "2026-07-22", "localName": "ວັນອາສາລຫາບູຊາ / ວັນເຂົ້າພັນສາ", "category": "religious" },
+
+  { "name": "Lao Issara Day (Day of Free Laos)", "date": "2026-08-13", "localName": "ວັນລາວອິດສາລາ", "category": "observance" },
+  { "name": "Boun Ho Khao Padabdin (Ancestor Commemoration)", "date": "2026-09-09", "localName": "ບຸນຮ້ອງເຂົ້າປະດັບດິນ", "category": "religious" },
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "ວິສຸວັດລະດູໃບໄມ້ຫຼົ່ນ", "category": "seasonal" },
+
+  { "name": "Boun Ok Phansa / Boun Heua Fai (End of Buddhist Lent)", "date": "2026-10-05", "localName": "ວັນອອກພັນສາ / ບຸນເຮືອໄຟ", "category": "religious" },
+  { "name": "Boun Khao Salak", "date": "2026-10-05", "localName": "ບຸນເຂົ້າສະລາກ", "category": "religious" },
+  { "name": "Boat Racing Festival / Boun Suang Heua (Vientiane)", "date": "2026-10-06", "localName": "ບຸນແຂ່ງເຮືອ", "category": "cultural" },
+
+  { "name": "That Luang Festival (Boun That Luang)", "date": "2026-11-24", "localName": "ບຸນທາດຫຼວງ", "category": "cultural" },
+  { "name": "Hmong New Year", "date": "2026-12-01", "localName": "ປີໃໝ່ມົ້ງ", "category": "cultural" },
+
+  { "name": "National Day", "date": "2026-12-02", "localName": "ວັນຊາດ", "category": "public_holiday" },
+  { "name": "December Solstice", "date": "2026-12-22", "localName": "ວິສຸວັດລະດູໜາວ", "category": "seasonal" },
+  { "name": "New Year's Eve", "date": "2026-12-31", "localName": "ຄືນສົ່ງທ້າຍປີ", "category": "observance" }
 ]

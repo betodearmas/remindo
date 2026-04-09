@@ -1,8 +1,35 @@
 [
-  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Jour de l'An" },
-  { "name": "Army Day", "date": "2026-01-20", "localName": "Fête de l'Armée" },
-  { "name": "Labour Day", "date": "2026-05-01", "localName": "Fête du Travail" },
-  { "name": "Africa Day", "date": "2026-05-25", "localName": "Journée de l'Afrique" },
-  { "name": "Independence Day", "date": "2026-09-22", "localName": "Fête de l'Indépendance" },
-  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Noël" }
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Jour de l'An", "category": "public_holiday" },
+  { "name": "New Year's Day Holiday", "date": "2026-01-02", "localName": "Lendemain du Jour de l'An", "category": "public_holiday" },
+  { "name": "Army Day", "date": "2026-01-20", "localName": "Fête de l'Armée", "category": "public_holiday" },
+  
+  { "name": "Ramadan Start", "date": "2026-02-18", "localName": "Début du Ramadan", "category": "observance" },
+
+  { "name": "Eid al-Fitr", "date": "2026-03-20", "localName": "Korité", "category": "public_holiday" },
+  { "name": "Laylat al-Qadr", "date": "2026-03-16", "localName": "Leylatoul Qadr", "category": "observance" },
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "Équinoxe de printemps", "category": "seasonal" },
+  { "name": "Martyrs' Day", "date": "2026-03-26", "localName": "Jour des Martyrs", "category": "public_holiday" },
+
+  { "name": "Easter Monday", "date": "2026-04-06", "localName": "Lundi de Pâques", "category": "public_holiday" },
+
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Fête du Travail", "category": "public_holiday" },
+  { "name": "Whit Monday", "date": "2026-05-25", "localName": "Lundi de Pentecôte", "category": "observance" }
+  { "name": "Africa Day", "date": "2026-05-25", "localName": "Journée de l'Afrique", "category": "public_holiday" },
+  { "name": "Eid al-Adha", "date": "2026-05-27", "localName": "Tabaski", "category": "public_holiday" },
+
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "Solstice d'été", "category": "seasonal" },
+  { "name": "Ashura", "date": "2026-06-26", "localName": "Achoura", "category": "public_holiday" },
+
+  { "name": "Prophet's Birthday (Mawlid)", "date": "2026-08-26", "localName": "Maouloud", "category": "public_holiday" },
+
+  { "name": "Baptism of the Prophet", "date": "2026-09-01", "localName": "Maouloud Anbi", "category": "public_holiday" },
+  { "name": "Independence Day", "date": "2026-09-22", "localName": "Fête de l'Indépendance", "category": "public_holiday" },
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "Équinoxe d'automne", "category": "seasonal" },
+
+  { "name": "December Solstice", "date": "2026-12-21", "localName": "Solstice d'hiver", "category": "seasonal" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Noël", "category": "public_holiday" }
 ]
+ 
+ 
+
+ 

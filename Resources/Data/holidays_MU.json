@@ -1,8 +1,27 @@
 [
-  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Nouvel An" },
-  { "name": "Abolition of Slavery Day", "date": "2026-02-01", "localName": "Abolition de l'esclavage" },
-  { "name": "Independence Day", "date": "2026-03-12", "localName": "Fête de l'Indépendance" },
-  { "name": "Labour Day", "date": "2026-05-01", "localName": "Fête du Travail" },
-  { "name": "All Saints' Day", "date": "2026-11-01", "localName": "Toussaint" },
-  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Noël" }
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Nouvel An", "category": "public_holiday" },
+  { "name": "New Year's Day (Day 2)", "date": "2026-01-02", "localName": "Lendemain du Nouvel An", "category": "public_holiday" },
+
+  { "name": "Thaipoosam Cavadee", "date": "2026-02-01", "localName": "Thaipoosam Cavadee", "category": "public_holiday" },
+  { "name": "Abolition of Slavery Day", "date": "2026-02-01", "localName": "Abolition de l'esclavage", "category": "public_holiday" },
+  { "name": "Maha Shivaratree", "date": "2026-02-15", "localName": "Maha Shivaratree", "category": "public_holiday" },
+  { "name": "Chinese Spring Festival", "date": "2026-02-17", "localName": "Fête du Printemps Chinois", "category": "public_holiday" },
+
+  { "name": "National Day (Independence Day)", "date": "2026-03-12", "localName": "Fête Nationale", "category": "public_holiday" },
+  { "name": "Ugaadi", "date": "2026-03-19", "localName": "Ugaadi", "category": "public_holiday" },
+  { "name": "Eid-Ul-Fitr", "date": "2026-03-21", "localName": "Eid-Ul-Fitr", "category": "public_holiday" },
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "Équinoxe de printemps", "category": "seasonal" },
+
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Fête du Travail", "category": "public_holiday" },
+
+  { "name": "Assumption of the Blessed Virgin Mary", "date": "2026-08-15", "localName": "Assomption", "category": "public_holiday" },
+
+  { "name": "Ganesh Chaturthi", "date": "2026-09-16", "localName": "Ganesh Chaturthi", "category": "public_holiday" },
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "Équinoxe d'automne", "category": "seasonal" },
+
+  { "name": "Arrival of Indentured Labourers", "date": "2026-11-02", "localName": "Arrivée des travailleurs engagés", "category": "public_holiday" },
+  { "name": "Divali", "date": "2026-11-08", "localName": "Divali", "category": "public_holiday" },
+
+  { "name": "December Solstice", "date": "2026-12-21", "localName": "Solstice d'hiver", "category": "seasonal" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Noël", "category": "public_holiday" }
 ]

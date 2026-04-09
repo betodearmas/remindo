@@ -1,10 +1,38 @@
 [
-  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Nova Godina" },
-  { "name": "Epiphany", "date": "2026-01-06", "localName": "Bogojavljenje" },
-  { "name": "Easter Sunday", "date": "2026-04-05", "localName": "Uskrs" },
-  { "name": "Labour Day", "date": "2026-05-01", "localName": "Praznik rada" },
-  { "name": "Statehood Day", "date": "2026-06-25", "localName": "Dan državnosti" },
-  { "name": "Independence Day", "date": "2026-10-08", "localName": "Dan neovisnosti" },
-  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Božić" },
-  { "name": "St. Stephen's Day", "date": "2026-12-26", "localName": "Sveti Stjepan" }
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Nova godina", "category": "public_holiday" },
+  { "name": "Three Kings' Day", "date": "2026-01-06", "localName": "Sveta tri kralja", "category": "public_holiday" },
+
+  { "name": "Rijeka Carnival", "date": "2026-01-17", "localName": "Riječki karneval", "category": "cultural" },
+  { "name": "Valentine's Day", "date": "2026-02-14", "localName": "Valentinovo", "category": "observance" },
+  { "name": "Festival of St. Blaise (Dubrovnik)", "date": "2026-02-03", "localName": "Festa sv. Vlaha", "category": "cultural" },
+
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "Proljetni ekvinocij", "category": "seasonal" },
+
+  { "name": "Easter Sunday", "date": "2026-04-05", "localName": "Uskrs", "category": "public_holiday" },
+  { "name": "Easter Monday", "date": "2026-04-06", "localName": "Uskrsni ponedjeljak", "category": "public_holiday" },
+
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Praznik rada", "category": "public_holiday" },
+  { "name": "Mother's Day", "date": "2026-05-10", "localName": "Dan majki", "category": "observance" },
+  { "name": "Statehood Day", "date": "2026-05-30", "localName": "Dan državnosti", "category": "public_holiday" },
+
+  { "name": "Corpus Christi", "date": "2026-06-04", "localName": "Tijelovo", "category": "public_holiday" },
+  { "name": "Father's Day", "date": "2026-06-21", "localName": "Dan očeva", "category": "observance" },
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "Ljetni suncostaj", "category": "seasonal" },
+  { "name": "Anti-Fascist Struggle Day", "date": "2026-06-22", "localName": "Dan antifašističke borbe", "category": "public_holiday" },
+
+  { "name": "Dubrovnik Summer Festival", "date": "2026-07-10", "localName": "Dubrovačke ljetne igre", "category": "cultural" },
+
+  { "name": "Victory and Homeland Thanksgiving Day", "date": "2026-08-05", "localName": "Dan pobjede i domovinske zahvalnosti", "category": "public_holiday" },
+  { "name": "Assumption of Mary", "date": "2026-08-15", "localName": "Velika Gospa", "category": "public_holiday" },
+
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "Jesenski ekvinocij", "category": "seasonal" },
+
+  { "name": "All Saints' Day", "date": "2026-11-01", "localName": "Svi sveti", "category": "public_holiday" },
+  { "name": "Remembrance Day", "date": "2026-11-18", "localName": "Dan sjećanja na žrtve Domovinskog rata", "category": "public_holiday" },
+
+  { "name": "Advent Zagreb (Christmas Market)", "date": "2026-11-28", "localName": "Advent u Zagrebu", "category": "cultural" },
+  { "name": "Christmas Eve", "date": "2026-12-24", "localName": "Badnjak", "category": "observance" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Božić", "category": "public_holiday" },
+  { "name": "St. Stephen's Day", "date": "2026-12-26", "localName": "Sveti Stjepan", "category": "public_holiday" },
+  { "name": "New Year's Eve", "date": "2026-12-31", "localName": "Stara godina", "category": "observance" }
 ]

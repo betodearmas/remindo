@@ -1,6 +1,25 @@
 [
-  { "name": "New Year's Day", "date": "2026-01-01", "localName": "New Year's Day" },
-  { "name": "Constitution Day", "date": "2026-05-01", "localName": "Constitution Day" },
-  { "name": "Independence Day", "date": "2026-10-21", "localName": "Independence Day" },
-  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Christmas Day" }
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Ier in Iiō Ekaal", "category": "public_holiday" },
+
+  { "name": "Remembrance Day", "date": "2026-03-02", "localName": "Rainin Kememej", "category": "public_holiday" },
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "March Equinox", "category": "seasonal" },
+
+  { "name": "Good Friday", "date": "2026-04-03", "localName": "Rainin Jemkutkut", "category": "public_holiday" },
+
+  { "name": "Constitution Day", "date": "2026-05-01", "localName": "Rainin Konistitujen", "category": "public_holiday" },
+
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "June Solstice", "category": "seasonal" },
+  { "name": "Youth Day", "date": "2026-06-07", "localName": "Rainin Rūtto ro", "category": "public_holiday" },
+
+  { "name": "Fishermen's Day", "date": "2026-07-03", "localName": "Rainin ro rej kōjọ", "category": "public_holiday" },
+
+  { "name": "Labour Day", "date": "2026-09-04", "localName": "Rainin Jerbal", "category": "public_holiday" },
+  { "name": "Manit Day (Culture Day)", "date": "2026-09-25", "localName": "Rainin Manit", "category": "public_holiday" },
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "September Equinox", "category": "seasonal" },
+
+  { "name": "Presidents' Day", "date": "2026-11-17", "localName": "Rainin Peresiden ro", "category": "public_holiday" },
+
+  { "name": "Gospel Day", "date": "2026-12-04", "localName": "Rainin Kojbaroke", "category": "public_holiday" },
+  { "name": "December Solstice", "date": "2026-12-21", "localName": "December Solstice", "category": "seasonal" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Rainin Kirijmōj", "category": "public_holiday" }
 ]

@@ -1,6 +1,36 @@
 [
-  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Año Nuevo" },
-  { "name": "Labour Day", "date": "2026-05-01", "localName": "Día del Trabajador" },
-  { "name": "Independence Day", "date": "2026-10-12", "localName": "Día de la Independencia" },
-  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Navidad" }
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Año Nuevo", "category": "public_holiday" },
+
+  { "name": "Valentine's Day", "date": "2026-02-14", "localName": "Día de San Valentín", "category": "observance" },
+
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "Equinoccio de marzo", "category": "seasonal" },
+  { "name": "Maundy Thursday", "date": "2026-04-02", "localName": "Jueves Santo", "category": "religious" },
+  { "name": "Good Friday", "date": "2026-04-03", "localName": "Viernes Santo", "category": "public_holiday" },
+  { "name": "Holy Saturday", "date": "2026-04-04", "localName": "Sábado Santo", "category": "religious" },
+  { "name": "Easter Sunday", "date": "2026-04-05", "localName": "Domingo de Resurrección", "category": "religious" },
+
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Día del Trabajo", "category": "public_holiday" },
+  { "name": "Fiesta de la Santa Cruz", "date": "2026-05-03", "localName": "Fiesta de la Santa Cruz", "category": "cultural" },
+  { "name": "Mother's Day", "date": "2026-05-10", "localName": "Día de la Madre", "category": "observance" },
+
+  { "name": "Corpus Christi", "date": "2026-06-04", "localName": "Corpus Christi", "category": "public_holiday" },
+  { "name": "President's Day", "date": "2026-06-05", "localName": "Día del Presidente", "category": "public_holiday" },
+  { "name": "Fang People's Festival", "date": "2026-06-15", "localName": "Festival del Pueblo Fang", "category": "cultural" },
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "Solsticio de junio", "category": "seasonal" },
+  { "name": "Father's Day", "date": "2026-06-21", "localName": "Día del Padre", "category": "observance" },
+
+  { "name": "Freedom Day", "date": "2026-08-03", "localName": "Día de la Libertad", "category": "public_holiday" },
+  { "name": "Constitution Day", "date": "2026-08-15", "localName": "Día de la Constitución", "category": "public_holiday" },
+
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "Equinoccio de septiembre", "category": "seasonal" },
+
+  { "name": "Independence Day", "date": "2026-10-12", "localName": "Día de la Independencia", "category": "public_holiday" },
+
+  { "name": "All Saints' Day", "date": "2026-11-01", "localName": "Día de Todos los Santos", "category": "public_holiday" },
+
+  { "name": "Feast of the Immaculate Conception", "date": "2026-12-08", "localName": "Inmaculada Concepción", "category": "public_holiday" },
+  { "name": "December Solstice", "date": "2026-12-21", "localName": "Solsticio de diciembre", "category": "seasonal" },
+  { "name": "Christmas Eve", "date": "2026-12-24", "localName": "Nochebuena", "category": "observance" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Navidad", "category": "public_holiday" },
+  { "name": "New Year's Eve", "date": "2026-12-31", "localName": "Nochevieja", "category": "observance" }
 ]

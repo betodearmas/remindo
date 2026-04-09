@@ -1,9 +1,53 @@
 [
-  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Año Nuevo" },
-  { "name": "Constitution Day", "date": "2026-02-02", "localName": "Día de la Constitución" },
-  { "name": "Benito Juárez Day", "date": "2026-03-16", "localName": "Natalicio de Benito Juárez" },
-  { "name": "Labour Day", "date": "2026-05-01", "localName": "Día del Trabajo" },
-  { "name": "Independence Day", "date": "2026-09-16", "localName": "Día de la Independencia" },
-  { "name": "Revolution Day", "date": "2026-11-16", "localName": "Día de la Revolución" },
-  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Navidad" }
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Año Nuevo", "category": "public_holiday" },
+  { "name": "Three Kings Day (Epiphany)", "date": "2026-01-06", "localName": "Día de Reyes", "category": "cultural" },
+
+  { "name": "Candlemas (Día de la Candelaria)", "date": "2026-02-02", "localName": "Día de la Candelaria", "category": "religious" },
+  { "name": "Constitution Day (observed)", "date": "2026-02-02", "localName": "Día de la Constitución", "category": "public_holiday" },
+  { "name": "Carnival (Mazatlán/Veracruz)", "date": "2026-02-14", "localName": "Carnaval", "category": "cultural" },
+  { "name": "Valentine's Day", "date": "2026-02-14", "localName": "Día del Amor y la Amistad", "category": "observance" },
+
+  { "name": "Benito Juárez Day (observed)", "date": "2026-03-16", "localName": "Natalicio de Benito Juárez", "category": "public_holiday" },
+  { "name": "Benito Juárez Birthday (actual)", "date": "2026-03-21", "localName": "Natalicio de Benito Juárez (fecha real)", "category": "observance" },
+  { "name": "March Equinox / Spring Equinox Chichen Itza", "date": "2026-03-20", "localName": "Equinoccio de primavera", "category": "seasonal" },
+
+  { "name": "Holy Thursday (Semana Santa)", "date": "2026-04-02", "localName": "Jueves Santo", "category": "observance" },
+  { "name": "Good Friday (Semana Santa)", "date": "2026-04-03", "localName": "Viernes Santo", "category": "observance" },
+  { "name": "Easter Sunday", "date": "2026-04-05", "localName": "Domingo de Pascua", "category": "religious" },
+  { "name": "Feria Nacional de San Marcos", "date": "2026-04-22", "localName": "Feria Nacional de San Marcos", "category": "cultural" },
+
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Día del Trabajo", "category": "public_holiday" },
+  { "name": "Battle of Puebla (Cinco de Mayo)", "date": "2026-05-05", "localName": "Día de la Batalla de Puebla", "category": "observance" },
+  { "name": "Mother's Day", "date": "2026-05-10", "localName": "Día de las Madres", "category": "observance" },
+  { "name": "Teacher's Day", "date": "2026-05-15", "localName": "Día del Maestro", "category": "observance" },
+
+  { "name": "Father's Day", "date": "2026-06-21", "localName": "Día del Padre", "category": "observance" },
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "Solsticio de verano", "category": "seasonal" },
+  { "name": "Feast of St. John the Baptist", "date": "2026-06-24", "localName": "Día de San Juan Bautista", "category": "religious" },
+
+  { "name": "Guelaguetza Festival (Day 1)", "date": "2026-07-20", "localName": "Guelaguetza (Lunes del Cerro)", "category": "cultural" },
+  { "name": "Guelaguetza Festival (Day 2)", "date": "2026-07-27", "localName": "Guelaguetza (Lunes del Cerro)", "category": "cultural" },
+
+  { "name": "Noche que Nadie Duerme (Huamantla)", "date": "2026-08-14", "localName": "La Noche que Nadie Duerme", "category": "cultural" },
+  { "name": "Assumption of Mary", "date": "2026-08-15", "localName": "Asunción de la Virgen", "category": "religious" },
+  { "name": "International Mariachi Festival (Guadalajara)", "date": "2026-08-27", "localName": "Festival Internacional del Mariachi y la Charrería", "category": "cultural" },
+
+  { "name": "Independence Day (El Grito — night before)", "date": "2026-09-15", "localName": "El Grito de Independencia", "category": "cultural" },
+  { "name": "Independence Day", "date": "2026-09-16", "localName": "Día de la Independencia", "category": "public_holiday" },
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "Equinoccio de otoño", "category": "seasonal" },
+  { "name": "Día de la Raza (Columbus Day)", "date": "2026-10-12", "localName": "Día de la Raza", "category": "observance" },
+  { "name": "Festival Internacional Cervantino (Guanajuato)", "date": "2026-10-08", "localName": "Festival Internacional Cervantino", "category": "cultural" },
+  { "name": "Feria del Alfeñique (Toluca)", "date": "2026-10-27", "localName": "Feria del Alfeñique", "category": "cultural" },
+
+  { "name": "Day of the Dead — All Saints' Day", "date": "2026-11-01", "localName": "Día de Muertos / Todos Santos", "category": "cultural" },
+  { "name": "Day of the Dead", "date": "2026-11-02", "localName": "Día de Muertos", "category": "cultural" },
+  { "name": "Revolution Day (observed)", "date": "2026-11-16", "localName": "Día de la Revolución", "category": "public_holiday" },
+  { "name": "Revolution Day (actual)", "date": "2026-11-20", "localName": "Aniversario de la Revolución (fecha real)", "category": "observance" },
+
+  { "name": "Day of the Virgin of Guadalupe", "date": "2026-12-12", "localName": "Día de la Virgen de Guadalupe", "category": "religious" },
+  { "name": "Las Posadas (begin)", "date": "2026-12-16", "localName": "Las Posadas", "category": "cultural" },
+  { "name": "December Solstice", "date": "2026-12-21", "localName": "Solsticio de invierno", "category": "seasonal" },
+  { "name": "Las Posadas (end) / Noche Buena", "date": "2026-12-24", "localName": "Noche Buena", "category": "cultural" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Navidad", "category": "public_holiday" },
+  { "name": "New Year's Eve", "date": "2026-12-31", "localName": "Año Viejo / Nochevieja", "category": "observance" }
 ]

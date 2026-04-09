@@ -1,13 +1,41 @@
 [
-  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Año Nuevo" },
-  { "name": "Maundy Thursday", "date": "2026-04-02", "localName": "Jueves Santo" },
-  { "name": "Good Friday", "date": "2026-04-03", "localName": "Viernes Santo" },
-  { "name": "America Day", "date": "2026-04-14", "localName": "Día de las Américas" },
-  { "name": "Labour Day", "date": "2026-05-01", "localName": "Día del Trabajador" },
-  { "name": "Independence Day", "date": "2026-09-15", "localName": "Día de la Independencia" },
-  { "name": "Morazán Day", "date": "2026-10-03", "localName": "Día de Morazán" },
-  { "name": "Discovery of America Day", "date": "2026-10-12", "localName": "Día de la Raza" },
-  { "name": "Army Day", "date": "2026-10-21", "localName": "Día de las Fuerzas Armadas" },
-  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Navidad" }
-]
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Año Nuevo", "category": "public_holiday" },
+  { "name": "Epiphany", "date": "2026-01-06", "localName": "Día de Reyes", "category": "religious" },
 
+  { "name": "Valentine's Day", "date": "2026-02-14", "localName": "Día del Amor y la Amistad", "category": "observance" },
+  { "name": "Feria de la Virgen de Suyapa", "date": "2026-02-03", "localName": "Feria de la Virgen de Suyapa", "category": "cultural" },
+
+  { "name": "Father's Day", "date": "2026-03-19", "localName": "Día del Padre", "category": "observance" },
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "Equinoccio de marzo", "category": "seasonal" },
+  { "name": "Semana Santa (Holy Week)", "date": "2026-03-29", "localName": "Semana Santa", "category": "cultural" },
+
+  { "name": "Holy Thursday", "date": "2026-04-02", "localName": "Jueves Santo", "category": "public_holiday" },
+  { "name": "Good Friday", "date": "2026-04-03", "localName": "Viernes Santo", "category": "public_holiday" },
+  { "name": "Holy Saturday", "date": "2026-04-04", "localName": "Sábado de Gloria", "category": "public_holiday" },
+  { "name": "Easter Sunday", "date": "2026-04-05", "localName": "Domingo de Resurrección", "category": "religious" },
+  { "name": "America Day", "date": "2026-04-14", "localName": "Día de las Américas", "category": "public_holiday" },
+  { "name": "Garifuna Settlement Day (Punta Gorda)", "date": "2026-04-12", "localName": "Día Garifuna de Punta Gorda", "category": "cultural" },
+
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Día del Trabajo", "category": "public_holiday" },
+  { "name": "Feria de San Isidro (La Ceiba Carnival)", "date": "2026-05-23", "localName": "Feria de San Isidro / Gran Carnaval", "category": "cultural" },
+  { "name": "Mother's Day", "date": "2026-05-10", "localName": "Día de la Madre", "category": "observance" },
+
+  { "name": "Corpus Christi", "date": "2026-06-04", "localName": "Corpus Christi", "category": "religious" },
+  { "name": "Feria Juniana", "date": "2026-06-24", "localName": "Feria Juniana", "category": "cultural" },
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "Solsticio de junio", "category": "seasonal" },
+
+  { "name": "National Garifuna Festival", "date": "2026-07-18", "localName": "Festival Nacional Garífuna", "category": "cultural" },
+
+  { "name": "Independence Day", "date": "2026-09-15", "localName": "Día de la Independencia", "category": "public_holiday" },
+  { "name": "Teacher's Day", "date": "2026-09-17", "localName": "Día del Maestro", "category": "observance" },
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "Equinoccio de septiembre", "category": "seasonal" },
+
+  { "name": "Morazán Day", "date": "2026-10-03", "localName": "Día de Francisco Morazán", "category": "public_holiday" },
+  { "name": "Discovery of America Day", "date": "2026-10-12", "localName": "Día de la Raza", "category": "public_holiday" },
+  { "name": "Army Day", "date": "2026-10-21", "localName": "Día de las Fuerzas Armadas", "category": "public_holiday" },
+
+  { "name": "December Solstice", "date": "2026-12-21", "localName": "Solsticio de diciembre", "category": "seasonal" },
+  { "name": "Christmas Eve", "date": "2026-12-24", "localName": "Nochebuena", "category": "observance" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Navidad", "category": "public_holiday" },
+  { "name": "New Year's Eve", "date": "2026-12-31", "localName": "Nochevieja", "category": "observance" }
+]

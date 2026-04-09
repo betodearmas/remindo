@@ -1,6 +1,28 @@
 [
-  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Al Amriki" },
-  { "name": "Labour Day", "date": "2026-05-01", "localName": "Fête du Travail" },
-  { "name": "Independence Day", "date": "2026-07-06", "localName": "Fête de l'Indépendance" },
-  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Noël" }
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Jour de l'An", "category": "public_holiday" },
+  { "name": "Leilat al-Meiraj (Prophet's Ascension)", "date": "2026-01-16", "localName": "ليلة المعراج", "category": "public_holiday" },
+
+  { "name": "Cheikh Al Maarouf Day", "date": "2026-03-18", "localName": "Journée du Cheikh Al Maarouf", "category": "public_holiday" },
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "Équinoxe de mars", "category": "seasonal" },
+  { "name": "Eid al-Fitr (Day 1)", "date": "2026-03-20", "localName": "Eid el-Fitr", "category": "public_holiday" },
+  { "name": "Eid al-Fitr (Day 2)", "date": "2026-03-21", "localName": "Eid el-Fitr - Jour 2", "category": "public_holiday" },
+  { "name": "Eid al-Fitr (Day 3)", "date": "2026-03-22", "localName": "Eid el-Fitr - Jour 3", "category": "public_holiday" },
+
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Fête du Travail", "category": "public_holiday" },
+  { "name": "Eid al-Adha (Day 1)", "date": "2026-05-27", "localName": "Eid el-Kébir", "category": "public_holiday" },
+  { "name": "Eid al-Adha (Day 2)", "date": "2026-05-28", "localName": "Eid el-Kébir - Jour 2", "category": "public_holiday" },
+
+  { "name": "Islamic New Year (Muharram)", "date": "2026-06-16", "localName": "Mouharram", "category": "public_holiday" },
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "Solstice de juin", "category": "seasonal" },
+
+  { "name": "Independence Day", "date": "2026-07-06", "localName": "Fête de l'Indépendance", "category": "public_holiday" },
+  { "name": "Independence Day (Day 2)", "date": "2026-07-07", "localName": "Fête de l'Indépendance - Jour 2", "category": "public_holiday" },
+
+  { "name": "Prophet Muhammad's Birthday (Mawlid)", "date": "2026-08-25", "localName": "Mouloud", "category": "public_holiday" },
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "Équinoxe de septembre", "category": "seasonal" },
+
+  { "name": "Maore Day", "date": "2026-11-12", "localName": "Journée de Maore", "category": "public_holiday" },
+
+  { "name": "December Solstice", "date": "2026-12-21", "localName": "Solstice de décembre", "category": "seasonal" },
+  { "name": "New Year's Eve", "date": "2026-12-31", "localName": "Réveillon du Nouvel An", "category": "observance" }
 ]

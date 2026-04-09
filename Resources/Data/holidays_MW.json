@@ -1,12 +1,30 @@
 [
-  { "name": "New Year's Day", "date": "2026-01-01", "localName": "New Year's Day" },
-  { "name": "John Chilembwe Day", "date": "2026-01-15", "localName": "John Chilembwe Day" },
-  { "name": "Martyrs' Day", "date": "2026-03-03", "localName": "Martyrs' Day" },
-  { "name": "Good Friday", "date": "2026-04-03", "localName": "Good Friday" },
-  { "name": "Easter Monday", "date": "2026-04-06", "localName": "Easter Monday" },
-  { "name": "Labour Day", "date": "2026-05-01", "localName": "Labour Day" },
-  { "name": "Independence Day", "date": "2026-07-06", "localName": "Independence Day" },
-  { "name": "Mother's Day", "date": "2026-10-15", "localName": "Mother's Day" },
-  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Christmas Day" }
-]
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Tsiku la Chaka Chatsopano", "category": "public_holiday" },
 
+  { "name": "John Chilembwe Day", "date": "2026-01-15", "localName": "Tsiku la John Chilembwe", "category": "public_holiday" },
+
+  { "name": "Martyrs' Day", "date": "2026-03-03", "localName": "Tsiku la Amaliro", "category": "public_holiday" },
+  { "name": "Eid al-Fitr", "date": "2026-03-20", "localName": "Eid al-Fitr", "category": "public_holiday" },
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "March Equinox", "category": "seasonal" },
+
+  { "name": "Good Friday", "date": "2026-04-03", "localName": "Good Friday", "category": "public_holiday" },
+  { "name": "Easter Saturday", "date": "2026-04-04", "localName": "Easter Saturday", "category": "public_holiday" },
+  { "name": "Easter Monday", "date": "2026-04-06", "localName": "Easter Monday", "category": "public_holiday" },
+
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Tsiku la Antchito", "category": "public_holiday" },
+  { "name": "Kamuzu Day", "date": "2026-05-14", "localName": "Tsiku la Kamuzu", "category": "public_holiday" },
+  { "name": "Eid al-Adha", "date": "2026-05-27", "localName": "Eid al-Adha", "category": "observance" }
+
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "June Solstice", "category": "seasonal" },
+
+  { "name": "Independence Day", "date": "2026-07-06", "localName": "Tsiku la Ufulu", "category": "public_holiday" },
+
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "September Equinox", "category": "seasonal" },
+
+  { "name": "Mother's Day", "date": "2026-10-15", "localName": "Tsiku la Amayi", "category": "public_holiday" },
+
+  { "name": "December Solstice", "date": "2026-12-21", "localName": "December Solstice", "category": "seasonal" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Khrisimasi", "category": "public_holiday" },
+  { "name": "Boxing Day", "date": "2026-12-26", "localName": "Boxing Day", "category": "public_holiday" },
+  { "name": "Boxing Day (observed)", "date": "2026-12-28", "localName": "Boxing Day (observed)", "category": "public_holiday" }
+]

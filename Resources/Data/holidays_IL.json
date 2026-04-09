@@ -1,8 +1,33 @@
 [
-  { "name": "Passover (First Day)", "date": "2026-04-02", "localName": "פסח" },
-  { "name": "Independence Day", "date": "2026-04-23", "localName": "יום העצמאות" },
-  { "name": "Shavuot", "date": "2026-05-21", "localName": "שבועות" },
-  { "name": "Rosh Hashanah", "date": "2026-09-12", "localName": "ראש השנה" },
-  { "name": "Yom Kippur", "date": "2026-09-21", "localName": "יום כיפור" },
-  { "name": "Sukkot", "date": "2026-09-26", "localName": "סוכות" }
+  { "name": "Tu BiShvat (New Year of Trees)", "date": "2026-02-13", "localName": "ט\"ו בשבט", "category": "religious" },
+
+  { "name": "Purim", "date": "2026-03-03", "localName": "פורים", "category": "religious" },
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "שיוויון היום והלילה", "category": "seasonal" },
+
+  { "name": "Passover (Pesach I)", "date": "2026-04-02", "localName": "פסח א׳", "category": "public_holiday" },
+  { "name": "Passover (Pesach VII — Last Day)", "date": "2026-04-08", "localName": "פסח ז׳", "category": "public_holiday" },
+  { "name": "Yom HaShoah (Holocaust Remembrance Day)", "date": "2026-04-14", "localName": "יום השואה", "category": "observance" },
+  { "name": "Yom HaZikaron (Memorial Day)", "date": "2026-04-21", "localName": "יום הזיכרון", "category": "observance" },
+  { "name": "Independence Day (Yom HaAtzmaut)", "date": "2026-04-22", "localName": "יום העצמאות", "category": "public_holiday" },
+
+  { "name": "Lag BaOmer", "date": "2026-05-05", "localName": "ל\"ג בעומר", "category": "religious" },
+  { "name": "Jerusalem Day (Yom Yerushalayim)", "date": "2026-05-15", "localName": "יום ירושלים", "category": "observance" },
+  { "name": "Shavuot", "date": "2026-05-22", "localName": "שבועות", "category": "public_holiday" },
+
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "היפוך הקיץ", "category": "seasonal" },
+
+  { "name": "Tisha B'Av (Fast of Ninth of Av)", "date": "2026-07-23", "localName": "תשעה באב", "category": "public_holiday" },
+
+  { "name": "Tu B'Av", "date": "2026-08-08", "localName": "ט\"ו באב", "category": "religious" },
+
+  { "name": "Rosh Hashanah (Day 1)", "date": "2026-09-12", "localName": "ראש השנה א׳", "category": "public_holiday" },
+  { "name": "Rosh Hashanah (Day 2)", "date": "2026-09-13", "localName": "ראש השנה ב׳", "category": "public_holiday" },
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "שיוויון היום והלילה", "category": "seasonal" },
+  { "name": "Yom Kippur", "date": "2026-09-21", "localName": "יום כיפור", "category": "public_holiday" },
+  { "name": "Sukkot (First Day)", "date": "2026-09-26", "localName": "סוכות", "category": "public_holiday" },
+
+  { "name": "Shemini Atzeret / Simchat Torah", "date": "2026-10-03", "localName": "שמיני עצרת / שמחת תורה", "category": "public_holiday" },
+
+  { "name": "Hanukkah (First Day)", "date": "2026-12-04", "localName": "חנוכה", "category": "religious" },
+  { "name": "December Solstice", "date": "2026-12-21", "localName": "היפוך החורף", "category": "seasonal" }
 ]

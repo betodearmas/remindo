@@ -1,13 +1,57 @@
 [
-  { "name": "New Year's Day", "date": "2026-01-01", "localName": "New Year's Day" },
-  { "name": "Constitution Day", "date": "2026-01-07", "localName": "Constitution Day" },
-  { "name": "Independence Day", "date": "2026-03-06", "localName": "Independence Day" },
-  { "name": "Good Friday", "date": "2026-04-03", "localName": "Good Friday" },
-  { "name": "Easter Monday", "date": "2026-04-06", "localName": "Easter Monday" },
-  { "name": "Labour Day", "date": "2026-05-01", "localName": "May Day" },
-  { "name": "Founders' Day", "date": "2026-08-04", "localName": "Founders' Day" },
-  { "name": "Kwame Nkrumah Memorial Day", "date": "2026-09-21", "localName": "Kwame Nkrumah Memorial Day" },
-  { "name": "Farmers' Day", "date": "2026-12-04", "localName": "Farmers' Day" },
-  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Christmas Day" },
-  { "name": "Boxing Day", "date": "2026-12-26", "localName": "Boxing Day" }
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "New Year's Day", "category": "public_holiday" },
+  { "name": "Constitution Day", "date": "2026-01-07", "localName": "Constitution Day", "category": "public_holiday" },
+  { "name": "Constitution Day (observed)", "date": "2026-01-09", "localName": "Constitution Day Holiday", "category": "public_holiday" },
+
+  { "name": "Valentine's Day", "date": "2026-02-14", "localName": "Valentine's Day", "category": "observance" },
+  { "name": "National Chocolate Day", "date": "2026-02-14", "localName": "National Chocolate Day", "category": "cultural" },
+  { "name": "Ramadan Start", "date": "2026-02-19", "localName": "Ramadan", "category": "religious" },
+
+  { "name": "Independence Day", "date": "2026-03-06", "localName": "Independence Day", "category": "public_holiday" },
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "March Equinox", "category": "seasonal" },
+  { "name": "Eid ul-Fitr", "date": "2026-03-20", "localName": "Eid ul-Fitr", "category": "public_holiday" },
+  { "name": "Eid ul-Fitr Holiday (Shaqq Day)", "date": "2026-03-21", "localName": "Shaqq Day", "category": "public_holiday" },
+  { "name": "Shaqq Day (in lieu)", "date": "2026-03-23", "localName": "Shaqq Day Holiday", "category": "public_holiday" },
+
+  { "name": "Good Friday", "date": "2026-04-03", "localName": "Good Friday", "category": "public_holiday" },
+  { "name": "Holy Saturday", "date": "2026-04-04", "localName": "Holy Saturday", "category": "religious" },
+  { "name": "Easter Sunday", "date": "2026-04-05", "localName": "Easter Sunday", "category": "religious" },
+  { "name": "Easter Monday", "date": "2026-04-06", "localName": "Easter Monday", "category": "public_holiday" },
+  { "name": "Odunkwaa Festival", "date": "2026-04-06", "localName": "Odunkwaa", "category": "cultural" },
+  { "name": "Aboakyir Festival", "date": "2026-05-02", "localName": "Aboakyir", "category": "cultural" },
+
+  { "name": "Workers' Day", "date": "2026-05-01", "localName": "May Day", "category": "public_holiday" },
+  { "name": "Mother's Day", "date": "2026-05-10", "localName": "Mother's Day", "category": "observance" },
+  { "name": "African Union Day", "date": "2026-05-25", "localName": "Africa Unity Day", "category": "observance" },
+  { "name": "Eid al-Adha", "date": "2026-05-27", "localName": "Eidul-Adha", "category": "public_holiday" },
+
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "June Solstice", "category": "seasonal" },
+  { "name": "Father's Day", "date": "2026-06-21", "localName": "Father's Day", "category": "observance" },
+
+  { "name": "Republic Day", "date": "2026-07-01", "localName": "Republic Day", "category": "public_holiday" },
+  { "name": "PANAFEST", "date": "2026-07-25", "localName": "PANAFEST", "category": "cultural" },
+
+  { "name": "Emancipation Day", "date": "2026-08-01", "localName": "Emancipation Day", "category": "observance" },
+  { "name": "Founders' Day", "date": "2026-08-04", "localName": "Founders' Day", "category": "public_holiday" },
+  { "name": "Chale Wote Street Art Festival", "date": "2026-08-15", "localName": "Chale Wote", "category": "cultural" },
+  { "name": "Homowo Festival", "date": "2026-08-15", "localName": "Homowo", "category": "cultural" },
+
+  { "name": "Fetu Afahye Festival", "date": "2026-09-05", "localName": "Fetu Afahye", "category": "cultural" },
+  { "name": "Ngmayem Festival", "date": "2026-09-12", "localName": "Ngmayem", "category": "cultural" },
+  { "name": "Odwira Festival", "date": "2026-09-18", "localName": "Odwira", "category": "cultural" },
+  { "name": "Kwame Nkrumah Memorial Day", "date": "2026-09-21", "localName": "Kwame Nkrumah Memorial Day", "category": "public_holiday" },
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "September Equinox", "category": "seasonal" },
+  { "name": "Hogbetsotso Festival", "date": "2026-11-07", "localName": "Hogbetsotso", "category": "cultural" },
+  { "name": "Damba Festival", "date": "2026-09-26", "localName": "Damba", "category": "cultural" },
+
+  { "name": "All Saints' Day", "date": "2026-11-01", "localName": "All Saints' Day", "category": "religious" },
+  { "name": "All Souls' Day", "date": "2026-11-02", "localName": "All Souls' Day", "category": "religious" },
+  { "name": "Kundum Festival", "date": "2026-11-14", "localName": "Kundum", "category": "cultural" },
+
+  { "name": "December Solstice", "date": "2026-12-21", "localName": "December Solstice", "category": "seasonal" },
+  { "name": "Christmas Eve", "date": "2026-12-24", "localName": "Christmas Eve", "category": "observance" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Christmas Day", "category": "public_holiday" },
+  { "name": "Boxing Day", "date": "2026-12-26", "localName": "Boxing Day", "category": "public_holiday" },
+  { "name": "Boxing Day (observed)", "date": "2026-12-28", "localName": "Boxing Day Holiday", "category": "public_holiday" },
+  { "name": "New Year's Eve", "date": "2026-12-31", "localName": "New Year's Eve", "category": "observance" }
 ]

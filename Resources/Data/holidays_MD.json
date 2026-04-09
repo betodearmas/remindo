@@ -1,10 +1,28 @@
 [
-  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Anul Nou" },
-  { "name": "Orthodox Christmas Day", "date": "2026-01-07", "localName": "Crăciun pe rit vechi" },
-  { "name": "International Women's Day", "date": "2026-03-08", "localName": "Ziua Internațională a Femeii" },
-  { "name": "Easter Monday", "date": "2026-04-06", "localName": "A doua zi de Paște" },
-  { "name": "Labour Day", "date": "2026-05-01", "localName": "Ziua Muncii" },
-  { "name": "Independence Day", "date": "2026-08-27", "localName": "Ziua Independenței" },
-  { "name": "Language Day", "date": "2026-08-31", "localName": "Limba Noastră" },
-  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Crăciun" }
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Anul Nou", "category": "public_holiday" },
+  { "name": "Orthodox Christmas Day", "date": "2026-01-07", "localName": "Crăciunul pe rit vechi", "category": "public_holiday" },
+  { "name": "Orthodox Christmas Day (Day 2)", "date": "2026-01-08", "localName": "A doua zi de Crăciun pe rit vechi", "category": "public_holiday" },
+
+  { "name": "Mărțișor", "date": "2026-03-01", "localName": "Mărțișor", "category": "cultural" },
+  { "name": "International Women's Day", "date": "2026-03-08", "localName": "Ziua Internațională a Femeii", "category": "public_holiday" },
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "Echinocțiul de primăvară", "category": "seasonal" },
+
+  { "name": "Orthodox Easter Sunday", "date": "2026-04-12", "localName": "Paștele", "category": "public_holiday" },
+  { "name": "Orthodox Easter Monday", "date": "2026-04-13", "localName": "A doua zi de Paști", "category": "public_holiday" },
+  { "name": "Memorial Day (Radonița)", "date": "2026-04-20", "localName": "Ziua Comemorării Eroilor", "category": "public_holiday" },
+
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Ziua Muncii", "category": "public_holiday" },
+  { "name": "Victory Day", "date": "2026-05-09", "localName": "Ziua Victoriei", "category": "public_holiday" },
+
+  { "name": "International Children's Day", "date": "2026-06-01", "localName": "Ziua Internațională a Copilului", "category": "public_holiday" },
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "Solstițiul de vară", "category": "seasonal" },
+
+  { "name": "Independence Day", "date": "2026-08-27", "localName": "Ziua Independenței", "category": "public_holiday" },
+  { "name": "Language Day (Limba Noastră)", "date": "2026-08-31", "localName": "Limba Noastră", "category": "public_holiday" },
+
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "Echinocțiul de toamnă", "category": "seasonal" },
+
+  { "name": "December Solstice", "date": "2026-12-21", "localName": "Solstițiul de iarnă", "category": "seasonal" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Crăciunul", "category": "public_holiday" },
+  { "name": "New Year's Eve", "date": "2026-12-31", "localName": "Revelion", "category": "observance" }
 ]

@@ -1,9 +1,37 @@
 [
-  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Neujahr" },
-  { "name": "Epiphany", "date": "2026-01-06", "localName": "Heilige Drei Könige" },
-  { "name": "Good Friday", "date": "2026-04-03", "localName": "Karfreitag" },
-  { "name": "Easter Monday", "date": "2026-04-06", "localName": "Ostermontag" },
-  { "name": "National Day", "date": "2026-08-15", "localName": "Staatsfeiertag" },
-  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Weihnachtstag" },
-  { "name": "St. Stephen's Day", "date": "2026-12-26", "localName": "Stefanitag" }
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Neujahr", "category": "public_holiday" },
+  { "name": "Berchtold's Day", "date": "2026-01-02", "localName": "Berchtoldstag", "category": "public_holiday" },
+  { "name": "Epiphany", "date": "2026-01-06", "localName": "Heilige Drei Könige", "category": "public_holiday" },
+
+  { "name": "Candlemas", "date": "2026-02-02", "localName": "Mariä Lichtmess", "category": "religious" },
+  { "name": "Shrove Tuesday", "date": "2026-02-17", "localName": "Fasnachtsdienstag", "category": "public_holiday" },
+
+  { "name": "Saint Joseph's Day", "date": "2026-03-19", "localName": "Josefstag", "category": "public_holiday" },
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "Frühlingsanfang", "category": "seasonal" },
+
+  { "name": "Good Friday", "date": "2026-04-03", "localName": "Karfreitag", "category": "public_holiday" },
+  { "name": "Easter Sunday", "date": "2026-04-05", "localName": "Ostersonntag", "category": "public_holiday" },
+  { "name": "Easter Monday", "date": "2026-04-06", "localName": "Ostermontag", "category": "public_holiday" },
+
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Tag der Arbeit", "category": "public_holiday" },
+  { "name": "Ascension Day", "date": "2026-05-14", "localName": "Auffahrt", "category": "public_holiday" },
+  { "name": "Whit Sunday (Pentecost)", "date": "2026-05-24", "localName": "Pfingstsonntag", "category": "public_holiday" },
+  { "name": "Whit Monday", "date": "2026-05-25", "localName": "Pfingstmontag", "category": "public_holiday" },
+
+  { "name": "Corpus Christi", "date": "2026-06-04", "localName": "Fronleichnam", "category": "public_holiday" },
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "Sommersonnenwende", "category": "seasonal" },
+
+  { "name": "National Day", "date": "2026-08-15", "localName": "Staatsfeiertag", "category": "public_holiday" },
+
+  { "name": "Nativity of Mary", "date": "2026-09-08", "localName": "Maria Geburt", "category": "public_holiday" },
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "Herbstanfang", "category": "seasonal" },
+
+  { "name": "All Saints' Day", "date": "2026-11-01", "localName": "Allerheiligen", "category": "public_holiday" },
+
+  { "name": "Immaculate Conception", "date": "2026-12-08", "localName": "Maria Empfängnis", "category": "public_holiday" },
+  { "name": "December Solstice", "date": "2026-12-21", "localName": "Wintersonnenwende", "category": "seasonal" },
+  { "name": "Christmas Eve", "date": "2026-12-24", "localName": "Heiliger Abend", "category": "public_holiday" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Weihnachten", "category": "public_holiday" },
+  { "name": "St. Stephen's Day", "date": "2026-12-26", "localName": "Stefanstag", "category": "public_holiday" },
+  { "name": "New Year's Eve", "date": "2026-12-31", "localName": "Silvester", "category": "observance" }
 ]

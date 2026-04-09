@@ -1,8 +1,65 @@
 [
-  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Tahun Baru" },
-  { "name": "Federal Territory Day", "date": "2026-02-01", "localName": "Hari Wilayah Persekutuan" },
-  { "name": "Labour Day", "date": "2026-05-01", "localName": "Hari Pekerja" },
-  { "name": "National Day", "date": "2026-08-31", "localName": "Hari Kebangsaan" },
-  { "name": "Malaysia Day", "date": "2026-09-16", "localName": "Hari Malaysia" },
-  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Hari Krismas" }
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Tahun Baru", "category": "public_holiday" },
+  { "name": "Birthday of Yang di-Pertuan Besar (Negeri Sembilan)", "date": "2026-01-14", "localName": "Hari Keputeraan Yang di-Pertuan Besar", "category": "public_holiday" },
+  { "name": "Isra and Mi'raj", "date": "2026-01-17", "localName": "Israk dan Mikraj", "category": "public_holiday" },
+
+  { "name": "Federal Territory Day", "date": "2026-02-01", "localName": "Hari Wilayah Persekutuan", "category": "public_holiday" },
+  { "name": "Federal Territory Day (observed)", "date": "2026-02-02", "localName": "Hari Wilayah Persekutuan (gantian)", "category": "public_holiday" },
+  { "name": "Thaipusam", "date": "2026-02-01", "localName": "Thaipusam", "category": "public_holiday" },
+  { "name": "Thaipusam (observed)", "date": "2026-02-02", "localName": "Thaipusam (gantian)", "category": "public_holiday" },
+  { "name": "First Day of Ramadan (Johor, Kedah, Melaka)", "date": "2026-02-19", "localName": "Awal Ramadan", "category": "public_holiday" },
+  { "name": "Chinese New Year (Day 1)", "date": "2026-02-17", "localName": "Tahun Baru Cina", "category": "public_holiday" },
+  { "name": "Chinese New Year (Day 2)", "date": "2026-02-18", "localName": "Tahun Baru Cina (Hari Kedua)", "category": "public_holiday" },
+
+  { "name": "Nuzul Al-Quran", "date": "2026-03-07", "localName": "Nuzul Al-Quran", "category": "public_holiday" },
+  { "name": "Hari Raya Puasa / Eid al-Fitr (Day 1)", "date": "2026-03-20", "localName": "Hari Raya Aidilfitri", "category": "public_holiday" },
+  { "name": "Hari Raya Puasa / Eid al-Fitr (Day 2)", "date": "2026-03-21", "localName": "Hari Raya Aidilfitri (Hari Kedua)", "category": "public_holiday" },
+  { "name": "Hari Raya Puasa Additional Holiday", "date": "2026-03-23", "localName": "Cuti Tambahan Hari Raya Aidilfitri", "category": "public_holiday" },
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "Equinoks Mac", "category": "seasonal" },
+  { "name": "Birthday of Sultan of Johor", "date": "2026-03-23", "localName": "Hari Keputeraan Sultan Johor", "category": "public_holiday" },
+
+  { "name": "Good Friday (Sabah & Sarawak)", "date": "2026-04-03", "localName": "Jumaat Agung", "category": "public_holiday" },
+  { "name": "Birthday of Sultan of Terengganu", "date": "2026-04-26", "localName": "Hari Keputeraan Sultan Terengganu", "category": "public_holiday" },
+
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Hari Pekerja", "category": "public_holiday" },
+  { "name": "Birthday of Raja of Perlis", "date": "2026-05-17", "localName": "Hari Keputeraan Raja Perlis", "category": "public_holiday" },
+  { "name": "Pahang State Holiday", "date": "2026-05-22", "localName": "Cuti Umum Pahang", "category": "public_holiday" },
+  { "name": "Hari Raya Haji / Eid al-Adha", "date": "2026-05-27", "localName": "Hari Raya Aidiladha", "category": "public_holiday" },
+  { "name": "Hari Raya Haji Day 2 (Kelantan, Terengganu, Kedah, Perlis)", "date": "2026-05-28", "localName": "Hari Raya Aidiladha (Hari Kedua)", "category": "public_holiday" },
+  { "name": "Harvest Festival / Kaamatan (Sabah & Labuan)", "date": "2026-05-30", "localName": "Pesta Kaamatan", "category": "public_holiday" },
+  { "name": "Second Day of Harvest Festival (Sabah & Labuan)", "date": "2026-05-31", "localName": "Pesta Kaamatan (Hari Kedua)", "category": "public_holiday" },
+  { "name": "Wesak Day", "date": "2026-05-31", "localName": "Hari Wesak", "category": "public_holiday" },
+
+  { "name": "Yang di-Pertuan Agong's Birthday", "date": "2026-06-01", "localName": "Hari Keputeraan Yang di-Pertuan Agong", "category": "public_holiday" },
+  { "name": "Gawai Dayak (Sarawak)", "date": "2026-06-01", "localName": "Hari Gawai", "category": "public_holiday" },
+  { "name": "Gawai Dayak Holiday (Sarawak)", "date": "2026-06-02", "localName": "Hari Gawai (Hari Kedua)", "category": "public_holiday" },
+  { "name": "Islamic New Year (Muharram)", "date": "2026-06-17", "localName": "Awal Muharram", "category": "public_holiday" },
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "Solstis Jun", "category": "seasonal" },
+  { "name": "Birthday of Sultan of Kedah", "date": "2026-06-21", "localName": "Hari Keputeraan Sultan Kedah", "category": "public_holiday" },
+
+  { "name": "George Town World Heritage City Day (Penang)", "date": "2026-07-07", "localName": "Hari Warisan Dunia Georgetown", "category": "public_holiday" },
+  { "name": "Birthday of Penang Governor", "date": "2026-07-11", "localName": "Hari Ulangtahun Yang di-Pertua Negeri Pulau Pinang", "category": "public_holiday" },
+  { "name": "Almarhum Sultan Iskandar Day (Johor)", "date": "2026-07-21", "localName": "Hari Almarhum Sultan Iskandar", "category": "public_holiday" },
+  { "name": "Sarawak Independence Day (Sarawak)", "date": "2026-07-22", "localName": "Hari Kemerdekaan Sarawak", "category": "public_holiday" },
+  { "name": "Birthday of Sultan of Pahang", "date": "2026-07-31", "localName": "Hari Keputeraan Sultan Pahang", "category": "public_holiday" },
+
+  { "name": "Birthday of Governor of Malacca", "date": "2026-08-24", "localName": "Hari Ulangtahun Yang di-Pertua Negeri Melaka", "category": "public_holiday" },
+  { "name": "Prophet's Birthday (Mawlid)", "date": "2026-08-25", "localName": "Maulidur Rasul", "category": "public_holiday" },
+  { "name": "National Day (Merdeka Day)", "date": "2026-08-31", "localName": "Hari Kebangsaan", "category": "public_holiday" },
+
+  { "name": "Malaysia Day", "date": "2026-09-16", "localName": "Hari Malaysia", "category": "public_holiday" },
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "Equinoks September", "category": "seasonal" },
+  { "name": "Birthday of Sultan of Kelantan", "date": "2026-09-29", "localName": "Hari Keputeraan Sultan Kelantan", "category": "public_holiday" },
+  { "name": "Birthday of Sultan of Kelantan (Day 2)", "date": "2026-09-30", "localName": "Hari Keputeraan Sultan Kelantan (Hari Kedua)", "category": "public_holiday" },
+
+  { "name": "Birthday of Sarawak Governor", "date": "2026-10-10", "localName": "Hari Ulangtahun Yang di-Pertua Negeri Sarawak", "category": "public_holiday" },
+
+  { "name": "Birthday of Sultan of Perak", "date": "2026-11-06", "localName": "Hari Keputeraan Sultan Perak", "category": "public_holiday" },
+  { "name": "Deepavali / Diwali", "date": "2026-11-08", "localName": "Hari Deepavali", "category": "public_holiday" },
+
+  { "name": "Birthday of Sultan of Selangor", "date": "2026-12-11", "localName": "Hari Keputeraan Sultan Selangor", "category": "public_holiday" },
+  { "name": "Christmas Eve (Sabah)", "date": "2026-12-24", "localName": "Malam Krismas", "category": "public_holiday" },
+  { "name": "December Solstice", "date": "2026-12-22", "localName": "Solstis Disember", "category": "seasonal" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Hari Krismas", "category": "public_holiday" },
+  { "name": "New Year's Eve", "date": "2026-12-31", "localName": "Malam Tahun Baru", "category": "observance" }
 ]

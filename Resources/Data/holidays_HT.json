@@ -1,14 +1,46 @@
 [
-  { "name": "Independence Day", "date": "2026-01-01", "localName": "Jour de l'Indépendance" },
-  { "name": "Ancestor's Day", "date": "2026-01-02", "localName": "Jour des Aïeux" },
-  { "name": "Carnival Monday", "date": "2026-02-16", "localName": "Lundi Gras" },
-  { "name": "Carnival Tuesday", "date": "2026-02-17", "localName": "Mardi Gras" },
-  { "name": "Good Friday", "date": "2026-04-03", "localName": "Vendredi Saint" },
-  { "name": "Agriculture and Labour Day", "date": "2026-05-01", "localName": "Fête de l'Agriculture et du Travail" },
-  { "name": "Flag Day", "date": "2026-05-18", "localName": "Fête du Drapeau" },
-  { "name": "Assumption Day", "date": "2026-08-15", "localName": "Assomption" },
-  { "name": "Independence of Dessalines Day", "date": "2026-10-17", "localName": "Mort de Dessalines" },
-  { "name": "All Saints' Day", "date": "2026-11-01", "localName": "La Toussaint" },
-  { "name": "Battle of Vertières Day", "date": "2026-11-18", "localName": "Bataille de Vertières" },
-  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Noël" }
+  { "name": "Independence Day", "date": "2026-01-01", "localName": "Jour de l'Indépendance", "category": "public_holiday" },
+  { "name": "Ancestors' Day", "date": "2026-01-02", "localName": "Jour des Aïeux", "category": "public_holiday" },
+  { "name": "2010 Earthquake Remembrance Day", "date": "2026-01-12", "localName": "Commémoration du Séisme de 2010", "category": "observance" },
+
+  { "name": "Valentine's Day", "date": "2026-02-14", "localName": "Saint-Valentin", "category": "observance" },
+  { "name": "Carnival Sunday", "date": "2026-02-15", "localName": "Dimanche Gras", "category": "cultural" },
+  { "name": "Carnival Monday", "date": "2026-02-16", "localName": "Lundi Gras", "category": "public_holiday" },
+  { "name": "Carnival Tuesday", "date": "2026-02-17", "localName": "Mardi Gras", "category": "public_holiday" },
+  { "name": "Ash Wednesday", "date": "2026-02-18", "localName": "Mercredi des Cendres", "category": "public_holiday" },
+
+  { "name": "Constitution Ratification Day", "date": "2026-03-29", "localName": "Ratification de la Constitution de 1987", "category": "observance" },
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "Équinoxe de mars", "category": "seasonal" },
+
+  { "name": "Good Friday", "date": "2026-04-03", "localName": "Vendredi Saint", "category": "public_holiday" },
+  { "name": "Holy Saturday", "date": "2026-04-04", "localName": "Samedi Saint", "category": "religious" },
+  { "name": "Easter Sunday", "date": "2026-04-05", "localName": "Dimanche de Pâques", "category": "public_holiday" },
+  { "name": "Death of Toussaint Louverture", "date": "2026-04-07", "localName": "Mort de Toussaint Louverture", "category": "observance" },
+
+  { "name": "Agriculture and Labour Day", "date": "2026-05-01", "localName": "Fête de l'Agriculture et du Travail", "category": "public_holiday" },
+  { "name": "Ascension Day", "date": "2026-05-14", "localName": "Ascension", "category": "public_holiday" },
+  { "name": "Flag and University Day", "date": "2026-05-18", "localName": "Fête du Drapeau et de l'Université", "category": "public_holiday" },
+  { "name": "Mother's Day", "date": "2026-05-31", "localName": "Fête des Mères", "category": "observance" },
+
+  { "name": "Corpus Christi", "date": "2026-06-04", "localName": "Fête-Dieu", "category": "public_holiday" },
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "Solstice de juin", "category": "seasonal" },
+  { "name": "Father's Day", "date": "2026-06-28", "localName": "Fête des Pères", "category": "observance" },
+
+  { "name": "US Occupation Remembrance Day", "date": "2026-07-28", "localName": "Débarquement des Marines Américains", "category": "observance" },
+
+  { "name": "Assumption Day", "date": "2026-08-15", "localName": "Assomption", "category": "public_holiday" },
+
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "Équinoxe de septembre", "category": "seasonal" },
+
+  { "name": "Dessalines Day", "date": "2026-10-17", "localName": "Mort de Dessalines", "category": "public_holiday" },
+
+  { "name": "All Saints' Day / Fête Gede", "date": "2026-11-01", "localName": "La Toussaint / Fête Gede", "category": "public_holiday" },
+  { "name": "All Souls' Day", "date": "2026-11-02", "localName": "Jour des Morts", "category": "public_holiday" },
+  { "name": "Battle of Vertières Day", "date": "2026-11-18", "localName": "Bataille de Vertières", "category": "public_holiday" },
+
+  { "name": "Discovery Day", "date": "2026-12-06", "localName": "Débarquement de Christophe Colomb", "category": "public_holiday" },
+  { "name": "December Solstice", "date": "2026-12-21", "localName": "Solstice de décembre", "category": "seasonal" },
+  { "name": "Christmas Eve", "date": "2026-12-24", "localName": "Veille de Noël", "category": "observance" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Noël", "category": "public_holiday" },
+  { "name": "New Year's Eve", "date": "2026-12-31", "localName": "Réveillon", "category": "observance" }
 ]

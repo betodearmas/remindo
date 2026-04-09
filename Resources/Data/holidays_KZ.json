@@ -1,12 +1,34 @@
 [
-  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Жаңа жыл" },
-  { "name": "Orthodox Christmas Day", "date": "2026-01-07", "localName": "Православиелік Рождество" },
-  { "name": "International Women's Day", "date": "2026-03-08", "localName": "Халықаралық әйелдер күні" },
-  { "name": "Nauryz", "date": "2026-03-22", "localName": "Наурыз мейрамы" },
-  { "name": "Defender of the Fatherland Day", "date": "2026-05-07", "localName": "Отан қорғаушылар күні" },
-  { "name": "Victory Day", "date": "2026-05-09", "localName": "Жеңіс күні" },
-  { "name": "Capital City Day", "date": "2026-07-06", "localName": "Астана күні" },
-  { "name": "Constitution Day", "date": "2026-08-30", "localName": "Конституция күні" },
-  { "name": "Republic Day", "date": "2026-10-25", "localName": "Республика күні" },
-  { "name": "Independence Day", "date": "2026-12-16", "localName": "Тәуелсіздік күні" }
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Жаңа жыл", "category": "public_holiday" },
+  { "name": "New Year Holiday", "date": "2026-01-02", "localName": "Жаңа жыл мерекесі", "category": "public_holiday" },
+  { "name": "Orthodox Christmas", "date": "2026-01-07", "localName": "Православиелік Рождество", "category": "public_holiday" },
+
+  { "name": "International Women's Day", "date": "2026-03-08", "localName": "Халықаралық әйелдер күні", "category": "public_holiday" },
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "Көктемгі теңкүн", "category": "seasonal" },
+  { "name": "Nauryz Meiramy (Day 1)", "date": "2026-03-21", "localName": "Наурыз мейрамы", "category": "public_holiday" },
+  { "name": "Nauryz Meiramy (Day 2)", "date": "2026-03-22", "localName": "Наурыз мейрамы", "category": "public_holiday" },
+  { "name": "Nauryz Meiramy (Day 3)", "date": "2026-03-23", "localName": "Наурыз мейрамы", "category": "public_holiday" },
+
+  { "name": "People's Unity Day", "date": "2026-05-01", "localName": "Қазақстан халқының бірлігі күні", "category": "public_holiday" },
+  { "name": "Defender of the Fatherland Day", "date": "2026-05-07", "localName": "Отан қорғаушылар күні", "category": "public_holiday" },
+  { "name": "Victory Day", "date": "2026-05-09", "localName": "Жеңіс күні", "category": "public_holiday" },
+  { "name": "Victory Day (observed)", "date": "2026-05-11", "localName": "Жеңіс күні (ауыстырылған)", "category": "public_holiday" },
+  { "name": "Qurban Ait (Eid al-Adha)", "date": "2026-05-27", "localName": "Құрбан айт", "category": "public_holiday" },
+
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "Жазғы күн жылышы", "category": "seasonal" },
+
+  { "name": "Capital City Day", "date": "2026-07-06", "localName": "Астана күні", "category": "public_holiday" },
+
+  { "name": "Constitution Day", "date": "2026-08-30", "localName": "Конституция күні", "category": "public_holiday" },
+  { "name": "Constitution Day (observed)", "date": "2026-08-31", "localName": "Конституция күні (ауыстырылған)", "category": "public_holiday" },
+
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "Күзгі теңкүн", "category": "seasonal" },
+
+  { "name": "Republic Day", "date": "2026-10-25", "localName": "Республика күні", "category": "public_holiday" },
+  { "name": "Republic Day (observed)", "date": "2026-10-26", "localName": "Республика күні (ауыстырылған)", "category": "public_holiday" },
+
+  { "name": "Independence Day", "date": "2026-12-16", "localName": "Тәуелсіздік күні", "category": "public_holiday" },
+  { "name": "Independence Day (Day 2)", "date": "2026-12-17", "localName": "Тәуелсіздік күні", "category": "public_holiday" },
+  { "name": "December Solstice", "date": "2026-12-21", "localName": "Қысқы күн жылышы", "category": "seasonal" },
+  { "name": "New Year's Eve", "date": "2026-12-31", "localName": "Жаңа жылдың қарсаңы", "category": "observance" }
 ]

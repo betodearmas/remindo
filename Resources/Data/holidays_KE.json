@@ -1,11 +1,30 @@
 [
-  { "name": "New Year's Day", "date": "2026-01-01", "localName": "New Year's Day" },
-  { "name": "Good Friday", "date": "2026-04-03", "localName": "Good Friday" },
-  { "name": "Easter Monday", "date": "2026-04-06", "localName": "Easter Monday" },
-  { "name": "Labour Day", "date": "2026-05-01", "localName": "Labour Day" },
-  { "name": "Madaraka Day", "date": "2026-06-01", "localName": "Madaraka Day" },
-  { "name": "Mashujaa Day", "date": "2026-10-20", "localName": "Mashujaa Day" },
-  { "name": "Jamhuri Day", "date": "2026-12-12", "localName": "Jamhuri Day" },
-  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Christmas Day" },
-  { "name": "Boxing Day", "date": "2026-12-26", "localName": "Boxing Day" }
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Siku ya Mwaka Mpya", "category": "public_holiday" },
+
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "Usawa wa Masika", "category": "seasonal" },
+  { "name": "Idd-ul-Fitr (Eid al-Fitr)", "date": "2026-03-20", "localName": "Idd-ul-Fitr", "category": "public_holiday" },
+
+  { "name": "Good Friday", "date": "2026-04-03", "localName": "Ijumaa Kuu", "category": "public_holiday" },
+  { "name": "Easter Sunday", "date": "2026-04-05", "localName": "Jumapili ya Pasaka", "category": "religious" },
+  { "name": "Easter Monday", "date": "2026-04-06", "localName": "Jumatatu ya Pasaka", "category": "public_holiday" },
+
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Siku ya Wafanyakazi", "category": "public_holiday" },
+  { "name": "Idd-ul-Azha (Eid al-Adha)", "date": "2026-05-28", "localName": "Idd-ul-Azha", "category": "public_holiday" },
+
+  { "name": "Madaraka Day", "date": "2026-06-01", "localName": "Siku ya Madaraka", "category": "public_holiday" },
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "Solstisi ya Joto", "category": "seasonal" },
+
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "Usawa wa Vuli", "category": "seasonal" },
+
+  { "name": "Mazingira Day (observed)", "date": "2026-10-12", "localName": "Siku ya Mazingira (inayozingatiwa)", "category": "public_holiday" },
+  { "name": "Mazingira Day", "date": "2026-10-10", "localName": "Siku ya Mazingira", "category": "public_holiday" },
+  { "name": "Mashujaa Day", "date": "2026-10-20", "localName": "Siku ya Mashujaa", "category": "public_holiday" },
+
+  { "name": "Jamhuri Day", "date": "2026-12-12", "localName": "Siku ya Jamhuri", "category": "public_holiday" },
+  { "name": "Jamhuri Day (observed)", "date": "2026-12-14", "localName": "Siku ya Jamhuri (inayozingatiwa)", "category": "public_holiday" },
+  { "name": "December Solstice", "date": "2026-12-21", "localName": "Solstisi ya Baridi", "category": "seasonal" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Siku ya Krismasi", "category": "public_holiday" },
+  { "name": "Boxing Day", "date": "2026-12-26", "localName": "Siku ya Zawadi", "category": "public_holiday" },
+  { "name": "Boxing Day (observed)", "date": "2026-12-28", "localName": "Siku ya Zawadi (inayozingatiwa)", "category": "public_holiday" },
+  { "name": "New Year's Eve", "date": "2026-12-31", "localName": "Usiku wa Mwaka Mpya", "category": "observance" }
 ]

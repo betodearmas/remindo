@@ -1,13 +1,45 @@
 [
-  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Újév" },
-  { "name": "National Day", "date": "2026-03-15", "localName": "Nemzeti ünnep" },
-  { "name": "Good Friday", "date": "2026-04-03", "localName": "Nagypéntek" },
-  { "name": "Easter Monday", "date": "2026-04-06", "localName": "Húsvéthétfő" },
-  { "name": "Labour Day", "date": "2026-05-01", "localName": "A munka ünnepe" },
-  { "name": "Whit Monday", "date": "2026-05-25", "localName": "Pünkösdhétfő" },
-  { "name": "Saint Stephen's Day", "date": "2026-08-20", "localName": "Szent István napja" },
-  { "name": "Republic Day", "date": "2026-10-23", "localName": "Nemzeti ünnep" },
-  { "name": "All Saints' Day", "date": "2026-11-01", "localName": "Mindenszentek" },
-  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Karácsony" },
-  { "name": "Second Day of Christmas", "date": "2026-12-26", "localName": "Karácsony másnapja" }
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Újév", "category": "public_holiday" },
+  { "name": "New Year's Bridge Day", "date": "2026-01-02", "localName": "Munkaszüneti nap (január 2.)", "category": "public_holiday" },
+  { "name": "Day of Hungarian Culture", "date": "2026-01-22", "localName": "A magyar kultúra napja", "category": "observance" },
+
+  { "name": "Memorial Day for Victims of Communist Dictatorships", "date": "2026-02-25", "localName": "A kommunista diktatúrák áldozatainak emléknapja", "category": "observance" },
+  { "name": "Memorial Day of the Republic", "date": "2026-02-01", "localName": "A köztársaság emléknapja", "category": "observance" },
+
+  { "name": "International Women's Day", "date": "2026-03-08", "localName": "Nemzetközi nőnap", "category": "observance" },
+  { "name": "National Day (1848 Revolution)", "date": "2026-03-15", "localName": "1848-as forradalom ünnepe", "category": "public_holiday" },
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "Tavaszi napéjegyenlőség", "category": "seasonal" },
+
+  { "name": "Good Friday", "date": "2026-04-03", "localName": "Nagypéntek", "category": "public_holiday" },
+  { "name": "Easter Sunday", "date": "2026-04-05", "localName": "Húsvétvasárnap", "category": "public_holiday" },
+  { "name": "Easter Monday", "date": "2026-04-06", "localName": "Húsvéthétfő", "category": "public_holiday" },
+  { "name": "Memorial Day for Victims of the Holocaust", "date": "2026-04-16", "localName": "A holokauszt áldozatainak emléknapja", "category": "observance" },
+
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "A munka ünnepe", "category": "public_holiday" },
+  { "name": "Mother's Day", "date": "2026-05-03", "localName": "Anyák napja", "category": "observance" },
+  { "name": "National Defence Day", "date": "2026-05-21", "localName": "Honvédelmi nap", "category": "observance" },
+  { "name": "Pentecost Sunday", "date": "2026-05-24", "localName": "Pünkösdvasárnap", "category": "public_holiday" },
+  { "name": "Whit Monday", "date": "2026-05-25", "localName": "Pünkösdhétfő", "category": "public_holiday" },
+
+  { "name": "National Unity Day (Trianon)", "date": "2026-06-04", "localName": "A nemzeti összetartozás napja", "category": "observance" },
+  { "name": "Day of Independent Hungary", "date": "2026-06-19", "localName": "A független Magyarország napja", "category": "observance" },
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "Nyári napforduló", "category": "seasonal" },
+  { "name": "Father's Day", "date": "2026-06-21", "localName": "Apák napja", "category": "observance" },
+
+  { "name": "Saint Stephen's Day", "date": "2026-08-20", "localName": "Szent István ünnepe", "category": "public_holiday" },
+  { "name": "Saint Stephen's Day Bridge Day", "date": "2026-08-21", "localName": "Munkaszüneti nap (augusztus 21.)", "category": "public_holiday" },
+
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "Őszi napéjegyenlőség", "category": "seasonal" },
+
+  { "name": "Memorial Day for the Martyrs of Arad", "date": "2026-10-06", "localName": "Az aradi vértanúk emléknapja", "category": "observance" },
+  { "name": "Republic Day (1956 Revolution)", "date": "2026-10-23", "localName": "1956-os forradalom ünnepe", "category": "public_holiday" },
+
+  { "name": "All Saints' Day", "date": "2026-11-01", "localName": "Mindenszentek", "category": "public_holiday" },
+
+  { "name": "Saint Nicholas Day", "date": "2026-12-06", "localName": "Mikulás", "category": "observance" },
+  { "name": "December Solstice", "date": "2026-12-21", "localName": "Téli napforduló", "category": "seasonal" },
+  { "name": "Christmas Eve (Bridge Day)", "date": "2026-12-24", "localName": "Szenteste", "category": "public_holiday" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Karácsony", "category": "public_holiday" },
+  { "name": "Second Day of Christmas", "date": "2026-12-26", "localName": "Karácsony másnapja", "category": "public_holiday" },
+  { "name": "New Year's Eve", "date": "2026-12-31", "localName": "Szilveszter", "category": "observance" }
 ]

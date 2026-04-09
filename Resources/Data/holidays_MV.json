@@ -1,6 +1,34 @@
 [
-  { "name": "New Year's Day", "date": "2026-01-01", "localName": "އަހަރު އަދި ހަރު" },
-  { "name": "National Day", "date": "2026-03-12", "localName": "ޤައުމީ ދުވަސް" },
-  { "name": "Independence Day", "date": "2026-07-26", "localName": "އިންޑިޕެންޑެންސް ދުވަސް" },
-  { "name": "Republic Day", "date": "2026-11-11", "localName": "ރިޕަބްލިކް ދުވަސް" }
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "އާ އަހަރު", "category": "public_holiday" },
+
+  { "name": "Ramadan Start", "date": "2026-02-18", "localName": "ރޯދަ މަހުގެ ފުރަތަމަ ދުވަސް", "category": "public_holiday" },
+
+  { "name": "Eid al-Fitr (Day 1)", "date": "2026-03-20", "localName": "ފިތުރު އީދު", "category": "public_holiday" },
+  { "name": "Eid al-Fitr (Day 2)", "date": "2026-03-21", "localName": "ފިތުރު އީދު (ދެވަނަ ދުވަސް)", "category": "public_holiday" },
+  { "name": "Eid al-Fitr (Day 3)", "date": "2026-03-22", "localName": "ފިތުރު އީދު (ތިންވަނަ ދުވަސް)", "category": "public_holiday" },
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "ބަހާރު ހަމަ ދުވަސް", "category": "seasonal" },
+
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "މަސައްކަތްތެރިންގެ ދުވަސް", "category": "public_holiday" },
+  { "name": "Hajj Day (Arafat Day)", "date": "2026-05-26", "localName": "ޙައްޖު ދުވަސް", "category": "public_holiday" },
+  { "name": "Eid al-Adha (Day 1)", "date": "2026-05-27", "localName": "އަޟްޙާ އީދު", "category": "public_holiday" },
+  { "name": "Eid al-Adha (Day 2)", "date": "2026-05-28", "localName": "އަޟްޙާ އީދު (ދެވަނަ ދުވަސް)", "category": "public_holiday" },
+  { "name": "Eid al-Adha (Day 3)", "date": "2026-05-29", "localName": "އަޟްޙާ އީދު (ތިންވަނަ ދުވަސް)", "category": "public_holiday" },
+  { "name": "Eid al-Adha (Day 4)", "date": "2026-05-30", "localName": "އަޟްޙާ އީދު (ހަތަރުވަނަ ދުވަސް)", "category": "public_holiday" },
+
+  { "name": "Islamic New Year (Muharram)", "date": "2026-06-17", "localName": "އިސްލާމީ އާ އަހަރު", "category": "public_holiday" },
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "ހޫނު މޫސުމުގެ ހަމަ ދުވަސް", "category": "seasonal" },
+
+  { "name": "Independence Day", "date": "2026-07-26", "localName": "މިނިވަން ދުވަސް", "category": "public_holiday" },
+  { "name": "Independence Day Holiday", "date": "2026-07-27", "localName": "މިނިވަން ދުވަހުގެ ބަންދު", "category": "public_holiday" },
+
+  { "name": "National Day", "date": "2026-08-14", "localName": "ޤައުމީ ދުވަސް", "category": "public_holiday" },
+  { "name": "Prophet's Birthday (Mawlid)", "date": "2026-08-26", "localName": "މީލާދުއް ނަބީ", "category": "public_holiday" },
+
+  { "name": "The Day Maldives Embraced Islam", "date": "2026-09-14", "localName": "ދިވެހިރާއްޖެ އިސްލާމްވި ދުވަސް", "category": "public_holiday" },
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "ހޭދަ ހަމަ ދުވަސް", "category": "seasonal" },
+
+  { "name": "Victory Day", "date": "2026-11-03", "localName": "ނަޞްރުގެ ދުވަސް", "category": "public_holiday" },
+  { "name": "Republic Day", "date": "2026-11-11", "localName": "ޖުމްހޫރީ ދުވަސް", "category": "public_holiday" },
+
+  { "name": "December Solstice", "date": "2026-12-22", "localName": "ފިނި މޫސުމުގެ ހަމަ ދުވަސް", "category": "seasonal" }
 ]

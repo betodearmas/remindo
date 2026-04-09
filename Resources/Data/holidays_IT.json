@@ -1,13 +1,44 @@
 [
-  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Capodanno" },
-  { "name": "Epiphany", "date": "2026-01-06", "localName": "Epifania" },
-  { "name": "Easter Monday", "date": "2026-04-06", "localName": "Lunedì dell'Angelo" },
-  { "name": "Liberation Day", "date": "2026-04-25", "localName": "Festa della Liberazione" },
-  { "name": "Labour Day", "date": "2026-05-01", "localName": "Festa dei Lavoratori" },
-  { "name": "Republic Day", "date": "2026-06-02", "localName": "Festa della Repubblica" },
-  { "name": "Assumption Day", "date": "2026-08-15", "localName": "Ferragosto" },
-  { "name": "All Saints' Day", "date": "2026-11-01", "localName": "Ognissanti" },
-  { "name": "Immaculate Conception", "date": "2026-12-08", "localName": "Immacolata Concezione" },
-  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Natale" },
-  { "name": "St. Stephen's Day", "date": "2026-12-26", "localName": "Santo Stefano" }
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Capodanno", "category": "public_holiday" },
+  { "name": "Epiphany (La Befana)", "date": "2026-01-06", "localName": "Epifania", "category": "public_holiday" },
+
+  { "name": "Valentine's Day", "date": "2026-02-14", "localName": "San Valentino", "category": "observance" },
+  { "name": "Carnevale / Martedì Grasso", "date": "2026-02-17", "localName": "Martedì Grasso", "category": "cultural" },
+
+  { "name": "Father's Day", "date": "2026-03-19", "localName": "Festa del Papà", "category": "observance" },
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "Equinozio di Primavera", "category": "seasonal" },
+
+  { "name": "Easter Sunday", "date": "2026-04-05", "localName": "Pasqua", "category": "public_holiday" },
+  { "name": "Easter Monday", "date": "2026-04-06", "localName": "Pasquetta", "category": "public_holiday" },
+  { "name": "Liberation Day", "date": "2026-04-25", "localName": "Festa della Liberazione", "category": "public_holiday" },
+  { "name": "Feast of St Mark (Venice)", "date": "2026-04-25", "localName": "Festa di San Marco", "category": "cultural" },
+  { "name": "Sardinia's Day", "date": "2026-04-28", "localName": "Sa Die de Sa Sardigna", "category": "cultural" },
+
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Festa dei Lavoratori", "category": "public_holiday" },
+  { "name": "Mother's Day", "date": "2026-05-10", "localName": "Festa della Mamma", "category": "observance" },
+
+  { "name": "Republic Day", "date": "2026-06-02", "localName": "Festa della Repubblica", "category": "public_holiday" },
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "Solstizio d'Estate", "category": "seasonal" },
+  { "name": "Feast of St John the Baptist (Florence, Genoa, Turin)", "date": "2026-06-24", "localName": "Festa di San Giovanni Battista", "category": "cultural" },
+  { "name": "Feast of Sts Peter and Paul (Rome)", "date": "2026-06-29", "localName": "Festa di San Pietro e Paolo", "category": "cultural" },
+
+  { "name": "Feast of St Rosalia (Palermo)", "date": "2026-07-15", "localName": "Festino di Santa Rosalia", "category": "cultural" },
+
+  { "name": "Assumption Day / Ferragosto", "date": "2026-08-15", "localName": "Ferragosto", "category": "public_holiday" },
+
+  { "name": "Feast of San Gennaro (Naples)", "date": "2026-09-19", "localName": "Festa di San Gennaro", "category": "cultural" },
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "Equinozio d'Autunno", "category": "seasonal" },
+
+  { "name": "Feast of St Francis of Assisi", "date": "2026-10-04", "localName": "Festa di San Francesco d'Assisi", "category": "public_holiday" },
+  { "name": "Feast of San Petronio (Bologna)", "date": "2026-10-04", "localName": "Festa di San Petronio", "category": "cultural" },
+  { "name": "All Saints' Day", "date": "2026-11-01", "localName": "Ognissanti", "category": "public_holiday" },
+  { "name": "All Souls' Day", "date": "2026-11-02", "localName": "Commemorazione dei Defunti", "category": "religious" },
+  { "name": "Feast of St Giusto (Trieste)", "date": "2026-11-03", "localName": "Festa di San Giusto", "category": "cultural" },
+
+  { "name": "Feast of St Nicholas (Bari)", "date": "2026-12-06", "localName": "Festa di San Nicola", "category": "cultural" },
+  { "name": "Feast of Sant'Ambrogio (Milan)", "date": "2026-12-07", "localName": "Festa di Sant'Ambrogio", "category": "cultural" },
+  { "name": "Immaculate Conception", "date": "2026-12-08", "localName": "Immacolata Concezione", "category": "public_holiday" },
+  { "name": "December Solstice", "date": "2026-12-21", "localName": "Solstizio d'Inverno", "category": "seasonal" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Natale", "category": "public_holiday" },
+  { "name": "St. Stephen's Day", "date": "2026-12-26", "localName": "Santo Stefano", "category": "public_holiday" }
 ]

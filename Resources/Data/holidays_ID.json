@@ -1,10 +1,41 @@
 [
-  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Tahun Baru Masehi" },
-  { "name": "Chinese New Year", "date": "2026-02-17", "localName": "Tahun Baru Imlek" },
-  { "name": "Nyepi", "date": "2026-03-19", "localName": "Hari Raya Nyepi" },
-  { "name": "Good Friday", "date": "2026-04-03", "localName": "Wafat Isa Al Masih" },
-  { "name": "Labour Day", "date": "2026-05-01", "localName": "Hari Buruh" },
-  { "name": "Ascension Day", "date": "2026-05-14", "localName": "Kenaikan Isa Al Masih" },
-  { "name": "Independence Day", "date": "2026-08-17", "localName": "Hari Kemerdekaan" },
-  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Hari Natal" }
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Tahun Baru Masehi", "category": "public_holiday" },
+  { "name": "Isra Miraj", "date": "2026-01-16", "localName": "Isra Mikraj Nabi Muhammad SAW", "category": "public_holiday" },
+
+  { "name": "Valentine's Day", "date": "2026-02-14", "localName": "Hari Valentine", "category": "observance" },
+  { "name": "Chinese New Year (Eve — Cuti Bersama)", "date": "2026-02-16", "localName": "Cuti Bersama Tahun Baru Imlek", "category": "public_holiday" },
+  { "name": "Chinese New Year", "date": "2026-02-17", "localName": "Tahun Baru Imlek 2577", "category": "public_holiday" },
+  { "name": "Ramadan Start", "date": "2026-02-18", "localName": "Awal Ramadan", "category": "religious" },
+
+  { "name": "Nyepi Eve — Cuti Bersama", "date": "2026-03-18", "localName": "Cuti Bersama Nyepi", "category": "public_holiday" },
+  { "name": "Nyepi (Balinese New Year)", "date": "2026-03-19", "localName": "Hari Raya Nyepi", "category": "public_holiday" },
+  { "name": "Idul Fitri — Cuti Bersama", "date": "2026-03-20", "localName": "Cuti Bersama Idul Fitri", "category": "public_holiday" },
+  { "name": "Idul Fitri (Eid al-Fitr)", "date": "2026-03-21", "localName": "Hari Raya Idul Fitri 1447 H", "category": "public_holiday" },
+  { "name": "Idul Fitri Day 2", "date": "2026-03-22", "localName": "Hari Raya Idul Fitri 2 1447 H", "category": "public_holiday" },
+  { "name": "Idul Fitri — Cuti Bersama", "date": "2026-03-23", "localName": "Cuti Bersama Idul Fitri", "category": "public_holiday" },
+  { "name": "Idul Fitri — Cuti Bersama", "date": "2026-03-24", "localName": "Cuti Bersama Idul Fitri", "category": "public_holiday" },
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "Ekuinoks Maret", "category": "seasonal" },
+
+  { "name": "Good Friday", "date": "2026-04-03", "localName": "Wafat Isa Al Masih", "category": "public_holiday" },
+  { "name": "Easter Sunday", "date": "2026-04-05", "localName": "Hari Paskah", "category": "public_holiday" },
+
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Hari Buruh Internasional", "category": "public_holiday" },
+  { "name": "Ascension Day", "date": "2026-05-14", "localName": "Kenaikan Isa Al Masih", "category": "public_holiday" },
+  { "name": "Ascension Day — Cuti Bersama", "date": "2026-05-15", "localName": "Cuti Bersama Kenaikan Isa Al Masih", "category": "public_holiday" },
+  { "name": "Waisak Day (Vesak)", "date": "2026-05-31", "localName": "Hari Raya Waisak 2570 BE", "category": "public_holiday" },
+  { "name": "Idul Adha (Eid al-Adha)", "date": "2026-05-27", "localName": "Hari Raya Idul Adha 1447 H", "category": "public_holiday" },
+  { "name": "Idul Adha — Cuti Bersama", "date": "2026-05-28", "localName": "Cuti Bersama Idul Adha", "category": "public_holiday" },
+
+  { "name": "Pancasila Day", "date": "2026-06-01", "localName": "Hari Lahir Pancasila", "category": "public_holiday" },
+  { "name": "Islamic New Year (Muharram)", "date": "2026-06-16", "localName": "Tahun Baru Islam 1448 H", "category": "public_holiday" },
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "Titik Balik Matahari Juni", "category": "seasonal" },
+
+  { "name": "Independence Day", "date": "2026-08-17", "localName": "Hari Kemerdekaan Republik Indonesia", "category": "public_holiday" },
+  { "name": "Prophet Muhammad's Birthday", "date": "2026-08-25", "localName": "Maulid Nabi Muhammad SAW", "category": "public_holiday" },
+
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "Ekuinoks September", "category": "seasonal" },
+
+  { "name": "December Solstice", "date": "2026-12-21", "localName": "Titik Balik Matahari Desember", "category": "seasonal" },
+  { "name": "Christmas Eve — Cuti Bersama", "date": "2026-12-24", "localName": "Cuti Bersama Natal", "category": "public_holiday" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Hari Natal", "category": "public_holiday" }
 ]

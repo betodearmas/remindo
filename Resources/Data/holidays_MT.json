@@ -1,10 +1,28 @@
 [
-  { "name": "New Year's Day", "date": "2026-01-01", "localName": "L-Ewwel tas-Sena" },
-  { "name": "Feast of St. Paul's Shipwreck", "date": "2026-02-10", "localName": "In-Nawfraġju ta' San Pawl" },
-  { "name": "Freedom Day", "date": "2026-03-31", "localName": "Jum il-Ħelsien" },
-  { "name": "Good Friday", "date": "2026-04-03", "localName": "Il-Ġimgħa l-Kbira" },
-  { "name": "Worker's Day", "date": "2026-05-01", "localName": "Jum il-Ħaddiem" },
-  { "name": "Independence Day", "date": "2026-09-21", "localName": "Jum l-Indipendenza" },
-  { "name": "Republic Day", "date": "2026-12-13", "localName": "Jum ir-Repubblika" },
-  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Il-Milied" }
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "L-Ewwel tas-Sena", "category": "public_holiday" },
+
+  { "name": "Feast of the Shipwreck of St Paul", "date": "2026-02-10", "localName": "Il-Festa tan-Nawfraġju ta' San Pawl", "category": "public_holiday" },
+
+  { "name": "Feast of Saint Joseph", "date": "2026-03-19", "localName": "Il-Festa ta' San Ġużepp", "category": "public_holiday" },
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "L-Ekwinożju tar-Rebbiegħa", "category": "seasonal" },
+  { "name": "Freedom Day", "date": "2026-03-31", "localName": "Jum il-Ħelsien", "category": "public_holiday" },
+
+  { "name": "Good Friday", "date": "2026-04-03", "localName": "Il-Ġimgħa l-Kbira", "category": "public_holiday" },
+
+  { "name": "Workers' Day", "date": "2026-05-01", "localName": "Jum il-Ħaddiem", "category": "public_holiday" },
+
+  { "name": "Sette Giugno", "date": "2026-06-07", "localName": "Sette Giugno", "category": "public_holiday" },
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "Is-Solstiżju tas-Sajf", "category": "seasonal" },
+  { "name": "Feast of Saints Peter and Paul (Mnarja)", "date": "2026-06-29", "localName": "L-Imnarja", "category": "public_holiday" },
+
+  { "name": "Assumption of Mary (Santa Marija)", "date": "2026-08-15", "localName": "Santa Marija", "category": "public_holiday" },
+
+  { "name": "Feast of Our Lady of Victories (Victory Day)", "date": "2026-09-08", "localName": "Il-Vitorja", "category": "public_holiday" },
+  { "name": "Independence Day", "date": "2026-09-21", "localName": "Jum l-Indipendenza", "category": "public_holiday" },
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "L-Ekwinożju tal-Ħarifa", "category": "seasonal" },
+
+  { "name": "Immaculate Conception", "date": "2026-12-08", "localName": "Il-Kunċizzjoni", "category": "public_holiday" },
+  { "name": "December Solstice", "date": "2026-12-21", "localName": "Is-Solstiżju tax-Xitwa", "category": "seasonal" },
+  { "name": "Republic Day", "date": "2026-12-13", "localName": "Jum ir-Repubblika", "category": "public_holiday" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Il-Milied", "category": "public_holiday" }
 ]

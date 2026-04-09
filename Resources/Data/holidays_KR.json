@@ -1,11 +1,46 @@
 [
-  { "name": "New Year's Day", "date": "2026-01-01", "localName": "신정" },
-  { "name": "Lunar New Year", "date": "2026-02-17", "localName": "설날" },
-  { "name": "Independence Movement Day", "date": "2026-03-01", "localName": "삼일절" },
-  { "name": "Children's Day", "date": "2026-05-05", "localName": "어린이날" },
-  { "name": "Memorial Day", "date": "2026-06-06", "localName": "현충일" },
-  { "name": "Liberation Day", "date": "2026-08-15", "localName": "광복절" },
-  { "name": "National Foundation Day", "date": "2026-10-03", "localName": "개천절" },
-  { "name": "Hangul Day", "date": "2026-10-09", "localName": "한글날" },
-  { "name": "Christmas Day", "date": "2026-12-25", "localName": "성탄절" }
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "신정", "category": "public_holiday" },
+
+  { "name": "Valentine's Day", "date": "2026-02-14", "localName": "발렌타인데이", "category": "observance" },
+  { "name": "Seollal Holiday (Day 1)", "date": "2026-02-16", "localName": "설날 연휴", "category": "public_holiday" },
+  { "name": "Seollal (Lunar New Year)", "date": "2026-02-17", "localName": "설날", "category": "public_holiday" },
+  { "name": "Seollal Holiday (Day 3)", "date": "2026-02-18", "localName": "설날 연휴", "category": "public_holiday" },
+
+  { "name": "Independence Movement Day", "date": "2026-03-01", "localName": "삼일절", "category": "public_holiday" },
+  { "name": "Independence Movement Day (observed)", "date": "2026-03-02", "localName": "삼일절 대체공휴일", "category": "public_holiday" },
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "춘분", "category": "seasonal" },
+
+  { "name": "Arbor Day", "date": "2026-04-05", "localName": "식목일", "category": "observance" },
+
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "근로자의 날", "category": "public_holiday" },
+  { "name": "Children's Day", "date": "2026-05-05", "localName": "어린이날", "category": "public_holiday" },
+  { "name": "Parents' Day", "date": "2026-05-08", "localName": "어버이날", "category": "observance" },
+  { "name": "Teacher's Day", "date": "2026-05-15", "localName": "스승의 날", "category": "observance" },
+  { "name": "Buddha's Birthday", "date": "2026-05-24", "localName": "부처님오신날", "category": "public_holiday" },
+  { "name": "Buddha's Birthday (observed)", "date": "2026-05-25", "localName": "부처님오신날 대체공휴일", "category": "public_holiday" },
+
+  { "name": "Local Election Day", "date": "2026-06-03", "localName": "지방선거일", "category": "public_holiday" },
+  { "name": "Memorial Day", "date": "2026-06-06", "localName": "현충일", "category": "public_holiday" },
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "하지", "category": "seasonal" },
+
+  { "name": "Constitution Day", "date": "2026-07-17", "localName": "제헌절", "category": "public_holiday" },
+
+  { "name": "Liberation Day", "date": "2026-08-15", "localName": "광복절", "category": "public_holiday" },
+  { "name": "Liberation Day (observed)", "date": "2026-08-17", "localName": "광복절 대체공휴일", "category": "public_holiday" },
+
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "추분", "category": "seasonal" },
+  { "name": "Chuseok Holiday (Day 1)", "date": "2026-09-24", "localName": "추석 연휴", "category": "public_holiday" },
+  { "name": "Chuseok", "date": "2026-09-25", "localName": "추석", "category": "public_holiday" },
+  { "name": "Chuseok Holiday (Day 3)", "date": "2026-09-26", "localName": "추석 연휴", "category": "public_holiday" },
+
+  { "name": "Armed Forces Day", "date": "2026-10-01", "localName": "국군의 날", "category": "observance" },
+  { "name": "National Foundation Day", "date": "2026-10-03", "localName": "개천절", "category": "public_holiday" },
+  { "name": "National Foundation Day (observed)", "date": "2026-10-05", "localName": "개천절 대체공휴일", "category": "public_holiday" },
+  { "name": "Hangeul Proclamation Day", "date": "2026-10-09", "localName": "한글날", "category": "public_holiday" },
+  { "name": "Halloween", "date": "2026-10-31", "localName": "할로윈", "category": "observance" },
+
+  { "name": "December Solstice", "date": "2026-12-22", "localName": "동지", "category": "seasonal" },
+  { "name": "Christmas Eve", "date": "2026-12-24", "localName": "크리스마스 이브", "category": "observance" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "성탄절", "category": "public_holiday" },
+  { "name": "New Year's Eve", "date": "2026-12-31", "localName": "섣달그믐", "category": "observance" }
 ]

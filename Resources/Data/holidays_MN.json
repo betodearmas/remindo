@@ -1,8 +1,30 @@
 [
-  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Шинэ жил" },
-  { "name": "Tsagaan Sar", "date": "2026-02-17", "localName": "Цагаан сар" },
-  { "name": "International Women's Day", "date": "2026-03-08", "localName": "Олон улсын эмэгтэйчүүдийн өдөр" },
-  { "name": "Children's Day", "date": "2026-06-01", "localName": "Хүүхдийн баяр" },
-  { "name": "Naadam Holiday", "date": "2026-07-11", "localName": "Наадам" },
-  { "name": "Independence Day", "date": "2026-12-29", "localName": "Тусгаар тогтнолын өдөр" }
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Шинэ жил", "category": "public_holiday" },
+
+  { "name": "Bituun (Lunar New Year's Eve)", "date": "2026-02-17", "localName": "Битүүн", "category": "cultural" },
+  { "name": "Tsagaan Sar (Lunar New Year)", "date": "2026-02-18", "localName": "Цагаан сар", "category": "public_holiday" },
+  { "name": "Tsagaan Sar Holiday (Day 2)", "date": "2026-02-19", "localName": "Цагаан сарын амралт", "category": "public_holiday" },
+  { "name": "Tsagaan Sar Holiday (Day 3)", "date": "2026-02-20", "localName": "Цагаан сарын амралт", "category": "public_holiday" },
+
+  { "name": "International Women's Day", "date": "2026-03-08", "localName": "Олон улсын эмэгтэйчүүдийн өдөр", "category": "public_holiday" },
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "Хавар тэгш өдөр", "category": "seasonal" },
+
+  { "name": "Buddha Day (Ikh Duichen)", "date": "2026-05-31", "localName": "Их Дүйчэн", "category": "public_holiday" },
+
+  { "name": "Mothers' and Children's Day", "date": "2026-06-01", "localName": "Эхийн болон хүүхдийн баяр", "category": "public_holiday" },
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "Зуны намар", "category": "seasonal" },
+
+  { "name": "Naadam (National Day)", "date": "2026-07-11", "localName": "Наадам", "category": "public_holiday" },
+  { "name": "Naadam Holiday (Day 2)", "date": "2026-07-12", "localName": "Наадам амралт", "category": "public_holiday" },
+  { "name": "Naadam Holiday (Day 3)", "date": "2026-07-13", "localName": "Наадам амралт", "category": "public_holiday" },
+  { "name": "Naadam Holiday (Day 4)", "date": "2026-07-14", "localName": "Наадам амралт", "category": "public_holiday" },
+  { "name": "Naadam Holiday (Day 5)", "date": "2026-07-15", "localName": "Наадам амралт", "category": "public_holiday" },
+
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "Намрын тэгш өдөр", "category": "seasonal" },
+
+  { "name": "National Pride Day (Chinggis Khaan's Birthday)", "date": "2026-11-10", "localName": "Чингис хааны өдөр", "category": "public_holiday" },
+  { "name": "Proclamation of the Constitution Day", "date": "2026-11-26", "localName": "Үндсэн хуулийн өдөр", "category": "public_holiday" },
+
+  { "name": "December Solstice", "date": "2026-12-21", "localName": "Өвлийн намар", "category": "seasonal" },
+  { "name": "National Independence Day", "date": "2026-12-29", "localName": "Тусгаар тогтнолын өдөр", "category": "public_holiday" }
 ]

@@ -1,9 +1,25 @@
 [
-  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Ano Novo" },
-  { "name": "Heroes' Day", "date": "2026-02-03", "localName": "Dia dos Heróis Moçambicanos" },
-  { "name": "Women's Day", "date": "2026-04-07", "localName": "Dia da Mulher Moçambicana" },
-  { "name": "Labour Day", "date": "2026-05-01", "localName": "Dia do Trabalhador" },
-  { "name": "Independence Day", "date": "2026-06-25", "localName": "Dia da Independência" },
-  { "name": "Peace Day", "date": "2026-10-04", "localName": "Dia da Paz" },
-  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Natal" }
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Ano Novo", "category": "public_holiday" },
+
+  { "name": "Mozambican Heroes' Day", "date": "2026-02-03", "localName": "Dia dos Heróis Moçambicanos", "category": "public_holiday" },
+
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "Equinócio de março", "category": "seasonal" },
+
+  { "name": "Good Friday", "date": "2026-04-03", "localName": "Sexta-feira Santa", "category": "observance" }
+  { "name": "Mozambican Women's Day", "date": "2026-04-07", "localName": "Dia da Mulher Moçambicana", "category": "public_holiday" },
+
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Dia do Trabalhador", "category": "public_holiday" },
+
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "Solstício de junho", "category": "seasonal" },
+  { "name": "Independence Day", "date": "2026-06-25", "localName": "Dia da Independência Nacional", "category": "public_holiday" },
+
+  { "name": "Victory Day (Lusaka Peace Agreement Day)", "date": "2026-09-07", "localName": "Dia da Vitória", "category": "public_holiday" },
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "Equinócio de setembro", "category": "seasonal" },
+  { "name": "Armed Forces Day", "date": "2026-09-25", "localName": "Dia das Forças Armadas", "category": "public_holiday" },
+
+  { "name": "Peace and National Reconciliation Day", "date": "2026-10-04", "localName": "Dia da Paz e Reconciliação Nacional", "category": "public_holiday" },
+  { "name": "Peace and National Reconciliation Day (observed)", "date": "2026-10-05", "localName": "Dia da Paz e Reconciliação Nacional (substituição)", "category": "public_holiday" },
+
+  { "name": "December Solstice", "date": "2026-12-21", "localName": "Solstício de dezembro", "category": "seasonal" },
+  { "name": "Family Day", "date": "2026-12-25", "localName": "Dia da Família", "category": "public_holiday" }
 ]

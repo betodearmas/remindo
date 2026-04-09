@@ -1,6 +1,38 @@
 [
-  { "name": "New Year's Day", "date": "2026-01-01", "localName": "رأس السنة الميلادية" },
-  { "name": "Labour Day", "date": "2026-05-01", "localName": "عيد العمال" },
-  { "name": "Independence Day", "date": "2026-05-25", "localName": "عيد الاستقلال" },
-  { "name": "Christmas Day", "date": "2026-12-25", "localName": "عيد الميلاد" }
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "رأس السنة الميلادية", "category": "public_holiday" },
+  { "name": "King Abdullah II Birthday", "date": "2026-01-30", "localName": "عيد ميلاد جلالة الملك عبدالله الثاني", "category": "observance" },
+
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "الاعتدال الربيعي", "category": "seasonal" },
+  { "name": "Eid al-Fitr (Day 1)", "date": "2026-03-19", "localName": "عيد الفطر", "category": "public_holiday" },
+  { "name": "Eid al-Fitr (Day 2)", "date": "2026-03-20", "localName": "عيد الفطر - اليوم الثاني", "category": "public_holiday" },
+  { "name": "Eid al-Fitr (Day 3)", "date": "2026-03-21", "localName": "عيد الفطر - اليوم الثالث", "category": "public_holiday" },
+  { "name": "Eid al-Fitr (Day 4)", "date": "2026-03-22", "localName": "عيد الفطر - اليوم الرابع", "category": "public_holiday" },
+  { "name": "Eid al-Fitr (Day 5)", "date": "2026-03-23", "localName": "عيد الفطر - اليوم الخامس", "category": "public_holiday" },
+
+  { "name": "Jordanian Flag Day", "date": "2026-04-16", "localName": "يوم العلم الأردني", "category": "observance" },
+  { "name": "Orthodox Palm Sunday (Christian holiday)", "date": "2026-04-05", "localName": "أحد الشعانين (الأرثوذكسي)", "category": "public_holiday" },
+  { "name": "Orthodox Good Friday (Christian holiday)", "date": "2026-04-10", "localName": "الجمعة العظيمة (الأرثوذكسية)", "category": "public_holiday" },
+  { "name": "Orthodox Easter Sunday (Christian holiday)", "date": "2026-04-12", "localName": "أحد الفصح (الأرثوذكسي)", "category": "public_holiday" },
+  { "name": "Orthodox Easter Monday (Christian holiday)", "date": "2026-04-13", "localName": "إثنين الفصح (الأرثوذكسي)", "category": "public_holiday" },
+
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "عيد العمال", "category": "public_holiday" },
+  { "name": "Independence Day", "date": "2026-05-25", "localName": "عيد الاستقلال", "category": "public_holiday" },
+  { "name": "Arafat Day (Eve of Eid al-Adha)", "date": "2026-05-26", "localName": "يوم عرفة", "category": "public_holiday" },
+  { "name": "Eid al-Adha (Day 1)", "date": "2026-05-27", "localName": "عيد الأضحى", "category": "public_holiday" },
+  { "name": "Eid al-Adha (Day 2)", "date": "2026-05-28", "localName": "عيد الأضحى - اليوم الثاني", "category": "public_holiday" },
+  { "name": "Eid al-Adha (Day 3)", "date": "2026-05-29", "localName": "عيد الأضحى - اليوم الثالث", "category": "public_holiday" },
+  { "name": "Eid al-Adha (Day 4)", "date": "2026-05-30", "localName": "عيد الأضحى - اليوم الرابع", "category": "public_holiday" },
+
+  { "name": "Great Arab Revolt / Army Day / Accession to the Throne Day", "date": "2026-06-10", "localName": "الثورة العربية الكبرى / عيد الجيش / ذكرى العرش", "category": "observance" },
+  { "name": "Islamic New Year (Hijri New Year)", "date": "2026-06-16", "localName": "رأس السنة الهجرية", "category": "public_holiday" },
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "الانقلاب الصيفي", "category": "seasonal" },
+
+  { "name": "Prophet Muhammad's Birthday (Mawlid)", "date": "2026-08-25", "localName": "عيد المولد النبوي الشريف", "category": "public_holiday" },
+
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "الاعتدال الخريفي", "category": "seasonal" },
+
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "عيد الميلاد المجيد", "category": "public_holiday" },
+  { "name": "Boxing Day (Christian holiday)", "date": "2026-12-26", "localName": "يوم الهدايا", "category": "public_holiday" },
+  { "name": "December Solstice", "date": "2026-12-21", "localName": "الانقلاب الشتوي", "category": "seasonal" },
+  { "name": "New Year's Eve", "date": "2026-12-31", "localName": "ليلة رأس السنة", "category": "observance" }
 ]

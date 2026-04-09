@@ -1,10 +1,30 @@
 [
-  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Taom-baovao" },
-  { "name": "International Women's Day", "date": "2026-03-08", "localName": "Andro iraisam-pirenena ho an'ny vehivavy" },
-  { "name": "Easter Monday", "date": "2026-04-06", "localName": "Alatsinainy Paska" },
-  { "name": "Labour Day", "date": "2026-05-01", "localName": "Fetin'ny Asa" },
-  { "name": "Independence Day", "date": "2026-06-26", "localName": "Fetin'ny Fahaleovantena" },
-  { "name": "Assumption Day", "date": "2026-08-15", "localName": "Asompsiona" },
-  { "name": "All Saints' Day", "date": "2026-11-01", "localName": "Fetin'ny Olomasina Rehetra" },
-  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Krismasy" }
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Taom-baovao", "category": "public_holiday" },
+
+  { "name": "International Women's Day", "date": "2026-03-08", "localName": "Andro iraisam-pirenena ho an'ny vehivavy", "category": "public_holiday" },
+  { "name": "Martyrs' Day", "date": "2026-03-29", "localName": "Fetin'ny Mahery fo", "category": "public_holiday" },
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "Fitovian'andro sy alina", "category": "seasonal" },
+  { "name": "Eid al-Fitr", "date": "2026-03-20", "localName": "Eid el-Fitr", "category": "religious" },
+   
+  
+
+  { "name": "Easter Sunday", "date": "2026-04-05", "localName": "Paska", "category": "religious" },
+  { "name": "Easter Monday", "date": "2026-04-06", "localName": "Alatsinainy Paska", "category": "public_holiday" },
+
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Fetin'ny Asa", "category": "public_holiday" },
+  { "name": "Ascension Day", "date": "2026-05-14", "localName": "Fiakaran'i Jesoa kristy tany an-danitra", "category": "public_holiday" },
+  { "name": "Whit Monday (Pentecost Monday)", "date": "2026-05-25", "localName": "Alatsinainy Pentekosta", "category": "public_holiday" },
+  { "name": "Eid al-Adha", "date": "2026-05-27", "localName": "Eid el-Adha", "category": "religious" }
+
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "Solstisy ririnina", "category": "seasonal" },
+  { "name": "Independence Day", "date": "2026-06-26", "localName": "Fetin'ny Fahaleovantena", "category": "public_holiday" },
+
+  { "name": "Assumption Day", "date": "2026-08-15", "localName": "Asompsiona", "category": "public_holiday" },
+
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "Fitovian'andro sy alina (ririnina)", "category": "seasonal" },
+
+  { "name": "All Saints' Day", "date": "2026-11-01", "localName": "Fetin'ny Olomasina Rehetra", "category": "public_holiday" },
+
+  { "name": "December Solstice", "date": "2026-12-21", "localName": "Solstisy fararano", "category": "seasonal" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Krismasy", "category": "public_holiday" }
 ]

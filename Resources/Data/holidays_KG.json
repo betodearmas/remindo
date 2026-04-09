@@ -1,9 +1,33 @@
 [
-  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Жаңы жыл" },
-  { "name": "Defender of the Fatherland Day", "date": "2026-02-23", "localName": "Мекенди коргоочулардын күнү" },
-  { "name": "International Women's Day", "date": "2026-03-08", "localName": "Аялдардын эл аралык күнү" },
-  { "name": "Nowruz", "date": "2026-03-21", "localName": "Нооруз" },
-  { "name": "Labour Day", "date": "2026-05-01", "localName": "Эмгек күнү" },
-  { "name": "Victory Day", "date": "2026-05-09", "localName": "Жеңиш күнү" },
-  { "name": "Independence Day", "date": "2026-08-31", "localName": "Көз карандысыздык күнү" }
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Жаңы жыл", "category": "public_holiday" },
+  { "name": "Orthodox Christmas", "date": "2026-01-07", "localName": "Православдык Рождество", "category": "public_holiday" },
+
+  { "name": "Defender of the Fatherland Day", "date": "2026-02-23", "localName": "Ата Мекенди коргоочулардын күнү", "category": "public_holiday" },
+  { "name": "Ramadan Start", "date": "2026-02-18", "localName": "Орозо айы башталышы", "category": "religious" },
+
+  { "name": "International Women's Day", "date": "2026-03-08", "localName": "Аялдардын эл аралык майрамы", "category": "public_holiday" },
+  { "name": "International Women's Day (observed)", "date": "2026-03-09", "localName": "Аялдардын эл аралык майрамы (которулган)", "category": "public_holiday" },
+  { "name": "Orozo Ait (Eid al-Fitr)", "date": "2026-03-20", "localName": "Орозо Айт", "category": "public_holiday" },
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "Жазгы теңдеш", "category": "seasonal" },
+  { "name": "Nowruz (Nooruz Mairamy)", "date": "2026-03-21", "localName": "Нооруз майрамы", "category": "public_holiday" },
+  { "name": "Nowruz (observed)", "date": "2026-03-23", "localName": "Нооруз майрамы (которулган)", "category": "public_holiday" },
+
+  { "name": "People's April Revolution Day", "date": "2026-04-07", "localName": "Элдик Апрель революциясынын күнү", "category": "public_holiday" },
+
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Эмгек майрамы", "category": "public_holiday" },
+  { "name": "Constitution Day", "date": "2026-05-05", "localName": "Кыргыз Республикасынын Конституция күнү", "category": "public_holiday" },
+  { "name": "Victory Day", "date": "2026-05-09", "localName": "Жеңиш күнү", "category": "public_holiday" },
+  { "name": "Kurman Ait (Eid al-Adha)", "date": "2026-05-27", "localName": "Курман Айт", "category": "public_holiday" },
+
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "Жайкы күн жылышы", "category": "seasonal" },
+
+  { "name": "Independence Day", "date": "2026-08-31", "localName": "Көз карандысыздык күнү", "category": "public_holiday" },
+
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "Күзгү теңдеш", "category": "seasonal" },
+
+  { "name": "Days of History and Memory of Ancestors", "date": "2026-11-07", "localName": "Тарых жана ата-бабаларды эскерүү күндөрү", "category": "public_holiday" },
+  { "name": "Days of History and Memory of Ancestors (Day 2)", "date": "2026-11-08", "localName": "Тарых жана ата-бабаларды эскерүү күндөрү", "category": "public_holiday" },
+
+  { "name": "December Solstice", "date": "2026-12-21", "localName": "Кышкы күн жылышы", "category": "seasonal" },
+  { "name": "New Year's Eve", "date": "2026-12-31", "localName": "Жаңы жылдын алдындагы кеч", "category": "observance" }
 ]

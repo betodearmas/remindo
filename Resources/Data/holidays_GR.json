@@ -1,13 +1,56 @@
 [
-  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Πρωτοχρονιά" },
-  { "name": "Epiphany", "date": "2026-01-06", "localName": "Θεοφάνεια" },
-  { "name": "Clean Monday", "date": "2026-02-23", "localName": "Καθαρά Δευτέρα" },
-  { "name": "Independence Day", "date": "2026-03-25", "localName": "Εικοστή Πέμπτη Μαρτίου" },
-  { "name": "Good Friday (Orthodox)", "date": "2026-04-10", "localName": "Μεγάλη Παρασκευή" },
-  { "name": "Easter Monday (Orthodox)", "date": "2026-04-13", "localName": "Δευτέρα του Πάσχα" },
-  { "name": "Labour Day", "date": "2026-05-01", "localName": "Πρωτομαγιά" },
-  { "name": "Assumption Day", "date": "2026-08-15", "localName": "Κοίμηση της Θεοτόκου" },
-  { "name": "Ohi Day", "date": "2026-10-28", "localName": "Ημέρα του Όχι" },
-  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Χριστούγεννα" },
-  { "name": "Synaxis of the Mother of God", "date": "2026-12-26", "localName": "Σύναξη της Θεοτόκου" }
+  { "name": "New Year's Day / Feast of Saint Basil", "date": "2026-01-01", "localName": "Πρωτοχρονιά / Άγιος Βασίλης", "category": "public_holiday" },
+  { "name": "Epiphany", "date": "2026-01-06", "localName": "Θεοφάνεια", "category": "public_holiday" },
+  { "name": "Name Day: Ioannis / Giannis (John)", "date": "2026-01-07", "localName": "Σύναξη Ιωάννη Βαπτιστή — Γιάννης", "category": "name_day" },
+  { "name": "Name Day: Antonios (Anthony)", "date": "2026-01-17", "localName": "Άγιος Αντώνιος — Αντώνης", "category": "name_day" },
+
+  { "name": "Apokries (Carnival Season Start)", "date": "2026-02-01", "localName": "Απόκριες", "category": "cultural" },
+  { "name": "Tsiknopempti (Smoky Thursday)", "date": "2026-02-12", "localName": "Τσικνοπέμπτη", "category": "cultural" },
+  { "name": "Valentine's Day", "date": "2026-02-14", "localName": "Ημέρα του Αγίου Βαλεντίνου", "category": "observance" },
+  { "name": "Apokries Grand Finale (Cheesefare Sunday)", "date": "2026-02-22", "localName": "Κυριακή Αποκριάς", "category": "cultural" },
+  { "name": "Clean Monday", "date": "2026-02-23", "localName": "Καθαρά Δευτέρα", "category": "public_holiday" },
+
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "Εαρινή Ισημερία", "category": "seasonal" },
+  { "name": "Independence Day / Annunciation", "date": "2026-03-25", "localName": "Εικοστή Πέμπτη Μαρτίου / Ευαγγελισμός", "category": "public_holiday" },
+
+  { "name": "Orthodox Good Friday", "date": "2026-04-10", "localName": "Μεγάλη Παρασκευή", "category": "public_holiday" },
+  { "name": "Great Saturday", "date": "2026-04-11", "localName": "Μεγάλο Σάββατο", "category": "religious" },
+  { "name": "Orthodox Easter Sunday", "date": "2026-04-12", "localName": "Κυριακή του Πάσχα", "category": "religious" },
+  { "name": "Orthodox Easter Monday", "date": "2026-04-13", "localName": "Δευτέρα του Πάσχα", "category": "public_holiday" },
+  { "name": "Name Day: Georgios (George)", "date": "2026-04-14", "localName": "Άγιος Γεώργιος — Γιώργης", "category": "name_day" },
+
+  { "name": "Labour Day / Protomagia", "date": "2026-05-01", "localName": "Πρωτομαγιά", "category": "public_holiday" },
+  { "name": "Mother's Day", "date": "2026-05-10", "localName": "Ημέρα της Μητέρας", "category": "observance" },
+  { "name": "Name Day: Konstantinos & Eleni", "date": "2026-05-21", "localName": "Άγιοι Κωνσταντίνος και Ελένη", "category": "name_day" },
+  { "name": "Orthodox Pentecost Sunday", "date": "2026-05-31", "localName": "Πεντηκοστή", "category": "religious" },
+
+  { "name": "Holy Spirit Monday (Whit Monday)", "date": "2026-06-01", "localName": "Δευτέρα του Αγίου Πνεύματος", "category": "public_holiday" },
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "Θερινό Ηλιοστάσιο", "category": "seasonal" },
+  { "name": "Father's Day", "date": "2026-06-21", "localName": "Ημέρα του Πατέρα", "category": "observance" },
+  { "name": "Name Day: Ioannis (Midsummer — St. John)", "date": "2026-06-24", "localName": "Γέννηση Ιωάννη Βαπτιστή — Γιάννης", "category": "name_day" },
+
+  { "name": "Name Day: Kyriaki", "date": "2026-07-07", "localName": "Αγία Κυριακή — Κυριακή", "category": "name_day" },
+  { "name": "Name Day: Marina", "date": "2026-07-17", "localName": "Αγία Μαρίνα — Μαρίνα", "category": "name_day" },
+  { "name": "Name Day: Profitis Ilias (Elias)", "date": "2026-07-20", "localName": "Προφήτης Ηλίας — Ηλίας", "category": "name_day" },
+  { "name": "Name Day: Paraskevi", "date": "2026-07-26", "localName": "Αγία Παρασκευή — Παρασκευή", "category": "name_day" },
+
+  { "name": "Assumption of Mary / Dormition of the Theotokos", "date": "2026-08-15", "localName": "Κοίμηση της Θεοτόκου", "category": "public_holiday" },
+  { "name": "Name Day: Maria / Panagiotis", "date": "2026-08-15", "localName": "Παναγία — Μαρία, Παναγιώτης", "category": "name_day" },
+
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "Φθινοπωρινή Ισημερία", "category": "seasonal" },
+
+  { "name": "Ohi Day", "date": "2026-10-28", "localName": "Ημέρα του Όχι", "category": "public_holiday" },
+  { "name": "Name Day: Dimitrios", "date": "2026-10-26", "localName": "Άγιος Δημήτριος — Δημήτρης", "category": "name_day" },
+
+  { "name": "Name Day: Michail / Angelos", "date": "2026-11-08", "localName": "Ταξιάρχες — Μιχάλης, Άγγελος", "category": "name_day" },
+  { "name": "Athens Polytechnic Uprising Anniversary", "date": "2026-11-17", "localName": "Πολυτεχνείο", "category": "observance" },
+  { "name": "Name Day: Aikaterini (Katerina)", "date": "2026-11-25", "localName": "Αγία Αικατερίνη — Κατερίνα", "category": "name_day" },
+
+  { "name": "Name Day: Nikolaos (Nikos)", "date": "2026-12-06", "localName": "Άγιος Νικόλαος — Νίκος", "category": "name_day" },
+  { "name": "December Solstice", "date": "2026-12-21", "localName": "Χειμερινό Ηλιοστάσιο", "category": "seasonal" },
+  { "name": "Christmas Eve", "date": "2026-12-24", "localName": "Παραμονή Χριστουγέννων", "category": "observance" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Χριστούγεννα", "category": "public_holiday" },
+  { "name": "Synaxis of the Mother of God", "date": "2026-12-26", "localName": "Σύναξη της Θεοτόκου", "category": "public_holiday" },
+  { "name": "Name Day: Emmanouil / Stefanos", "date": "2026-12-26", "localName": "Εμμανουήλ — Μανώλης, Στέφανος", "category": "name_day" },
+  { "name": "New Year's Eve", "date": "2026-12-31", "localName": "Παραμονή Πρωτοχρονιάς", "category": "observance" }
 ]

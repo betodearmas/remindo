@@ -1,9 +1,41 @@
 [
-  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Año Nuevo" },
-  { "name": "Holy Thursday", "date": "2026-04-02", "localName": "Jueves Santo" },
-  { "name": "Good Friday", "date": "2026-04-03", "localName": "Viernes Santo" },
-  { "name": "Labour Day", "date": "2026-05-01", "localName": "Día del Trabajo" },
-  { "name": "Independence Day", "date": "2026-09-15", "localName": "Día de la Independencia" },
-  { "name": "All Saints' Day", "date": "2026-11-01", "localName": "Día de Todos los Santos" },
-  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Navidad" }
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Año Nuevo", "category": "public_holiday" },
+
+  { "name": "Valentine's Day", "date": "2026-02-14", "localName": "Día del Cariño", "category": "observance" },
+
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "Equinoccio de marzo", "category": "seasonal" },
+  { "name": "Palm Sunday", "date": "2026-03-29", "localName": "Domingo de Ramos", "category": "religious" },
+  { "name": "Semana Santa (Holy Week)", "date": "2026-03-29", "localName": "Semana Santa", "category": "cultural" },
+
+  { "name": "Holy Thursday", "date": "2026-04-02", "localName": "Jueves Santo", "category": "public_holiday" },
+  { "name": "Good Friday", "date": "2026-04-03", "localName": "Viernes Santo", "category": "public_holiday" },
+  { "name": "Holy Saturday", "date": "2026-04-04", "localName": "Sábado de Gloria", "category": "public_holiday" },
+  { "name": "Easter Sunday", "date": "2026-04-05", "localName": "Domingo de Resurrección", "category": "religious" },
+
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Día del Trabajo", "category": "public_holiday" },
+  { "name": "Mother's Day", "date": "2026-05-10", "localName": "Día de la Madre", "category": "observance" },
+
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "Solsticio de junio", "category": "seasonal" },
+  { "name": "Father's Day", "date": "2026-06-17", "localName": "Día del Padre", "category": "observance" },
+  { "name": "Army Day", "date": "2026-06-30", "localName": "Día del Ejército", "category": "public_holiday" },
+
+  { "name": "Cobán Indigenous Festival (Rab'ín Ajaw)", "date": "2026-07-25", "localName": "Rab'ín Ajaw", "category": "cultural" },
+  { "name": "Assumption Day", "date": "2026-08-15", "localName": "Asunción de la Virgen", "category": "observance" },
+
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "Equinoccio de septiembre", "category": "seasonal" },
+  { "name": "Independence Day", "date": "2026-09-15", "localName": "Día de la Independencia", "category": "public_holiday" },
+
+  { "name": "Revolution Day", "date": "2026-10-20", "localName": "Día de la Revolución", "category": "public_holiday" },
+
+  { "name": "All Saints' Day", "date": "2026-11-01", "localName": "Día de Todos los Santos", "category": "public_holiday" },
+  { "name": "Festival de Barriletes Gigantes", "date": "2026-11-01", "localName": "Festival de Barriletes Gigantes", "category": "cultural" },
+  { "name": "Day of the Dead", "date": "2026-11-02", "localName": "Día de los Muertos", "category": "cultural" },
+
+  { "name": "Burning of the Devil", "date": "2026-12-07", "localName": "La Quema del Diablo", "category": "cultural" },
+  { "name": "Feast of the Immaculate Conception", "date": "2026-12-08", "localName": "Inmaculada Concepción", "category": "religious" },
+  { "name": "Festival de Santo Tomás (Chichicastenango)", "date": "2026-12-13", "localName": "Fiesta de Santo Tomás", "category": "cultural" },
+  { "name": "December Solstice", "date": "2026-12-21", "localName": "Solsticio de diciembre", "category": "seasonal" },
+  { "name": "Christmas Eve", "date": "2026-12-24", "localName": "Nochebuena", "category": "public_holiday" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Navidad", "category": "public_holiday" },
+  { "name": "New Year's Eve", "date": "2026-12-31", "localName": "Nochevieja", "category": "public_holiday" }
 ]

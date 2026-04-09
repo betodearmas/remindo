@@ -1,14 +1,43 @@
 [
-  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Nýársdagur" },
-  { "name": "Maundy Thursday", "date": "2026-04-02", "localName": "Skírdagur" },
-  { "name": "Good Friday", "date": "2026-04-03", "localName": "Föstudagurinn langi" },
-  { "name": "Easter Monday", "date": "2026-04-06", "localName": "Annar í páskum" },
-  { "name": "First Day of Summer", "date": "2026-04-23", "localName": "Sumardagurinn fyrsti" },
-  { "name": "Labour Day", "date": "2026-05-01", "localName": "Verkalýðsdagurinn" },
-  { "name": "Ascension Day", "date": "2026-05-14", "localName": "Uppstigningardagur" },
-  { "name": "Whit Monday", "date": "2026-05-25", "localName": "Annar í hvítasunnu" },
-  { "name": "National Day", "date": "2026-06-17", "localName": "Þjóðhátíðardagurinn" },
-  { "name": "Commerce Day", "date": "2026-08-03", "localName": "Frídagur verslunarmanna" },
-  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Jóladagur" },
-  { "name": "Second Day of Christmas", "date": "2026-12-26", "localName": "Annar í jólum" }
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Nýársdagur", "category": "public_holiday" },
+
+  { "name": "Bóndadagur (Husband's Day / Start of Þorri)", "date": "2026-01-23", "localName": "Bóndadagur", "category": "cultural" },
+
+  { "name": "Bolludagur (Bun Day)", "date": "2026-02-16", "localName": "Bolludagur", "category": "cultural" },
+  { "name": "Sprengidagur (Shrove Tuesday)", "date": "2026-02-17", "localName": "Sprengidagur", "category": "cultural" },
+  { "name": "Öskudagur (Ash Wednesday)", "date": "2026-02-18", "localName": "Öskudagur", "category": "cultural" },
+  { "name": "Konudagur (Women's Day)", "date": "2026-02-22", "localName": "Konudagur", "category": "cultural" },
+
+  { "name": "Beer Day (Bjórdagurinn)", "date": "2026-03-01", "localName": "Bjórdagurinn", "category": "cultural" },
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "Vorjafndægri", "category": "seasonal" },
+
+  { "name": "Maundy Thursday", "date": "2026-04-02", "localName": "Skírdagur", "category": "public_holiday" },
+  { "name": "Good Friday", "date": "2026-04-03", "localName": "Föstudagurinn langi", "category": "public_holiday" },
+  { "name": "Easter Sunday", "date": "2026-04-05", "localName": "Páskadagur", "category": "public_holiday" },
+  { "name": "Easter Monday", "date": "2026-04-06", "localName": "Annar í páskum", "category": "public_holiday" },
+  { "name": "First Day of Summer", "date": "2026-04-23", "localName": "Sumardagurinn fyrsti", "category": "public_holiday" },
+
+  { "name": "Workers' Day", "date": "2026-05-01", "localName": "Verkalýðsdagurinn", "category": "public_holiday" },
+  { "name": "Mother's Day", "date": "2026-05-10", "localName": "Mæðradagurinn", "category": "observance" },
+  { "name": "Ascension Day", "date": "2026-05-14", "localName": "Uppstigningardagur", "category": "public_holiday" },
+  { "name": "Whit Sunday (Pentecost)", "date": "2026-05-24", "localName": "Hvítasunnudagur", "category": "public_holiday" },
+  { "name": "Whit Monday", "date": "2026-05-25", "localName": "Annar í hvítasunnu", "category": "public_holiday" },
+
+  { "name": "Fishermen's Day", "date": "2026-06-07", "localName": "Sjómannadagurinn", "category": "cultural" },
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "Sumarsólstöður", "category": "seasonal" },
+  { "name": "Independence Day", "date": "2026-06-17", "localName": "Þjóðhátíðardagurinn", "category": "public_holiday" },
+  { "name": "Jónsmessa (Midsummer Eve)", "date": "2026-06-24", "localName": "Jónsmessa", "category": "cultural" },
+
+  { "name": "Commerce Day (Verslunarmannahelgi)", "date": "2026-08-03", "localName": "Frídagur verslunarmanna", "category": "public_holiday" },
+
+  { "name": "Réttir (Sheep Round-up)", "date": "2026-09-12", "localName": "Réttir", "category": "cultural" },
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "Haustjafndægri", "category": "seasonal" },
+
+  { "name": "Father's Day", "date": "2026-11-08", "localName": "Feðradagurinn", "category": "observance" },
+
+  { "name": "December Solstice", "date": "2026-12-21", "localName": "Vetrarsólstöður", "category": "seasonal" },
+  { "name": "Christmas Eve (afternoon holiday)", "date": "2026-12-24", "localName": "Aðfangadagskvöld", "category": "public_holiday" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Jóladagur", "category": "public_holiday" },
+  { "name": "Second Day of Christmas", "date": "2026-12-26", "localName": "Annar í jólum", "category": "public_holiday" },
+  { "name": "New Year's Eve (afternoon holiday)", "date": "2026-12-31", "localName": "Gamlársdagur", "category": "public_holiday" }
 ]

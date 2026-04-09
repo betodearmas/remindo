@@ -1,11 +1,33 @@
 [
-  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Naujųjų metų diena" },
-  { "name": "Restoration of the State Day", "date": "2026-02-16", "localName": "Valstybės atkūrimo diena" },
-  { "name": "Restoration of Independence Day", "date": "2026-03-11", "localName": "Nepriklausomybės atkūrimo diena" },
-  { "name": "Easter Monday", "date": "2026-04-06", "localName": "Velykų antroji diena" },
-  { "name": "Labour Day", "date": "2026-05-01", "localName": "Tarptautinė darbo diena" },
-  { "name": "Statehood Day", "date": "2026-07-06", "localName": "Valstybės diena" },
-  { "name": "All Saints' Day", "date": "2026-11-01", "localName": "Visų šventųjų diena" },
-  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Kalėdos" },
-  { "name": "Second Day of Christmas", "date": "2026-12-26", "localName": "Antroji Kalėdų diena" }
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "Naujųjų metų diena", "category": "public_holiday" },
+
+  { "name": "Independence Day (Restoration of the State)", "date": "2026-02-16", "localName": "Valstybės atkūrimo diena", "category": "public_holiday" },
+
+  { "name": "Restoration of Independence Day", "date": "2026-03-11", "localName": "Nepriklausomybės atkūrimo diena", "category": "public_holiday" },
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "Pavasario lygiadienis", "category": "seasonal" },
+
+  { "name": "Easter Sunday", "date": "2026-04-05", "localName": "Velykos", "category": "public_holiday" },
+  { "name": "Easter Monday", "date": "2026-04-06", "localName": "Velykų antroji diena", "category": "public_holiday" },
+
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "Tarptautinė darbo diena", "category": "public_holiday" },
+  { "name": "Mothers' Day", "date": "2026-05-03", "localName": "Motinos diena", "category": "public_holiday" },
+
+  { "name": "Fathers' Day", "date": "2026-06-07", "localName": "Tėvo diena", "category": "public_holiday" },
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "Vasaros saulėgrįža", "category": "seasonal" },
+  { "name": "St John's Day (Midsummer)", "date": "2026-06-24", "localName": "Joninės", "category": "public_holiday" },
+
+  { "name": "Statehood Day (King Mindaugas' Coronation Day)", "date": "2026-07-06", "localName": "Valstybės diena", "category": "public_holiday" },
+
+  { "name": "Assumption of Mary", "date": "2026-08-15", "localName": "Žolinė", "category": "public_holiday" },
+
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "Rudens lygiadienis", "category": "seasonal" },
+
+  { "name": "All Saints' Day", "date": "2026-11-01", "localName": "Visų šventųjų diena", "category": "public_holiday" },
+  { "name": "All Souls' Day", "date": "2026-11-02", "localName": "Vėlinės", "category": "public_holiday" },
+
+  { "name": "December Solstice", "date": "2026-12-21", "localName": "Žiemos saulėgrįža", "category": "seasonal" },
+  { "name": "Christmas Eve", "date": "2026-12-24", "localName": "Šv. Kūčios", "category": "public_holiday" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "Šv. Kalėdos", "category": "public_holiday" },
+  { "name": "Second Day of Christmas", "date": "2026-12-26", "localName": "Šv. Kalėdų antroji diena", "category": "public_holiday" },
+  { "name": "New Year's Eve", "date": "2026-12-31", "localName": "Naujųjų metų išvakarės", "category": "observance" }
 ]

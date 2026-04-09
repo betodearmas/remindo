@@ -1,13 +1,17 @@
 [
+  { "name": "Pioneers Day", "date": "2026-01-07", "localName": "Pioneers Day", "category": "international_observance" }
   { "name": "International Day of Commemoration in Memory of the Victims of the Holocaust", "date": "2026-01-27", "localName": "International Holocaust Remembrance Day", "category": "international_observance" },
+  
   { "name": "World Interfaith Harmony Week", "date": "2026-02-01", "localName": "World Interfaith Harmony Week", "category": "international_observance" },
   { "name": "World Wetlands Day", "date": "2026-02-02", "localName": "World Wetlands Day", "category": "awareness" },
   { "name": "World Cancer Day", "date": "2026-02-04", "localName": "World Cancer Day", "category": "awareness" },
   { "name": "International Day of Zero Tolerance to Female Genital Mutilation", "date": "2026-02-06", "localName": "International Day of Zero Tolerance to FGM", "category": "awareness" },
   { "name": "International Day of Women and Girls in Science", "date": "2026-02-11", "localName": "International Day of Women and Girls in Science", "category": "international_observance" },
   { "name": "World Radio Day", "date": "2026-02-13", "localName": "World Radio Day", "category": "international_observance" },
+  { "name": "Valentine's Day", "date": "2026-02-14", "localName": "Valentino diena", "category": "observance" },
   { "name": "World Day of Social Justice", "date": "2026-02-20", "localName": "World Day of Social Justice", "category": "international_observance" },
   { "name": "International Mother Language Day", "date": "2026-02-21", "localName": "International Mother Language Day", "category": "international_observance" },
+  
   { "name": "Zero Discrimination Day", "date": "2026-03-01", "localName": "Zero Discrimination Day", "category": "awareness" },
   { "name": "World Wildlife Day", "date": "2026-03-03", "localName": "World Wildlife Day", "category": "international_observance" },
   { "name": "International Women's Day", "date": "2026-03-08", "localName": "International Women's Day", "category": "international_observance" },
@@ -23,6 +27,8 @@
   { "name": "World Tuberculosis Day", "date": "2026-03-24", "localName": "World Tuberculosis Day", "category": "awareness" },
   { "name": "International Day for the Right to the Truth concerning Gross Human Rights Violations", "date": "2026-03-24", "localName": "International Day for the Right to the Truth", "category": "international_observance" },
   { "name": "International Day of Remembrance of the Victims of Slavery and the Transatlantic Slave Trade", "date": "2026-03-25", "localName": "International Day of Remembrance of Victims of Slavery", "category": "international_observance" },
+  
+  
   { "name": "World Autism Awareness Day", "date": "2026-04-02", "localName": "World Autism Awareness Day", "category": "awareness" },
   { "name": "International Day for Mine Awareness", "date": "2026-04-04", "localName": "International Day for Mine Awareness", "category": "international_observance" },
   { "name": "International Day of Sport for Development and Peace", "date": "2026-04-06", "localName": "International Day of Sport for Development and Peace", "category": "international_observance" },
@@ -39,6 +45,9 @@
   { "name": "World Day for Safety and Health at Work", "date": "2026-04-28", "localName": "World Day for Safety and Health at Work", "category": "international_observance" },
   { "name": "Day of Remembrance for All Victims of Chemical Warfare", "date": "2026-04-29", "localName": "Day of Remembrance for All Victims of Chemical Warfare", "category": "international_observance" },
   { "name": "International Jazz Day", "date": "2026-04-30", "localName": "International Jazz Day", "category": "international_observance" },
+  
+  
+  { "name": "International Workers' Day", "date": "2026-05-01", "localName": "International Workers' Day", "category": "public_holiday" },
   { "name": "World Press Freedom Day", "date": "2026-05-03", "localName": "World Press Freedom Day", "category": "international_observance" },
   { "name": "International Midwives' Day", "date": "2026-05-05", "localName": "International Midwives' Day", "category": "international_observance" },
   { "name": "Time of Remembrance and Reconciliation — WWII", "date": "2026-05-08", "localName": "Time of Remembrance and Reconciliation for WWII Victims", "category": "international_observance" },
@@ -50,7 +59,10 @@
   { "name": "Africa Day", "date": "2026-05-25", "localName": "Africa Day", "category": "international_observance" },
   { "name": "International Day of United Nations Peacekeepers", "date": "2026-05-29", "localName": "International Day of UN Peacekeepers", "category": "international_observance" },
   { "name": "World No-Tobacco Day", "date": "2026-05-31", "localName": "World No-Tobacco Day", "category": "awareness" },
+  
+  
   { "name": "Global Day of Parents", "date": "2026-06-01", "localName": "Global Day of Parents", "category": "international_observance" },
+  { "name": "International Children's Day", "date": "2026-06-01", "localName": "International Childrens' Day", "category": "public_holiday" },
   { "name": "International Day of Innocent Children Victims of Aggression", "date": "2026-06-04", "localName": "International Day of Innocent Children Victims of Aggression", "category": "international_observance" },
   { "name": "World Environment Day", "date": "2026-06-05", "localName": "World Environment Day", "category": "international_observance" },
   { "name": "UN Russian Language Day", "date": "2026-06-06", "localName": "UN Russian Language Day", "category": "international_observance" },
@@ -70,18 +82,24 @@
   { "name": "UN International Day in Support of Victims of Torture", "date": "2026-06-26", "localName": "UN International Day in Support of Victims of Torture", "category": "international_observance" },
   { "name": "International Day of Friendship", "date": "2026-06-30", "localName": "International Day of Friendship", "category": "international_observance" },
   { "name": "International Asteroid Day", "date": "2026-06-30", "localName": "International Asteroid Day", "category": "international_observance" },
+  
+  
   { "name": "International Day of Cooperatives", "date": "2026-07-04", "localName": "International Day of Cooperatives", "category": "international_observance" },
   { "name": "World Population Day", "date": "2026-07-11", "localName": "World Population Day", "category": "international_observance" },
   { "name": "World Youth Skills Day", "date": "2026-07-15", "localName": "World Youth Skills Day", "category": "international_observance" },
   { "name": "Nelson Mandela International Day", "date": "2026-07-18", "localName": "Nelson Mandela International Day", "category": "international_observance" },
   { "name": "World Hepatitis Day", "date": "2026-07-28", "localName": "World Hepatitis Day", "category": "awareness" },
   { "name": "World Day against Trafficking in Persons", "date": "2026-07-30", "localName": "World Day against Trafficking in Persons", "category": "awareness" },
+  
+  
   { "name": "International Day of the World's Indigenous Peoples", "date": "2026-08-09", "localName": "International Day of the World's Indigenous Peoples", "category": "international_observance" },
   { "name": "International Youth Day", "date": "2026-08-12", "localName": "International Youth Day", "category": "international_observance" },
   { "name": "World Humanitarian Day", "date": "2026-08-19", "localName": "World Humanitarian Day", "category": "international_observance" },
   { "name": "International Day for the Remembrance of the Slave Trade and Its Abolition", "date": "2026-08-23", "localName": "International Day for the Remembrance of the Slave Trade", "category": "international_observance" },
   { "name": "International Day against Nuclear Tests", "date": "2026-08-29", "localName": "International Day against Nuclear Tests", "category": "international_observance" },
   { "name": "International Day of the Victims of Enforced Disappearances", "date": "2026-08-30", "localName": "International Day of the Victims of Enforced Disappearances", "category": "awareness" },
+  
+  
   { "name": "International Day of Charity", "date": "2026-09-05", "localName": "International Day of Charity", "category": "international_observance" },
   { "name": "International Literacy Day", "date": "2026-09-08", "localName": "International Literacy Day", "category": "international_observance" },
   { "name": "World Suicide Prevention Day", "date": "2026-09-10", "localName": "World Suicide Prevention Day", "category": "awareness" },
@@ -93,6 +111,8 @@
   { "name": "World Tourism Day", "date": "2026-09-27", "localName": "World Tourism Day", "category": "international_observance" },
   { "name": "World Rabies Day", "date": "2026-09-28", "localName": "World Rabies Day", "category": "awareness" },
   { "name": "World Heart Day", "date": "2026-09-29", "localName": "World Heart Day", "category": "awareness" },
+  
+  
   { "name": "International Day of Older Persons", "date": "2026-10-01", "localName": "International Day of Older Persons", "category": "international_observance" },
   { "name": "International Day of Non-Violence", "date": "2026-10-02", "localName": "International Day of Non-Violence", "category": "international_observance" },
   { "name": "World Habitat Day", "date": "2026-10-05", "localName": "World Habitat Day", "category": "international_observance" },
@@ -109,7 +129,10 @@
   { "name": "United Nations Day", "date": "2026-10-24", "localName": "United Nations Day", "category": "international_observance" },
   { "name": "World Development Information Day", "date": "2026-10-24", "localName": "World Development Information Day", "category": "international_observance" },
   { "name": "World Day for Audiovisual Heritage", "date": "2026-10-27", "localName": "World Day for Audiovisual Heritage", "category": "international_observance" },
+  { "name": "Halloween", "date": "2026-10-31", "localName": "Helovinas", "category": "observance" }
   { "name": "World Cities Day", "date": "2026-10-31", "localName": "World Cities Day", "category": "international_observance" },
+  
+  
   { "name": "International Day to End Impunity for Crimes against Journalists", "date": "2026-11-02", "localName": "International Day to End Impunity for Crimes against Journalists", "category": "awareness" },
   { "name": "World Tsunami Awareness Day", "date": "2026-11-05", "localName": "World Tsunami Awareness Day", "category": "awareness" },
   { "name": "International Day for Preventing Exploitation of the Environment in War", "date": "2026-11-06", "localName": "International Day for Preventing Exploitation of the Environment in War", "category": "international_observance" },
@@ -125,6 +148,8 @@
   { "name": "World Television Day", "date": "2026-11-21", "localName": "World Television Day", "category": "international_observance" },
   { "name": "International Day for the Elimination of Violence against Women", "date": "2026-11-25", "localName": "International Day for the Elimination of Violence against Women", "category": "awareness" },
   { "name": "International Day of Solidarity with the Palestinian People", "date": "2026-11-29", "localName": "International Day of Solidarity with the Palestinian People", "category": "international_observance" },
+  
+  
   { "name": "World AIDS Day", "date": "2026-12-01", "localName": "World AIDS Day", "category": "awareness" },
   { "name": "International Day for the Abolition of Slavery", "date": "2026-12-02", "localName": "International Day for the Abolition of Slavery", "category": "international_observance" },
   { "name": "International Day of Persons with Disabilities", "date": "2026-12-03", "localName": "International Day of Persons with Disabilities", "category": "awareness" },

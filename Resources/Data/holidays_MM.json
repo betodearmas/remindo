@@ -1,9 +1,47 @@
 [
-  { "name": "New Year's Day", "date": "2026-01-01", "localName": "နှစ်သစ်ကူးနေ့" },
-  { "name": "Independence Day", "date": "2026-01-04", "localName": "လွတ်လပ်ရေးနေ့" },
-  { "name": "Union Day", "date": "2026-02-12", "localName": "ပြည်ထောင်စုနေ့" },
-  { "name": "Armed Forces Day", "date": "2026-03-27", "localName": "တပ်မတော်နေ့" },
-  { "name": "Labour Day", "date": "2026-05-01", "localName": "အလုပ်သမားနေ့" },
-  { "name": "Martyrs' Day", "date": "2026-07-19", "localName": "အာဇာနည်နေ့" },
-  { "name": "Christmas Day", "date": "2026-12-25", "localName": "ခရစ္စမတ်နေ့" }
+  { "name": "New Year's Day", "date": "2026-01-01", "localName": "နှစ်သစ်ကူးနေ့", "category": "public_holiday" },
+  { "name": "New Year's Day Holiday", "date": "2026-01-02", "localName": "နှစ်သစ်ကူးနေ့ (အပိုရက်)", "category": "public_holiday" },
+  { "name": "Independence Day", "date": "2026-01-04", "localName": "လွတ်လပ်ရေးနေ့", "category": "public_holiday" },
+
+  { "name": "Union Day", "date": "2026-02-12", "localName": "ပြည်ထောင်စုနေ့", "category": "public_holiday" },
+  { "name": "Union Day Holiday", "date": "2026-02-13", "localName": "ပြည်ထောင်စုနေ့ (အပိုရက်)", "category": "public_holiday" },
+  { "name": "Chinese New Year", "date": "2026-02-16", "localName": "တရုတ်နှစ်သစ်ကူး", "category": "public_holiday" },
+  { "name": "Chinese New Year Holiday", "date": "2026-02-17", "localName": "တရုတ်နှစ်သစ်ကူး (အပိုရက်)", "category": "public_holiday" },
+
+  { "name": "Peasants' Day", "date": "2026-03-02", "localName": "တောင်သူလယ်သမားနေ့", "category": "public_holiday" },
+  { "name": "Full Moon Day of Tabaung", "date": "2026-03-02", "localName": "တပေါင်းလပြည့်နေ့", "category": "public_holiday" },
+  { "name": "March Equinox", "date": "2026-03-20", "localName": "နွေဦးရာသီ", "category": "seasonal" },
+  { "name": "Armed Forces' Day", "date": "2026-03-27", "localName": "တပ်မတော်နေ့", "category": "public_holiday" },
+
+  { "name": "Maha Thingyan Water Festival (Day 1)", "date": "2026-04-11", "localName": "သင်္ကြန်", "category": "cultural" },
+  { "name": "Maha Thingyan Water Festival (Day 2)", "date": "2026-04-12", "localName": "သင်္ကြန်", "category": "cultural" },
+  { "name": "Maha Thingyan Water Festival (Day 3)", "date": "2026-04-13", "localName": "သင်္ကြန်", "category": "cultural" },
+  { "name": "Maha Thingyan Water Festival (Day 4)", "date": "2026-04-14", "localName": "သင်္ကြန်", "category": "cultural" },
+  { "name": "Maha Thingyan Water Festival (Day 5)", "date": "2026-04-15", "localName": "သင်္ကြန်", "category": "cultural" },
+  { "name": "Maha Thingyan Water Festival (Day 6)", "date": "2026-04-16", "localName": "သင်္ကြန်", "category": "cultural" },
+  { "name": "Maha Thingyan Water Festival (Day 7)", "date": "2026-04-17", "localName": "သင်္ကြန်", "category": "cultural" },
+  { "name": "Maha Thingyan Water Festival (Day 8)", "date": "2026-04-18", "localName": "သင်္ကြန်", "category": "cultural" },
+  { "name": "Maha Thingyan Water Festival (Day 9)", "date": "2026-04-19", "localName": "မြန်မာနှစ်သစ်ကူး", "category": "cultural" },
+  { "name": "Full Moon Day of Kasong", "date": "2026-04-30", "localName": "ကဆုန်လပြည့်နေ့", "category": "religious" },
+
+  { "name": "Labour Day", "date": "2026-05-01", "localName": "အလုပ်သမားနေ့", "category": "public_holiday" },
+
+  { "name": "June Solstice", "date": "2026-06-21", "localName": "နွေရာသီ", "category": "seasonal" },
+
+  { "name": "Martyrs' Day", "date": "2026-07-19", "localName": "အာဇာနည်နေ့", "category": "public_holiday" },
+  { "name": "Full Moon Day of Waso (Beginning of Buddhist Lent)", "date": "2026-07-29", "localName": "ဝါဆိုလပြည့်နေ့", "category": "religious" },
+
+  { "name": "September Equinox", "date": "2026-09-23", "localName": "ဆောင်းဦးရာသီ", "category": "seasonal" },
+
+  { "name": "Full Moon Day of Thadingyut (End of Buddhist Lent)", "date": "2026-10-25", "localName": "သီတင်းကျွတ်လပြည့်နေ့", "category": "religious" },
+  { "name": "Thadingyut Holiday (Day 2)", "date": "2026-10-26", "localName": "သီတင်းကျွတ် (ဒုတိယနေ့)", "category": "public_holiday" },
+  { "name": "Thadingyut Holiday (Day 3)", "date": "2026-10-27", "localName": "သီတင်းကျွတ် (တတိယနေ့)", "category": "public_holiday" },
+
+  { "name": "Diwali", "date": "2026-11-08", "localName": "ဒီဝါလီ", "category": "observance" }
+  { "name": "Full Moon Day of Tazaungmone", "date": "2026-11-23", "localName": "တန်ဆောင်မုန်းလပြည့်နေ့", "category": "religious" },
+  { "name": "Full Moon Day of Tazaungmone Holiday", "date": "2026-11-24", "localName": "တန်ဆောင်မုန်း (အပိုရက်)", "category": "public_holiday" },
+
+  { "name": "National Day", "date": "2026-12-04", "localName": "အမျိုးသားနေ့", "category": "public_holiday" },
+  { "name": "December Solstice", "date": "2026-12-22", "localName": "ဆောင်းရာသီ", "category": "seasonal" },
+  { "name": "Christmas Day", "date": "2026-12-25", "localName": "ခရစ္စမတ်နေ့", "category": "public_holiday" }
 ]
